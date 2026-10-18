@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-18T17:31:22.846Z",
+  "updatedAt": "2026-10-18T18:01:26.122Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -2636,7 +2636,7 @@
         "direction": "long",
         "entryDate": "2026-06-16",
         "exitPrice": 0.8532219696,
-        "lastPrice": 0.7673208273,
+        "lastPrice": 0.7683321555,
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 61)",
           "Research grade B- (55/100 percentile)",
@@ -2723,7 +2723,7 @@
         "direction": "long",
         "entryDate": "2026-06-16",
         "exitPrice": 1074.89,
-        "lastPrice": 878.840027,
+        "lastPrice": 878.84,
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 55)",
           "Research grade B (65/100 percentile)",
@@ -2764,7 +2764,7 @@
         "regimeAtEntry": "unclassified",
         "couldHaveWorked": "Position still open â outcome pending.",
         "decisionReceipt": null,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [
           "meanReversion"
         ],
@@ -4485,7 +4485,7 @@
         "direction": "long",
         "entryDate": "2026-06-18",
         "exitPrice": 1074.89,
-        "lastPrice": 878.840027,
+        "lastPrice": 878.84,
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 52)",
           "Research grade B (67/100 percentile)",
@@ -4619,7 +4619,7 @@
           ],
           "couldHaveDoneBetter": "Clean win — sizing, timing, and exit aligned with the signals."
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [
           "meanReversion"
         ],
@@ -5064,9 +5064,9 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 0.211,
-        "lastPriceSource": "github",
-        "returnPct": -2.78,
+        "lastPrice": 0.2111,
+        "lastPriceSource": "finnhub",
+        "returnPct": -2.83,
         "pnl": 0,
         "partialSells": [
           {
@@ -6955,12 +6955,12 @@
         },
         "_trained": true,
         "_fromRepo": true,
-        "lastPrice": 224.990005,
-        "lastPriceSource": "github",
+        "lastPrice": 224.99,
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-18",
-          "price": 224.990005
+          "price": 224.99
         },
         "realizedPL": 0,
         "won": false,
@@ -7244,12 +7244,12 @@
         },
         "_trained": true,
         "_fromRepo": true,
-        "lastPrice": 186.029999,
-        "lastPriceSource": "github",
+        "lastPrice": 186.03,
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-18",
-          "price": 186.029999
+          "price": 186.03
         },
         "realizedPL": 0,
         "won": false,
@@ -7346,12 +7346,12 @@
         },
         "_trained": true,
         "_fromRepo": true,
-        "lastPrice": 529.049988,
-        "lastPriceSource": "github",
+        "lastPrice": 529.05,
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-18",
-          "price": 529.049988
+          "price": 529.05
         },
         "realizedPL": 0,
         "won": false,
@@ -7540,12 +7540,12 @@
         },
         "_trained": true,
         "_fromRepo": true,
-        "lastPrice": 878.840027,
-        "lastPriceSource": "github",
+        "lastPrice": 878.84,
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-18",
-          "price": 878.840027
+          "price": 878.84
         },
         "realizedPL": 0,
         "won": false,
@@ -7636,8 +7636,8 @@
         },
         "_trained": true,
         "_fromRepo": true,
-        "lastPrice": 26.809999,
-        "lastPriceSource": "github",
+        "lastPrice": 26.81,
+        "lastPriceSource": "finnhub",
         "realizedPL": 0,
         "won": false,
         "trims": [],
@@ -7728,8 +7728,8 @@
         },
         "_trained": true,
         "_fromRepo": true,
-        "lastPrice": 207.820007,
-        "lastPriceSource": "github",
+        "lastPrice": 207.82,
+        "lastPriceSource": "finnhub",
         "realizedPL": 0,
         "won": false,
         "trims": [],
@@ -7903,7 +7903,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "leveragedEtfMultiplier": null
       },
       {
@@ -8268,7 +8268,7 @@
       },
       {
         "id": "SOS-2026-10-09-1791533157298-1",
-        "pnl": 2270.8,
+        "pnl": 2268.45,
         "_via": "app-adopt",
         "name": "SOS Limited",
         "hedge": true,
@@ -8286,7 +8286,7 @@
         "direction": "short",
         "entryDate": "2026-10-09",
         "exitPrice": null,
-        "lastPrice": 0.211,
+        "lastPrice": 0.2111,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 42)",
           "Research grade D+ (27/100 percentile)",
@@ -8299,7 +8299,7 @@
           "-66.5pp vs Financial Services peers (n=12)",
           "Fed easing (-15bps)"
         ],
-        "returnPct": 31.49,
+        "returnPct": 31.46,
         "stopPrice": 0.39,
         "updatedAt": "2026-10-17T00:17:26.610Z",
         "components": {
@@ -8441,7 +8441,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "leveragedEtfMultiplier": null
       },
       {
@@ -8831,7 +8831,7 @@
       },
       {
         "date": "2026-10-18",
-        "value": 99025.03
+        "value": 99027.7
       }
     ],
     "transactions": [
@@ -9227,7 +9227,7 @@
         "origin": "runner"
       }
     ],
-    "runnerBankroll": 115328.47
+    "runnerBankroll": 118163.6
   },
   "botWeights": {},
   "reviewQueue": [],
@@ -13480,6 +13480,6 @@
       "realizedPL": 0
     }
   ],
-  "cashPosition": 70150,
+  "cashPosition": 94640,
   "savedValuations": null
 }
