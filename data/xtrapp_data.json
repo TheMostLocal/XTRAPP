@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-19T22:57:55.067Z",
+  "updatedAt": "2026-10-19T23:28:55.721Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -22,7 +22,8 @@
       "winner": 1,
       "outperform": 2,
       "beat": 1,
-      "loading up": 3
+      "loading up": 3,
+      "surge": 3
     },
     "bear": {
       "sell": 2,
@@ -217,49 +218,41 @@
       "impact": null,
       "stats": null,
       "editedAt": "2026-06-22T04:22:33.360Z"
+    },
+    "https://finnhub.io/api/news?id=fa69fc8000049deee244f45ce89b56b001c6c1c2df31ee60616bdbf8d43bd682": {
+      "verdict": "fixed",
+      "tickers": [
+        "SPY"
+      ],
+      "originalTicker": "HUM",
+      "headline": "Discover which S&P500 stocks are making waves on Friday.",
+      "ts": 1791576441017,
+      "note": null,
+      "fixHeadline": "Discover which S&P500 stocks are making waves on Friday.",
+      "fixSummary": "Stay updated with the movements of the S&P500 index one hour before the close of the markets on Friday. Discover which stocks are leading as top gainers and losers in today's session.",
+      "sentiment": null,
+      "impact": null,
+      "stats": null,
+      "editedAt": "2026-10-09T20:07:21.017Z"
+    },
+    "https://finnhub.io/api/news?id=1fa9f1c674574e0933237001e1e66d77711e406a331cd57995c1136d4894f80d": {
+      "verdict": "fixed",
+      "tickers": [
+        "SPY"
+      ],
+      "originalTicker": "NVDA",
+      "headline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+      "ts": 1791576470718,
+      "note": null,
+      "fixHeadline": "Explore the S&P500 index on Friday and find out which stocks are the most active in today's session.",
+      "fixSummary": "Stay informed about the most active stocks in the S&P500 index on Friday's session. Discover the stocks that are generating the highest trading volume and driving market activity.",
+      "sentiment": null,
+      "impact": null,
+      "stats": null,
+      "editedAt": "2026-10-09T20:07:50.718Z"
     }
   },
-  "theses": [
-    {
-      "id": "t1792449969190",
-      "ticker": "NVDA",
-      "strike": 300,
-      "direction": "above",
-      "initialDays": 90,
-      "createdAt": "2026-10-19T22:46:09.190Z",
-      "targetDate": "2027-01-17T22:46:09.190Z",
-      "manualPrior": 0.5,
-      "weights": {
-        "ai": 0.35,
-        "hist": 0.18,
-        "val": 0.18,
-        "macro": 0.09,
-        "cross": 0.1,
-        "manual": 0.1
-      },
-      "createdProb": 0.1380336116803032,
-      "createdPrice": 217.09,
-      "status": "active",
-      "snapshots": [
-        {
-          "t": "2026-10-19T22:46:27.102Z",
-          "p": 0.1380336116803032,
-          "price": 217.09
-        }
-      ],
-      "source": "import",
-      "sourceText": "NVDA to $300",
-      "sourceAuthor": "imported",
-      "sourcePostedAt": "2027-01-19T00:00:00.000Z",
-      "probTimeline": [
-        {
-          "date": "2026-10-19",
-          "prob": 0.1380336116803032,
-          "price": 217.09
-        }
-      ]
-    }
-  ],
+  "theses": [],
   "bot": {
     "bankroll": 118163.6,
     "startedAt": "2026-06-22",
@@ -9362,7 +9355,7 @@
         "_runnerSynced": true
       }
     ],
-    "lastRunDate": "2026-10-14",
+    "lastRunDate": "2026-10-15",
     "benchmarkStart": 746.73999,
     "equityCurve": [
       {
@@ -9375,16 +9368,28 @@
         "value": 100921.63
       },
       {
-        "date": "2026-10-04",
-        "value": 104852.45
+        "date": "2026-10-08",
+        "value": 105629.9
       },
       {
-        "date": "2026-10-05",
-        "value": 104852.45
+        "date": "2026-10-09",
+        "value": 101513.13
       },
       {
-        "date": "2026-10-14",
-        "value": 98545.07
+        "date": "2026-10-11",
+        "value": 101511.07
+      },
+      {
+        "date": "2026-10-15",
+        "value": 106376.42
+      },
+      {
+        "date": "2026-10-16",
+        "value": 101619.18
+      },
+      {
+        "date": "2026-10-17",
+        "value": 99507.65
       },
       {
         "date": "2026-10-18",
@@ -9392,7 +9397,7 @@
       },
       {
         "date": "2026-10-19",
-        "value": 98982.5
+        "value": 106798.09
       }
     ],
     "transactions": [
@@ -9410,10 +9415,10 @@
         "origin": "runner"
       }
     ],
-    "runnerBankroll": 118163.6,
+    "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-19T19:15:39.541597+00:00",
-    "mirroredAt": "2026-10-19T22:56:55.215Z"
+    "mirroredAt": "2026-10-19T23:28:02.027Z"
   },
   "botWeights": {},
   "reviewQueue": [
@@ -13515,7 +13520,6 @@
       "_source": "modal"
     },
     {
-      "id": "TSM-legacy-6-2026-06-22",
       "qty": null,
       "fees": 0,
       "name": "Taiwan Semiconductor Manufacturing Company Limited",
@@ -13525,15 +13529,13 @@
       "ticker": "TSM",
       "_source": "modal",
       "addedAt": "2026-06-22T12:00:00.000Z",
-      "avgCost": 462.12,
-      "openDate": "2026-06-22T12:00:00.000Z",
       "position": "Watching",
       "costBasis": 462.12,
       "livePrice": 462.12,
-      "open_date": "2026-06-22T12:00:00.000Z",
       "returnPct": 0,
       "assetClass": "equity",
-      "conviction": 52
+      "conviction": 52,
+      "id": "TSM-legacy-6-2026-06-22"
     }
   ],
   "transactions": [
@@ -13570,6 +13572,56 @@
       "notes": "Good entry"
     },
     {
+      "id": "tx-1782171181417-akuyl",
+      "ts": "2026-06-22T23:33:01.417Z",
+      "type": "sell",
+      "ticker": "SNK",
+      "qty": 2000,
+      "price": 21.16,
+      "fee": 0,
+      "proceeds": 42320,
+      "realizedPL": 10379.999999999998,
+      "realizedPLPct": 32.49843456480902,
+      "entryId": "SNK-1781937967070-uogkm",
+      "entryDate": "2026-06-20T12:00:00.000Z",
+      "entryPrice": 15.97,
+      "soldDate": "2026-06-22T23:33:01.411Z",
+      "notes": null,
+      "positionNotes": [
+        {
+          "ts": "2026-06-20T12:00:00.000Z",
+          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
+          "priceAtNote": 15.97,
+          "backdated": false
+        }
+      ]
+    },
+    {
+      "id": "tx-1791575323589-7xhrj",
+      "ts": "2026-10-09T19:48:43.589Z",
+      "type": "sell",
+      "ticker": "SNK",
+      "qty": 2000,
+      "price": 12.245,
+      "fee": 0,
+      "proceeds": 24490,
+      "realizedPL": -7450.000000000003,
+      "realizedPLPct": -23.324984345648097,
+      "entryId": "SNK-1781937967070-uogkm",
+      "entryDate": "2026-06-20T12:00:00.000Z",
+      "entryPrice": 15.97,
+      "soldDate": "2026-10-09T19:48:43.589Z",
+      "notes": null,
+      "positionNotes": [
+        {
+          "ts": "2026-06-20T12:00:00.000Z",
+          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
+          "priceAtNote": 15.97,
+          "backdated": false
+        }
+      ]
+    },
+    {
       "id": "txn:tx-1782171181417-akuyl",
       "ts": "2026-06-22T23:33:01.417Z",
       "fee": 0,
@@ -13596,38 +13648,6 @@
         }
       ],
       "realizedPLPct": 32.49843456480902
-    },
-    {
-      "id": "txn:tx-1791575323589-7xhrj",
-      "ts": "2026-10-09T19:48:43.589Z",
-      "fee": 0,
-      "qty": 2000,
-      "date": "2026-10-09T19:48:43.589Z",
-      "type": "sell",
-      "notes": null,
-      "price": 12.245,
-      "action": "sell",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1781937967070-uogkm",
-      "proceeds": 24490,
-      "soldDate": "2026-10-09T19:48:43.589Z",
-      "entryDate": "2026-06-20T12:00:00.000Z",
-      "entryPrice": 15.97,
-      "realizedPL": -7450.000000000003,
-      "positionNotes": [
-        {
-          "ts": "2026-06-20T12:00:00.000Z",
-          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
-          "backdated": false,
-          "priceAtNote": 15.97
-        }
-      ],
-      "realizedPLPct": -23.324984345648097,
-      "void": true,
-      "voidedAt": "2026-10-18T17:25:48.509Z",
-      "voidReason": "oversell: sold 2000 more than the ledger held",
-      "cashReversed": -24490
     },
     {
       "id": "txn:tx-1782171181419-e8595",
@@ -13681,6 +13701,34 @@
       "entryDate": "2025-12-30T12:00:00.000Z",
       "entryPrice": 273.08,
       "realizedPL": 0
+    },
+    {
+      "id": "txn:tx-1791575323589-7xhrj",
+      "ts": "2026-10-09T19:48:43.589Z",
+      "fee": 0,
+      "qty": 2000,
+      "date": "2026-10-09T19:48:43.589Z",
+      "type": "sell",
+      "notes": null,
+      "price": 12.245,
+      "action": "sell",
+      "shares": 2000,
+      "ticker": "SNK",
+      "entryId": "SNK-1781937967070-uogkm",
+      "proceeds": 24490,
+      "soldDate": "2026-10-09T19:48:43.589Z",
+      "entryDate": "2026-06-20T12:00:00.000Z",
+      "entryPrice": 15.97,
+      "realizedPL": -7450.000000000003,
+      "positionNotes": [
+        {
+          "ts": "2026-06-20T12:00:00.000Z",
+          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
+          "backdated": false,
+          "priceAtNote": 15.97
+        }
+      ],
+      "realizedPLPct": -23.324984345648097
     }
   ],
   "cashPosition": 94640,
