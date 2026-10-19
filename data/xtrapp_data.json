@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-19T22:36:23.784Z",
+  "updatedAt": "2026-10-19T22:57:55.067Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -219,7 +219,47 @@
       "editedAt": "2026-06-22T04:22:33.360Z"
     }
   },
-  "theses": [],
+  "theses": [
+    {
+      "id": "t1792449969190",
+      "ticker": "NVDA",
+      "strike": 300,
+      "direction": "above",
+      "initialDays": 90,
+      "createdAt": "2026-10-19T22:46:09.190Z",
+      "targetDate": "2027-01-17T22:46:09.190Z",
+      "manualPrior": 0.5,
+      "weights": {
+        "ai": 0.35,
+        "hist": 0.18,
+        "val": 0.18,
+        "macro": 0.09,
+        "cross": 0.1,
+        "manual": 0.1
+      },
+      "createdProb": 0.1380336116803032,
+      "createdPrice": 217.09,
+      "status": "active",
+      "snapshots": [
+        {
+          "t": "2026-10-19T22:46:27.102Z",
+          "p": 0.1380336116803032,
+          "price": 217.09
+        }
+      ],
+      "source": "import",
+      "sourceText": "NVDA to $300",
+      "sourceAuthor": "imported",
+      "sourcePostedAt": "2027-01-19T00:00:00.000Z",
+      "probTimeline": [
+        {
+          "date": "2026-10-19",
+          "prob": 0.1380336116803032,
+          "price": 217.09
+        }
+      ]
+    }
+  ],
   "bot": {
     "bankroll": 118163.6,
     "startedAt": "2026-06-22",
@@ -9373,10 +9413,27 @@
     "runnerBankroll": 118163.6,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-19T19:15:39.541597+00:00",
-    "mirroredAt": "2026-10-19T22:35:23.812Z"
+    "mirroredAt": "2026-10-19T22:56:55.215Z"
   },
   "botWeights": {},
-  "reviewQueue": [],
+  "reviewQueue": [
+    {
+      "id": "rev-thesis-1792449986747",
+      "type": "thesis",
+      "thesisId": "t1792449969190",
+      "ticker": "NVDA",
+      "strike": 300,
+      "direction": "above",
+      "targetDate": "2027-01-17T22:46:09.190Z",
+      "sourceText": "NVDA to $300",
+      "allTickers": [
+        "NVDA"
+      ],
+      "brainSentiment": "bullish",
+      "confidence": 0,
+      "queuedAt": "2026-10-19T22:46:26.747Z"
+    }
+  ],
   "editLog": {},
   "editsQueue": {},
   "humanGrades": {},
