@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-20T00:44:13.573Z",
+  "updatedAt": "2026-10-20T01:30:34.508Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -9422,27 +9422,10 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-19T19:15:39.541597+00:00",
-    "mirroredAt": "2026-10-20T00:44:02.253Z"
+    "mirroredAt": "2026-10-20T01:29:27.548Z"
   },
   "botWeights": {},
-  "reviewQueue": [
-    {
-      "id": "rev-thesis-1792449986747",
-      "type": "thesis",
-      "thesisId": "t1792449969190",
-      "ticker": "NVDA",
-      "strike": 300,
-      "direction": "above",
-      "targetDate": "2027-01-17T22:46:09.190Z",
-      "sourceText": "NVDA to $300",
-      "allTickers": [
-        "NVDA"
-      ],
-      "brainSentiment": "bullish",
-      "confidence": 0,
-      "queuedAt": "2026-10-19T22:46:26.747Z"
-    }
-  ],
+  "reviewQueue": [],
   "editLog": {},
   "editsQueue": {},
   "humanGrades": {},
