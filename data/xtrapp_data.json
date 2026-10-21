@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-21T13:43:22.274Z",
+  "updatedAt": "2026-10-21T13:44:51.073Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -406,9 +406,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 1.06,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "CCJ-2026-06-22-1782098049708-1",
@@ -570,9 +568,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 80.510002,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "UPS-2026-06-22-1782098049710-2",
@@ -738,9 +734,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 98.8,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BZFD-2026-06-22-1782098049711-3",
@@ -912,9 +906,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 0.9896,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "NOC-2026-06-22-1782098049713-4",
@@ -1084,9 +1076,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 539.29,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "PEG-2026-06-22-1782098049714-5",
@@ -1255,9 +1245,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 71.33,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "ZF=F-2026-06-21-1782018714968-1",
@@ -1416,9 +1404,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 104.0469,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "FSLR-2026-06-21-1782018714970-2",
@@ -1602,9 +1588,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 174.429993,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "SBLK-2026-06-21-1782018714971-3",
@@ -1778,9 +1762,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 28.09,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "EU-2026-06-21-1782018714972-4",
@@ -1957,9 +1939,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 0.815,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "AAL-2026-06-21-1782018714974-5",
@@ -2138,9 +2118,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 12.11,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "UMC-2026-06-16-1781573221723-2",
@@ -2234,9 +2212,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 19.79,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "DELL-2026-06-16-1781573221723-3",
@@ -2330,9 +2306,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 461.559998,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "TOELY-2026-06-16-1781573221723-1",
@@ -2518,9 +2492,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 976.23242,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "000725.SZ-2026-06-16-1781573221723-0",
@@ -2612,9 +2584,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 0.757757651,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "MU-2026-06-16-1781573221723-4",
@@ -2708,9 +2678,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 895.05,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "ARM-2026-06-18-1781751939570-2",
@@ -2879,9 +2847,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 225.05,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BCAB-2026-06-21-1782018714957-0",
@@ -3048,9 +3014,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 1.33,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "ZR=F-2026-06-18-1781752006376-0",
@@ -3205,9 +3169,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 17.135,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BCAB-2026-06-20-1781975171800-0",
@@ -3372,9 +3334,7 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 1.33,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "INDO-2026-06-20-1781975171803-1",
@@ -3540,9 +3500,7 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 2.51,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "3231.TW-2026-06-20-1781975171804-2",
@@ -3717,9 +3675,7 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 6.024096,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "SBLK-2026-06-20-1781975171805-3",
@@ -3901,9 +3857,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 28.09,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "000660.KS-2026-06-20-1781975171806-4",
@@ -4077,9 +4031,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 976.23242,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "TSM-2026-06-20-1781975171807-5",
@@ -4262,9 +4214,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 433.82,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "MU-2026-06-18-1781751939570-0",
@@ -4435,9 +4385,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 895.05,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "ZR=F-2026-06-18-1781751939570-1",
@@ -4594,9 +4542,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 17.135,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "LNVGY-2026-06-16-1781573221723-5",
@@ -4688,13 +4634,11 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 65.32,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BCAB-2026-10-14-1792013920056-4",
-        "pnl": -33.4,
+        "pnl": -222.69,
         "won": false,
         "_via": "supabase",
         "name": "BioAtla, Inc.",
@@ -4716,7 +4660,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 1.33,
+        "lastPrice": 1.5,
         "peakPrice": 1.25,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 30)",
@@ -4730,7 +4674,7 @@
           "-74.6pp vs Healthcare peers (n=12)",
           "SBC 64% of revenue (severe)"
         ],
-        "returnPct": -2.31,
+        "returnPct": 1.54,
         "stopPrice": 1.63,
         "components": {
           "sbc": -0.7,
@@ -4884,12 +4828,7 @@
         ],
         "realizedTrim": 0,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 1.33
-        }
+        "_runnerSynced": true
       },
       {
         "id": "OXY-2026-10-14-1792013920056-5",
@@ -4914,7 +4853,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 62.51,
+        "lastPrice": 61.41,
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 68)",
           "Research grade B (70/100 percentile)",
@@ -5082,7 +5021,7 @@
       },
       {
         "id": "PARA-2026-10-14-1792013920055-1",
-        "pnl": -59.23,
+        "pnl": -101.71,
         "won": false,
         "_via": "supabase",
         "name": "Banzai International, Inc.",
@@ -5104,7 +5043,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 0.5499,
+        "lastPrice": 0.557,
         "peakPrice": 0.5213,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 33)",
@@ -5121,7 +5060,7 @@
           "13F: 1 institution hold · 0 adding / 0 trimming",
           "SEC: Last 10-Q 62d ago"
         ],
-        "returnPct": -1.83,
+        "returnPct": -0.44,
         "stopPrice": 0.68,
         "components": {
           "fed": 0.102,
@@ -5293,12 +5232,7 @@
         ],
         "realizedTrim": -15.35,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 0.5499
-        }
+        "_runnerSynced": true
       },
       {
         "id": "SOS-2026-10-14-1792013920054-0",
@@ -5323,7 +5257,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 0.209,
+        "lastPrice": 0.2029,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 13)",
           "Research grade C- (32/100 percentile)",
@@ -5512,7 +5446,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 433.82,
+        "lastPrice": 430,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
           "Research grade A- (80/100 percentile)",
@@ -5673,7 +5607,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5684,7 +5618,7 @@
       },
       {
         "id": "UMC-2026-10-14-1792013920055-3",
-        "pnl": -609.04,
+        "pnl": -618.33,
         "won": false,
         "_via": "supabase",
         "name": "United Microelectronics Corporation",
@@ -5706,7 +5640,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 19.79,
+        "lastPrice": 19.764999,
         "peakPrice": 21.43,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
@@ -5723,7 +5657,7 @@
           "13F: 40 institutions hold · 11 adding / 13 trimming · 18 PUT · 21 CALL",
           "SEC: Last 6-K 9d ago"
         ],
-        "returnPct": -7.65,
+        "returnPct": -0.14,
         "stopPrice": 16.56,
         "components": {
           "fed": 0.102,
@@ -5907,8 +5841,8 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": -51.9,
-        "returnPct": -1.2,
+        "pnl": -42.78,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -5994,12 +5928,11 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 472.32,
+        "lastPrice": 473.329987,
         "lastPriceLocal": 473.329987,
         "scoreNow": 0.445,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "VLO-2026-10-16-runner-1792194396",
@@ -6032,8 +5965,8 @@
         "trims": [],
         "fees": 2.14,
         "realizedPL": 0,
-        "pnl": -116.01,
-        "returnPct": -2.71,
+        "pnl": -106.66,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6119,12 +6052,11 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 432.68,
+        "lastPrice": 433.649994,
         "lastPriceLocal": 433.649994,
         "scoreNow": 0.409,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "PSX-2026-10-16-runner-1792194396",
@@ -6157,8 +6089,8 @@
         "trims": [],
         "fees": 2.12,
         "realizedPL": 0,
-        "pnl": -43.46,
-        "returnPct": -1.03,
+        "pnl": -33.5,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6265,12 +6197,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 290.16,
+        "lastPrice": 290.850006,
         "lastPriceLocal": 290.850006,
         "scoreNow": 0.386,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "SHEL-2026-10-16-runner-1792194396",
@@ -6303,8 +6234,8 @@
         "trims": [],
         "fees": 2.12,
         "realizedPL": 0,
-        "pnl": -58.3,
-        "returnPct": -1.38,
+        "pnl": -51.16,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6416,17 +6347,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 105.19,
+        "lastPrice": 105.370003,
         "lastPriceLocal": 105.370003,
         "scoreNow": 0.373,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 105.19
-        }
+        "_runnerSynced": true
       },
       {
         "id": "EOG-2026-10-16-runner-1792194396",
@@ -6459,8 +6384,8 @@
         "trims": [],
         "fees": 2.09,
         "realizedPL": 0,
-        "pnl": -40.29,
-        "returnPct": -0.96,
+        "pnl": -29.42,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6571,17 +6496,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 156.49,
+        "lastPrice": 156.899994,
         "lastPriceLocal": 156.899994,
         "scoreNow": 0.398,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 156.49
-        }
+        "_runnerSynced": true
       },
       {
         "id": "OXY-2026-10-16-runner-1792194396",
@@ -6614,8 +6533,8 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 8.97,
-        "returnPct": 0.21,
+        "pnl": 18.63,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6735,17 +6654,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 62.51,
+        "lastPrice": 62.650002,
         "lastPriceLocal": 62.650002,
         "scoreNow": 0.36,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 62.51
-        }
+        "_runnerSynced": true
       },
       {
         "id": "ACN-2026-10-17-runner-1792195684",
@@ -6756,7 +6669,7 @@
         "instrument": "shares",
         "style": "core",
         "horizonType": "core",
-        "horizonDays": 11,
+        "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
         "entryPrice": 229.679993,
@@ -6778,8 +6691,8 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 180.07,
-        "returnPct": 4.2,
+        "pnl": 188.5,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6871,14 +6784,11 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 239.32,
+        "lastPrice": 239.771698,
         "lastPriceLocal": 239.771698,
         "scoreNow": 0.458,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_rolledForMomentum": 1,
-        "_lastRollDate": "2026-10-21"
+        "_runnerSynced": true
       },
       {
         "id": "COP-2026-10-17-runner-1792195684",
@@ -6911,8 +6821,8 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": -54.33,
-        "returnPct": -1.24,
+        "pnl": -26.57,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7024,17 +6934,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 144.69,
+        "lastPrice": 145.619995,
         "lastPriceLocal": 145.619995,
         "scoreNow": 0.371,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 144.69
-        }
+        "_runnerSynced": true
       },
       {
         "id": "NEM-2026-10-17-runner-1792195684",
@@ -7067,8 +6971,8 @@
         "trims": [],
         "fees": 2.26,
         "realizedPL": 0,
-        "pnl": -67.92,
-        "returnPct": -1.5,
+        "pnl": -49.22,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7159,17 +7063,11 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 116.82,
+        "lastPrice": 117.309998,
         "lastPriceLocal": 117.309998,
         "scoreNow": 0.367,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 116.82
-        }
+        "_runnerSynced": true
       },
       {
         "id": "CVX-2026-10-17-runner-1792195684",
@@ -7202,8 +7100,8 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": 7.38,
-        "returnPct": 0.17,
+        "pnl": -9.91,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7316,17 +7214,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 225.37,
+        "lastPrice": 224.479996,
         "lastPriceLocal": 224.479996,
         "scoreNow": 0.336,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 225.37
-        }
+        "_runnerSynced": true
       },
       {
         "id": "META-2026-10-17-runner-1792195684",
@@ -7359,8 +7251,8 @@
         "trims": [],
         "fees": 2.14,
         "realizedPL": 0,
-        "pnl": -31.46,
-        "returnPct": -0.73,
+        "pnl": -113,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7452,17 +7344,11 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 704.12,
+        "lastPrice": 690.630005,
         "lastPriceLocal": 690.630005,
         "scoreNow": 0.279,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 704.12
-        }
+        "_runnerSynced": true
       },
       {
         "id": "SHOP-2026-10-17-runner-1792195684",
@@ -7495,8 +7381,8 @@
         "trims": [],
         "fees": 2.06,
         "realizedPL": 0,
-        "pnl": 153.27,
-        "returnPct": 3.72,
+        "pnl": 105.83,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7578,12 +7464,11 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 175.82,
+        "lastPrice": 173.869995,
         "lastPriceLocal": 173.869995,
         "scoreNow": 0.328,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "PLTR-2026-10-17-runner-1792203754",
@@ -7594,7 +7479,7 @@
         "instrument": "shares",
         "style": "core",
         "horizonType": "core",
-        "horizonDays": 11,
+        "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
         "entryPrice": 186.029999,
@@ -7616,8 +7501,8 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 227.68,
-        "returnPct": 5.3,
+        "pnl": 209.44,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7704,14 +7589,11 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 195.89,
+        "lastPrice": 195.100006,
         "lastPriceLocal": 195.100006,
         "scoreNow": 0.337,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_rolledForMomentum": 1,
-        "_lastRollDate": "2026-10-21"
+        "_runnerSynced": true
       },
       {
         "id": "MSFT-2026-10-17-runner-1792203754",
@@ -7722,7 +7604,7 @@
         "instrument": "shares",
         "style": "core",
         "horizonType": "core",
-        "horizonDays": 11,
+        "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
         "entryPrice": 529.049988,
@@ -7744,8 +7626,8 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": 14.05,
-        "returnPct": 0.33,
+        "pnl": 36.51,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7859,19 +7741,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 530.77,
+        "lastPrice": 533.52002,
         "lastPriceLocal": 533.52002,
         "scoreNow": 0.344,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 526.02
-        },
-        "_rolledForMomentum": 1,
-        "_lastRollDate": "2026-10-21"
+        "_runnerSynced": true
       },
       {
         "id": "SSNLF-2026-10-17-runner-1792203754",
@@ -7991,13 +7865,7 @@
         "lastPriceLocal": 65.209999,
         "scoreNow": 0.345,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 65.209999
-        }
+        "_runnerSynced": true
       },
       {
         "id": "MU-2026-10-17-runner-1792203754",
@@ -8030,8 +7898,8 @@
         "trims": [],
         "fees": 2.05,
         "realizedPL": 0,
-        "pnl": 75.71,
-        "returnPct": 1.84,
+        "pnl": 145.47,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -8113,17 +7981,11 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 895.05,
+        "lastPrice": 909.984985,
         "lastPriceLocal": 909.984985,
         "scoreNow": 0.284,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 895.05
-        }
+        "_runnerSynced": true
       },
       {
         "id": "GME-2026-10-17-runner-1792203754",
@@ -8156,8 +8018,8 @@
         "trims": [],
         "fees": 1.9,
         "realizedPL": 0,
-        "pnl": -60.95,
-        "returnPct": -1.6,
+        "pnl": -125.45,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -8249,12 +8111,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 26.38,
+        "lastPrice": 25.924999,
         "lastPriceLocal": 25.924999,
         "scoreNow": 0.362,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "TEAM-2026-10-17-runner-1792203754",
@@ -8287,8 +8148,8 @@
         "trims": [],
         "fees": 0.88,
         "realizedPL": 0,
-        "pnl": 131.96,
-        "returnPct": 7.51,
+        "pnl": 112.17,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -8399,12 +8260,11 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 223.42,
+        "lastPrice": 221.080002,
         "lastPriceLocal": 221.080002,
         "scoreNow": 0.291,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "finnhub"
+        "_runnerSynced": true
       },
       {
         "id": "SBLK-2026-10-09-1791533157298-0",
@@ -8569,7 +8429,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 28.09,
+        "lastPrice": 27.79,
         "lastPriceSource": "github",
         "returnPct": -8.8,
         "pnl": 0,
@@ -8750,7 +8610,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 2.07,
+        "lastPrice": 2.13,
         "lastPriceSource": "github",
         "returnPct": 5.75,
         "pnl": 0,
@@ -8933,8 +8793,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 205.345,
-        "lastPriceSource": "github",
+        "lastPrice": 205.28,
+        "lastPriceSource": "finnhub",
         "returnPct": 1.95,
         "pnl": 0,
         "partialSells": [
@@ -9114,7 +8974,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 112.839996,
+        "lastPrice": 103.53,
         "lastPriceSource": "github",
         "returnPct": 5.24,
         "pnl": 0,
@@ -9291,14 +9151,14 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 1.26,
+        "lastPrice": 1.23,
         "lastPriceSource": "finnhub",
-        "returnPct": -6.78,
-        "pnl": -468.1,
+        "returnPct": 10.17,
+        "pnl": -292.57,
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-10-21",
-          "price": 1.26
+          "date": "2026-10-17",
+          "price": 1.06
         },
         "origin": "app",
         "_via": "app-adopt",
@@ -9471,10 +9331,10 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 0.209,
+        "lastPrice": 0.2035,
         "lastPriceSource": "finnhub",
-        "returnPct": 32.14,
-        "pnl": 2317.62,
+        "returnPct": 31.46,
+        "pnl": 2446.37,
         "partialSells": [
           {
             "date": "2026-10-17",
@@ -9566,7 +9426,7 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-20T17:56:14.571095+00:00",
-    "mirroredAt": "2026-10-21T13:42:16.228Z"
+    "mirroredAt": "2026-10-21T13:44:44.383Z"
   },
   "botWeights": {},
   "reviewQueue": [
