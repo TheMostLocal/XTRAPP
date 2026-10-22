@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-22T21:07:03.387Z",
+  "updatedAt": "2026-10-22T21:07:22.672Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -27,7 +27,7 @@
       "amazon": 1,
       "amazon jumps": 1,
       "jumps": 1,
-      "jumps morgan": 1,
+      "jumps morgan": 1.5,
       "morgan": 1,
       "morgan stanley": 1,
       "stanley": 1,
