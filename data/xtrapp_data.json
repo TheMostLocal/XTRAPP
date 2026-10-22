@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-22T21:38:11.175Z",
+  "updatedAt": "2026-10-22T21:54:23.817Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -10148,7 +10148,7 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-22T17:57:16.082915+00:00",
-    "mirroredAt": "2026-10-22T21:29:02.872Z"
+    "mirroredAt": "2026-10-22T21:54:20.086Z"
   },
   "botWeights": {},
   "reviewQueue": [],
