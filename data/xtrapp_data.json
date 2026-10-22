@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-22T21:06:35.240Z",
+  "updatedAt": "2026-10-22T21:07:03.387Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -10291,32 +10291,10 @@
     "mirroredAt": "2026-10-22T21:02:17.987Z"
   },
   "botWeights": {},
-  "reviewQueue": [
-    {
-      "id": "rev-newsFix-1792703120634",
-      "type": "newsFix",
-      "_dedupe": "newsFix:https://finnhub.io/api/news?id=c0d8239f5597ae47d2d7cca16f8bd7e67772036f7ebf9f2c555d84743f0743c9",
-      "key": "https://finnhub.io/api/news?id=c0d8239f5597ae47d2d7cca16f8bd7e67772036f7ebf9f2c555d84743f0743c9",
-      "label": "News ticker fix: AMZN",
-      "detail": "\"Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Micros\" → AMZN",
-      "ticker": "AMZN",
-      "value": null,
-      "confidence": null,
-      "options": [
-        {
-          "label": "Approve fix",
-          "action": "approveNewsFix"
-        },
-        {
-          "label": "Revert",
-          "action": "revertNewsFix"
-        }
-      ],
-      "queuedAt": "2026-10-22T21:05:20.634Z"
-    }
-  ],
+  "reviewQueue": [],
   "reviewResolved": {
-    "rev-thesis-1792449986747": "2026-10-22T21:03:35.113Z"
+    "rev-thesis-1792449986747": "2026-10-22T21:03:35.113Z",
+    "rev-newsFix-1792703120634": "2026-10-22T21:07:00.377Z"
   },
   "editLog": {},
   "editsQueue": {},
