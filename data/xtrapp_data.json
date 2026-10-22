@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-22T21:29:00.572Z",
+  "updatedAt": "2026-10-22T21:38:11.175Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -10148,7 +10148,7 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-22T17:57:16.082915+00:00",
-    "mirroredAt": "2026-10-22T21:19:05.120Z"
+    "mirroredAt": "2026-10-22T21:29:02.872Z"
   },
   "botWeights": {},
   "reviewQueue": [],
@@ -11245,9 +11245,17 @@
       "url": "https://finnhub.io/api/news?id=c0d8239f5597ae47d2d7cca16f8bd7e67772036f7ebf9f2c555d84743f0743c9",
       "headline": "Amazon Jumps 5% as Morgan Stanley Names It Top Pick on Faster AWS Growth; Microsoft and Alphabet Edge Higher",
       "summary": "Amazon (NASDAQ:AMZN) stock jumped 5% to $262.42 after Morgan Stanley (NYSE:MS) named Amazon a top pick and raised its price target to $350 from $335. Morgan Stanley analyst Brian Nowak maintained an Overweight rating, pointing to faster cloud growth, higher profits, and several AI-related opportunities. The advance outpaced Microsoft (NASDAQ:MSFT) stock, which gained 1% to […]",
-      "ticker": "MS",
+      "ticker": "AMZN",
+      "tickers": [
+        "AMZN",
+        "MSFT",
+        "MS"
+      ],
       "source": "Yahoo",
-      "datetime": 1792426544000
+      "datetime": 1792426544000,
+      "sentiment": "bullish",
+      "impact": "medium",
+      "_humanEdited": true
     },
     {
       "url": "https://finnhub.io/api/news?id=f42663b6312c1caacefa91b64c80d0c7e1efefa94d6917cc0cd0fa6add17337f",
