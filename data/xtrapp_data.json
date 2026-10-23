@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-23T23:13:01.331Z",
+  "updatedAt": "2026-10-23T23:32:46.592Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -747,7 +747,7 @@
         "regimeCallCorrect": true,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 78.599998,
+        "lastPrice": 78.6,
         "lastPriceSource": "github"
       },
       {
@@ -915,7 +915,7 @@
         "regimeCallCorrect": true,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 101.059998,
+        "lastPrice": 101.06,
         "lastPriceSource": "github"
       },
       {
@@ -1261,7 +1261,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 551.440002,
+        "lastPrice": 551.44,
         "lastPriceSource": "github"
       },
       {
@@ -1432,7 +1432,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 72.019997,
+        "lastPrice": 72.02,
         "lastPriceSource": "github"
       },
       {
@@ -1779,7 +1779,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 171.990005,
+        "lastPrice": 171.99,
         "lastPriceSource": "github"
       },
       {
@@ -2411,7 +2411,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 18.889999,
+        "lastPrice": 18.89,
         "lastPriceSource": "github"
       },
       {
@@ -2507,7 +2507,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 456.440002,
+        "lastPrice": 456.44,
         "lastPriceSource": "github"
       },
       {
@@ -2885,7 +2885,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 877.549988,
+        "lastPrice": 877.55,
         "lastPriceSource": "github"
       },
       {
@@ -3056,7 +3056,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 210.330002,
+        "lastPrice": 210.33,
         "lastPriceSource": "github"
       },
       {
@@ -4439,7 +4439,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 418.51001,
+        "lastPrice": 418.51,
         "lastPriceSource": "github"
       },
       {
@@ -4612,7 +4612,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 877.549988,
+        "lastPrice": 877.55,
         "lastPriceSource": "github"
       },
       {
@@ -4865,7 +4865,7 @@
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 57.959999,
+        "lastPrice": 57.96,
         "lastPriceSource": "github"
       },
       {
@@ -5151,7 +5151,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 64.169998,
+        "lastPrice": 64.17,
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 68)",
           "Research grade B (70/100 percentile)",
@@ -5794,7 +5794,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 418.51001,
+        "lastPrice": 418.51,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
           "Research grade A- (80/100 percentile)",
@@ -5988,7 +5988,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 18.889999,
+        "lastPrice": 18.89,
         "peakPrice": 21.43,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
@@ -6321,7 +6321,7 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 457.220001,
+        "lastPrice": 457.22,
         "lastPriceLocal": 456.480011,
         "scoreNow": 0.433,
         "lastReview": {
@@ -6491,7 +6491,7 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 419.279999,
+        "lastPrice": 419.28,
         "lastPriceLocal": 419.890015,
         "scoreNow": 0.389,
         "lastReview": {
@@ -6682,7 +6682,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 283.179993,
+        "lastPrice": 283.18,
         "lastPriceLocal": 282.920013,
         "scoreNow": 0.421,
         "lastReview": {
@@ -7075,7 +7075,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 163.029999,
+        "lastPrice": 163.03,
         "lastPriceLocal": 163.619995,
         "scoreNow": 0.433,
         "lastReview": {
@@ -7160,7 +7160,7 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 123.51,
+        "pnl": 123.52,
         "returnPct": 2.87,
         "won": false,
         "exitReason": "open",
@@ -7281,7 +7281,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 64.169998,
+        "lastPrice": 64.17,
         "lastPriceLocal": 64.275497,
         "scoreNow": 0.405,
         "lastReview": {
@@ -7459,7 +7459,7 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 249.369995,
+        "lastPrice": 249.37,
         "lastPriceLocal": 248.389999,
         "scoreNow": 0.363,
         "lastReview": {
@@ -7657,7 +7657,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 150.800003,
+        "lastPrice": 150.8,
         "lastPriceLocal": 151.440002,
         "scoreNow": 0.41,
         "lastReview": {
@@ -7834,7 +7834,7 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 108.870003,
+        "lastPrice": 108.87,
         "lastPriceLocal": 109.245003,
         "scoreNow": 0.259,
         "lastReview": {
@@ -7888,7 +7888,7 @@
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-23",
-          "price": 108.870003
+          "price": 108.87
         }
       },
       {
@@ -8036,7 +8036,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 233.210007,
+        "lastPrice": 233.21,
         "lastPriceLocal": 233.330002,
         "scoreNow": 0.385,
         "lastReview": {
@@ -8214,7 +8214,7 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 642.619995,
+        "lastPrice": 642.62,
         "lastPriceLocal": 645.440002,
         "scoreNow": 0.176,
         "lastReview": {
@@ -8268,7 +8268,7 @@
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-23",
-          "price": 642.619995
+          "price": 642.62
         }
       },
       {
@@ -8385,7 +8385,7 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 168.679993,
+        "lastPrice": 168.68,
         "lastPriceLocal": 168.800003,
         "scoreNow": 0.223,
         "lastReview": {
@@ -8756,7 +8756,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 524.51001,
+        "lastPrice": 524.51,
         "lastPriceLocal": 523.594971,
         "scoreNow": 0.267,
         "lastReview": {
@@ -8810,7 +8810,7 @@
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-23",
-          "price": 524.51001
+          "price": 524.51
         }
       },
       {
@@ -8927,7 +8927,7 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 65.209999,
+        "lastPrice": 65.21,
         "lastPriceLocal": 65.209999,
         "scoreNow": 0.275,
         "lastReview": {
@@ -8981,7 +8981,7 @@
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-23",
-          "price": 65.209999
+          "price": 65.21
         }
       },
       {
@@ -9098,7 +9098,7 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 877.549988,
+        "lastPrice": 877.55,
         "lastPriceLocal": 878.530029,
         "scoreNow": 0.193,
         "lastReview": {
@@ -9152,7 +9152,7 @@
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-23",
-          "price": 877.549988
+          "price": 877.55
         }
       },
       {
@@ -9474,7 +9474,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 227.610001,
+        "lastPrice": 227.61,
         "lastPriceLocal": 224.589996,
         "scoreNow": 0.169,
         "lastReview": {
@@ -10053,7 +10053,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 203.690002,
+        "lastPrice": 203.69,
         "lastPriceSource": "github",
         "returnPct": 1.95,
         "pnl": 0,
@@ -10234,7 +10234,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 108.940002,
+        "lastPrice": 108.94,
         "lastPriceSource": "github",
         "returnPct": 5.24,
         "pnl": 0,
@@ -10894,7 +10894,7 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 183.210007,
+        "lastPrice": 183.21,
         "lastPriceLocal": 183.169998,
         "scoreNow": 0.349,
         "optionMarkSource": "chain 2026-10-23T19:20",
@@ -11335,7 +11335,7 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 51.389999,
+        "lastPrice": 51.39,
         "lastPriceLocal": 51.41,
         "scoreNow": 0.301,
         "lastReview": {
@@ -11435,7 +11435,7 @@
       },
       {
         "date": "2026-10-23",
-        "value": 106478.84
+        "value": 106478.85
       }
     ],
     "transactions": [
@@ -11456,7 +11456,7 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-23T19:36:01.656013+00:00",
-    "mirroredAt": "2026-10-23T23:12:55.515Z"
+    "mirroredAt": "2026-10-23T23:17:51.451Z"
   },
   "botWeights": {},
   "reviewQueue": [],
