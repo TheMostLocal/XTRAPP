@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-26T14:32:28.057Z",
+  "updatedAt": "2026-10-26T14:39:24.373Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -592,7 +592,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 1.065,
+        "lastPriceSource": "github"
       },
       {
         "id": "CCJ-2026-06-22-1782098049708-1",
@@ -754,7 +756,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 78.48,
+        "lastPriceSource": "github"
       },
       {
         "id": "UPS-2026-06-22-1782098049710-2",
@@ -920,7 +924,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 100.785,
+        "lastPriceSource": "github"
       },
       {
         "id": "BZFD-2026-06-22-1782098049711-3",
@@ -1092,7 +1098,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 0.9505,
+        "lastPriceSource": "github"
       },
       {
         "id": "NOC-2026-06-22-1782098049713-4",
@@ -1262,7 +1270,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 560.145,
+        "lastPriceSource": "github"
       },
       {
         "id": "PEG-2026-06-22-1782098049714-5",
@@ -1431,7 +1441,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 72.29,
+        "lastPriceSource": "github"
       },
       {
         "id": "ZF=F-2026-06-21-1782018714968-1",
@@ -1590,7 +1602,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 104.5234,
+        "lastPriceSource": "github"
       },
       {
         "id": "FSLR-2026-06-21-1782018714970-2",
@@ -1774,7 +1788,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 167.32,
+        "lastPriceSource": "github"
       },
       {
         "id": "SBLK-2026-06-21-1782018714971-3",
@@ -1948,7 +1964,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 29.29,
+        "lastPriceSource": "github"
       },
       {
         "id": "EU-2026-06-21-1782018714972-4",
@@ -2125,7 +2143,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 0.6764,
+        "lastPriceSource": "github"
       },
       {
         "id": "AAL-2026-06-21-1782018714974-5",
@@ -2304,7 +2324,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 12.255,
+        "lastPriceSource": "github"
       },
       {
         "id": "UMC-2026-06-16-1781573221723-2",
@@ -2398,7 +2420,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 18.95,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "DELL-2026-06-16-1781573221723-3",
@@ -2492,7 +2516,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 460.045,
+        "lastPriceSource": "github"
       },
       {
         "id": "TOELY-2026-06-16-1781573221723-1",
@@ -2678,7 +2704,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 961.26075,
+        "lastPriceSource": "github"
       },
       {
         "id": "000725.SZ-2026-06-16-1781573221723-0",
@@ -2770,7 +2798,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 0.7315168073,
+        "lastPriceSource": "github"
       },
       {
         "id": "MU-2026-06-16-1781573221723-4",
@@ -2864,7 +2894,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 890.77,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "ARM-2026-06-18-1781751939570-2",
@@ -3033,7 +3065,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 214.65,
+        "lastPriceSource": "github"
       },
       {
         "id": "BCAB-2026-06-21-1782018714957-0",
@@ -3200,7 +3234,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 1.735,
+        "lastPriceSource": "github"
       },
       {
         "id": "ZR=F-2026-06-18-1781752006376-0",
@@ -3355,7 +3391,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 17.92,
+        "lastPriceSource": "github"
       },
       {
         "id": "BCAB-2026-06-20-1781975171800-0",
@@ -3520,7 +3558,9 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 1.735,
+        "lastPriceSource": "github"
       },
       {
         "id": "INDO-2026-06-20-1781975171803-1",
@@ -3686,7 +3726,9 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 2.62,
+        "lastPriceSource": "github"
       },
       {
         "id": "3231.TW-2026-06-20-1781975171804-2",
@@ -3861,7 +3903,9 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 5.8317992,
+        "lastPriceSource": "github"
       },
       {
         "id": "SBLK-2026-06-20-1781975171805-3",
@@ -4043,7 +4087,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 29.29,
+        "lastPriceSource": "github"
       },
       {
         "id": "000660.KS-2026-06-20-1781975171806-4",
@@ -4217,7 +4263,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 961.26075,
+        "lastPriceSource": "github"
       },
       {
         "id": "TSM-2026-06-20-1781975171807-5",
@@ -4400,7 +4448,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 421.38,
+        "lastPriceSource": "github"
       },
       {
         "id": "MU-2026-06-18-1781751939570-0",
@@ -4571,7 +4621,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 890.77,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "ZR=F-2026-06-18-1781751939570-1",
@@ -4728,7 +4780,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 17.92,
+        "lastPriceSource": "github"
       },
       {
         "id": "LNVGY-2026-06-16-1781573221723-5",
@@ -4820,7 +4874,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 55.7,
+        "lastPriceSource": "github"
       },
       {
         "id": "BCAB-2026-10-14-1792013920056-4",
@@ -4846,7 +4902,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": 1.63,
-        "lastPrice": 1.63,
+        "lastPrice": 1.735,
         "peakPrice": 1.25,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 30)",
@@ -4997,7 +5053,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5105,7 +5161,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 61.41,
+        "lastPrice": 63.73,
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 68)",
           "Research grade B (70/100 percentile)",
@@ -5273,7 +5329,7 @@
       },
       {
         "id": "PARA-2026-10-14-1792013920055-1",
-        "pnl": 732.9,
+        "pnl": 841.19,
         "won": false,
         "_via": "supabase",
         "name": "Banzai International, Inc.",
@@ -5295,8 +5351,8 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 0.4175,
-        "peakPrice": 0.4175,
+        "lastPrice": 0.3994,
+        "peakPrice": 0.3971,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 33)",
           "Research grade D+ (25/100 percentile)",
@@ -5312,7 +5368,7 @@
           "13F: 1 institution hold · 0 adding / 0 trimming",
           "SEC: Last 10-Q 62d ago"
         ],
-        "returnPct": -0.44,
+        "returnPct": 26.04,
         "stopPrice": 0.68,
         "components": {
           "fed": 0.102,
@@ -5385,7 +5441,7 @@
         "longTermTrend": "strong-down",
         "priceCurrency": "USD",
         "regimeAtEntry": "risk-on",
-        "lastPriceLocal": 0.4175,
+        "lastPriceLocal": 0.3971,
         "couldHaveWorked": "",
         "decisionReceipt": {
           "style": "short",
@@ -5487,8 +5543,8 @@
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.49 in its direction)",
-          "price": 0.4175,
-          "returnPct": 22.69,
+          "price": 0.3971,
+          "returnPct": 26.46,
           "daysHeld": 8,
           "horizonClass": "long",
           "scoreNow": -0.4863194264482997,
@@ -5531,8 +5587,8 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.49 in its direction)",
-            "price": 0.4175,
-            "returnPct": 22.69,
+            "price": 0.3971,
+            "returnPct": 26.46,
             "daysHeld": 8,
             "horizonClass": "long",
             "scoreNow": -0.4863194264482997,
@@ -5545,7 +5601,12 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 0.3994
+        }
       },
       {
         "id": "SOS-2026-10-14-1792013920054-0",
@@ -5570,7 +5631,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 0.2029,
+        "lastPrice": 0.2254,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 13)",
           "Research grade C- (32/100 percentile)",
@@ -5727,7 +5788,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5759,7 +5820,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 430,
+        "lastPrice": 421.38,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
           "Research grade A- (80/100 percentile)",
@@ -5920,7 +5981,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5931,7 +5992,7 @@
       },
       {
         "id": "UMC-2026-10-14-1792013920055-3",
-        "pnl": -906.14,
+        "pnl": -920.99,
         "won": false,
         "_via": "supabase",
         "name": "United Microelectronics Corporation",
@@ -5953,7 +6014,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 18.99,
+        "lastPrice": 18.95,
         "peakPrice": 21.43,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
@@ -5970,7 +6031,7 @@
           "13F: 40 institutions hold · 11 adding / 13 trimming · 18 PUT · 21 CALL",
           "SEC: Last 6-K 9d ago"
         ],
-        "returnPct": -0.14,
+        "returnPct": -11.57,
         "stopPrice": 16.56,
         "components": {
           "fed": 0.102,
@@ -6028,12 +6089,12 @@
         ],
         "exitMomentum": 0,
         "leveragedEtf": null,
-        "longTermLean": 0.651,
+        "longTermLean": 0.653,
         "allocationPct": 8.3,
         "longTermTrend": "up",
         "priceCurrency": "USD",
         "regimeAtEntry": "risk-on",
-        "lastPriceLocal": 18.99,
+        "lastPriceLocal": 18.96,
         "couldHaveWorked": "",
         "decisionReceipt": {
           "style": "rotation/macro",
@@ -6124,11 +6185,11 @@
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "signal faded to +0.21 - exits at the stop / target or the 17-session horizon",
-          "price": 18.99,
-          "returnPct": -11.39,
+          "price": 18.96,
+          "returnPct": -11.53,
           "daysHeld": 8,
           "horizonClass": "long",
-          "scoreNow": 0.2135274818878274,
+          "scoreNow": 0.21428287757128062,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-28",
@@ -6168,11 +6229,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "signal faded to +0.21 - exits at the stop / target or the 17-session horizon",
-            "price": 18.99,
-            "returnPct": -11.39,
+            "price": 18.96,
+            "returnPct": -11.53,
             "daysHeld": 8,
             "horizonClass": "long",
-            "scoreNow": 0.2135274818878274,
+            "scoreNow": 0.21428287757128062,
             "markSource": null,
             "catalyst": {
               "date": "2026-10-28",
@@ -6215,14 +6276,14 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": -47.97,
-        "returnPct": 0,
+        "pnl": -88.27,
+        "returnPct": -2.05,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.5,
         "confidence": 0.883,
-        "longTermLean": 0.606,
+        "longTermLean": 0.609,
         "components": {
           "trend": 1,
           "momentum": 0.918,
@@ -6302,18 +6363,18 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 472.755,
-        "lastPriceLocal": 472.755,
-        "scoreNow": 0.494,
+        "lastPrice": 468.29,
+        "lastPriceLocal": 469.34,
+        "scoreNow": 0.495,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.49 in its direction)",
-          "price": 472.755,
-          "returnPct": -1.11,
+          "reason": "thesis intact (aligned +0.50 in its direction)",
+          "price": 469.34,
+          "returnPct": -1.83,
           "daysHeld": 6,
           "horizonClass": "long",
-          "scoreNow": 0.4940663984524918,
+          "scoreNow": 0.49502823051356043,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-03",
@@ -6352,12 +6413,12 @@
           {
             "at": "2026-10-26",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.49 in its direction)",
-            "price": 472.755,
-            "returnPct": -1.11,
+            "reason": "thesis intact (aligned +0.50 in its direction)",
+            "price": 469.34,
+            "returnPct": -1.83,
             "daysHeld": 6,
             "horizonClass": "long",
-            "scoreNow": 0.4940663984524918,
+            "scoreNow": 0.49502823051356043,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-03",
@@ -6367,7 +6428,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "VLO-2026-10-16-runner-1792194396",
@@ -6400,8 +6462,8 @@
         "trims": [],
         "fees": 2.14,
         "realizedPL": 0,
-        "pnl": -124.69,
-        "returnPct": 0,
+        "pnl": -179.85,
+        "returnPct": -4.19,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6487,18 +6549,18 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 431.78,
-        "lastPriceLocal": 431.78,
+        "lastPrice": 426.06,
+        "lastPriceLocal": 427.76,
         "scoreNow": 0.431,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.43 in its direction)",
-          "price": 431.78,
-          "returnPct": -2.91,
+          "price": 427.76,
+          "returnPct": -3.81,
           "daysHeld": 6,
           "horizonClass": "long",
-          "scoreNow": 0.4312238065582911,
+          "scoreNow": 0.43138411190180265,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-28",
@@ -6538,11 +6600,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.43 in its direction)",
-            "price": 431.78,
-            "returnPct": -2.91,
+            "price": 427.76,
+            "returnPct": -3.81,
             "daysHeld": 6,
             "horizonClass": "long",
-            "scoreNow": 0.4312238065582911,
+            "scoreNow": 0.43138411190180265,
             "markSource": null,
             "catalyst": {
               "date": "2027-01-28",
@@ -6552,7 +6614,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "PSX-2026-10-16-runner-1792194396",
@@ -6585,14 +6648,14 @@
         "trims": [],
         "fees": 2.12,
         "realizedPL": 0,
-        "pnl": -3.61,
-        "returnPct": 0,
+        "pnl": -54.87,
+        "returnPct": -1.3,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.434,
-        "confidence": 0.933,
-        "longTermLean": 0.675,
+        "confidence": 0.86,
+        "longTermLean": 0.665,
         "components": {
           "trend": 0.699,
           "momentum": 0.832,
@@ -6693,18 +6756,18 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 292.92,
-        "lastPriceLocal": 292.92,
-        "scoreNow": 0.484,
+        "lastPrice": 289.37,
+        "lastPriceLocal": 290.19,
+        "scoreNow": 0.455,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.48 in its direction)",
-          "price": 292.92,
-          "returnPct": -0.09,
+          "reason": "thesis intact (aligned +0.46 in its direction)",
+          "price": 290.19,
+          "returnPct": -1.02,
           "daysHeld": 6,
           "horizonClass": "long",
-          "scoreNow": 0.4844709649313113,
+          "scoreNow": 0.45537709657620307,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-28",
@@ -6743,12 +6806,12 @@
           {
             "at": "2026-10-26",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.48 in its direction)",
-            "price": 292.92,
-            "returnPct": -0.09,
+            "reason": "thesis intact (aligned +0.46 in its direction)",
+            "price": 290.19,
+            "returnPct": -1.02,
             "daysHeld": 6,
             "horizonClass": "long",
-            "scoreNow": 0.4844709649313113,
+            "scoreNow": 0.45537709657620307,
             "markSource": null,
             "catalyst": {
               "date": "2026-10-28",
@@ -6758,7 +6821,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "SHEL-2026-10-16-runner-1792194396",
@@ -6769,7 +6833,7 @@
         "instrument": "shares",
         "style": "core",
         "horizonType": "core",
-        "horizonDays": null,
+        "horizonDays": 17,
         "entryDate": "2026-10-16",
         "exitDate": null,
         "entryPrice": 106.660004,
@@ -6791,8 +6855,8 @@
         "trims": [],
         "fees": 2.12,
         "realizedPL": 0,
-        "pnl": 27.96,
-        "returnPct": 0,
+        "pnl": 6.35,
+        "returnPct": 0.15,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -6904,15 +6968,15 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 107.365,
-        "lastPriceLocal": 107.365,
+        "lastPrice": 106.82,
+        "lastPriceLocal": 106.72,
         "scoreNow": 0.537,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.54 in its direction)",
-          "price": 107.365,
-          "returnPct": 0.66,
+          "price": 106.72,
+          "returnPct": 0.06,
           "daysHeld": 6,
           "horizonClass": "long",
           "scoreNow": 0.5366037744949597,
@@ -6955,8 +7019,8 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.54 in its direction)",
-            "price": 107.365,
-            "returnPct": 0.66,
+            "price": 106.72,
+            "returnPct": 0.06,
             "daysHeld": 6,
             "horizonClass": "long",
             "scoreNow": 0.5366037744949597,
@@ -6969,7 +7033,10 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_rolledForMomentum": 1,
+        "_lastRollDate": "2026-10-26"
       },
       {
         "id": "EOG-2026-10-16-runner-1792194396",
@@ -7002,14 +7069,14 @@
         "trims": [],
         "fees": 2.09,
         "realizedPL": 0,
-        "pnl": 171.21,
-        "returnPct": 0,
+        "pnl": 127.48,
+        "returnPct": 3.04,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.405,
-        "confidence": 0.832,
-        "longTermLean": 0.661,
+        "confidence": 0.9,
+        "longTermLean": 0.718,
         "components": {
           "trend": 0.078,
           "momentum": 0.266,
@@ -7114,18 +7181,18 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 164.47,
-        "lastPriceLocal": 164.47,
-        "scoreNow": 0.469,
+        "lastPrice": 162.82,
+        "lastPriceLocal": 162.99,
+        "scoreNow": 0.514,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.47 in its direction)",
-          "price": 164.47,
-          "returnPct": 4.09,
+          "reason": "thesis intact (aligned +0.51 in its direction)",
+          "price": 162.99,
+          "returnPct": 3.15,
           "daysHeld": 6,
           "horizonClass": "long",
-          "scoreNow": 0.468526996000381,
+          "scoreNow": 0.5141590032541322,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
@@ -7164,12 +7231,12 @@
           {
             "at": "2026-10-26",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.47 in its direction)",
-            "price": 164.47,
-            "returnPct": 4.09,
+            "reason": "thesis intact (aligned +0.51 in its direction)",
+            "price": 162.99,
+            "returnPct": 3.15,
             "daysHeld": 6,
             "horizonClass": "long",
-            "scoreNow": 0.468526996000381,
+            "scoreNow": 0.5141590032541322,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-05",
@@ -7179,7 +7246,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 162.82
+        }
       },
       {
         "id": "OXY-2026-10-16-runner-1792194396",
@@ -7212,8 +7285,8 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 147.67,
-        "returnPct": 0,
+        "pnl": 93.15,
+        "returnPct": 2.16,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -7333,15 +7406,15 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 64.52,
-        "lastPriceLocal": 64.52,
+        "lastPrice": 63.73,
+        "lastPriceLocal": 63.66,
         "scoreNow": 0.468,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.47 in its direction)",
-          "price": 64.52,
-          "returnPct": 3.43,
+          "price": 63.66,
+          "returnPct": 2.05,
           "daysHeld": 6,
           "horizonClass": "long",
           "scoreNow": 0.4675495477249159,
@@ -7384,8 +7457,8 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.47 in its direction)",
-            "price": 64.52,
-            "returnPct": 3.43,
+            "price": 63.66,
+            "returnPct": 2.05,
             "daysHeld": 6,
             "horizonClass": "long",
             "scoreNow": 0.4675495477249159,
@@ -7398,7 +7471,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 63.73
+        }
       },
       {
         "id": "ACN-2026-10-17-runner-1792195684",
@@ -7408,7 +7487,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -7431,14 +7510,14 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 364.52,
-        "returnPct": 0,
+        "pnl": 366.48,
+        "returnPct": 8.54,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.428,
-        "confidence": 0.797,
-        "longTermLean": 0.459,
+        "confidence": 0.745,
+        "longTermLean": 0.447,
         "components": {
           "trend": 0.901,
           "momentum": 0.935,
@@ -7524,18 +7603,18 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 249.195,
-        "lastPriceLocal": 249.195,
-        "scoreNow": 0.424,
+        "lastPrice": 249.3,
+        "lastPriceLocal": 248.77,
+        "scoreNow": 0.397,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.42 in its direction)",
-          "price": 249.195,
-          "returnPct": 8.5,
+          "reason": "thesis intact (aligned +0.40 in its direction)",
+          "price": 248.77,
+          "returnPct": 8.31,
           "daysHeld": 6,
-          "horizonClass": "long",
-          "scoreNow": 0.4239757198408154,
+          "horizonClass": "medium",
+          "scoreNow": 0.3969841368272492,
           "markSource": null,
           "catalyst": {
             "date": "2026-12-17",
@@ -7574,12 +7653,12 @@
           {
             "at": "2026-10-26",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.42 in its direction)",
-            "price": 249.195,
-            "returnPct": 8.5,
+            "reason": "thesis intact (aligned +0.40 in its direction)",
+            "price": 248.77,
+            "returnPct": 8.31,
             "daysHeld": 6,
-            "horizonClass": "long",
-            "scoreNow": 0.4239757198408154,
+            "horizonClass": "medium",
+            "scoreNow": 0.3969841368272492,
             "markSource": null,
             "catalyst": {
               "date": "2026-12-17",
@@ -7589,7 +7668,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 249.3
+        }
       },
       {
         "id": "COP-2026-10-17-runner-1792195684",
@@ -7622,14 +7707,14 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": 159.4,
-        "returnPct": 0,
+        "pnl": 115.22,
+        "returnPct": 2.63,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.405,
-        "confidence": 0.836,
-        "longTermLean": 0.606,
+        "confidence": 0.897,
+        "longTermLean": 0.632,
         "components": {
           "trend": 0.395,
           "momentum": 0.609,
@@ -7735,18 +7820,18 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 151.85,
-        "lastPriceLocal": 151.85,
-        "scoreNow": 0.474,
+        "lastPrice": 150.37,
+        "lastPriceLocal": 150.25,
+        "scoreNow": 0.51,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.47 in its direction)",
-          "price": 151.85,
-          "returnPct": 3.64,
+          "reason": "thesis intact (aligned +0.51 in its direction)",
+          "price": 150.25,
+          "returnPct": 2.55,
           "daysHeld": 6,
           "horizonClass": "long",
-          "scoreNow": 0.4743735565593066,
+          "scoreNow": 0.5096020259318077,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
@@ -7785,12 +7870,12 @@
           {
             "at": "2026-10-26",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.47 in its direction)",
-            "price": 151.85,
-            "returnPct": 3.64,
+            "reason": "thesis intact (aligned +0.51 in its direction)",
+            "price": 150.25,
+            "returnPct": 2.55,
             "daysHeld": 6,
             "horizonClass": "long",
-            "scoreNow": 0.4743735565593066,
+            "scoreNow": 0.5096020259318077,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-05",
@@ -7800,7 +7885,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 150.37
+        }
       },
       {
         "id": "NEM-2026-10-17-runner-1792195684",
@@ -7833,14 +7924,14 @@
         "trims": [],
         "fees": 2.26,
         "realizedPL": 0,
-        "pnl": -432.33,
-        "returnPct": 0,
+        "pnl": -373.18,
+        "returnPct": -8.25,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.404,
-        "confidence": 0.762,
-        "longTermLean": 0.737,
+        "confidence": 0.702,
+        "longTermLean": 0.723,
         "components": {
           "trend": -0.017,
           "momentum": 0.703,
@@ -7925,18 +8016,18 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 107.27,
-        "lastPriceLocal": 107.27,
-        "scoreNow": 0.299,
+        "lastPrice": 108.82,
+        "lastPriceLocal": 108.43,
+        "scoreNow": 0.28,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.30 in its direction)",
-          "price": 107.27,
-          "returnPct": -9.55,
+          "reason": "thesis intact (aligned +0.28 in its direction)",
+          "price": 108.43,
+          "returnPct": -8.58,
           "daysHeld": 6,
           "horizonClass": "long",
-          "scoreNow": 0.29916221909122626,
+          "scoreNow": 0.27997034478864163,
           "markSource": null,
           "catalyst": {
             "date": null,
@@ -7975,12 +8066,12 @@
           {
             "at": "2026-10-26",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.30 in its direction)",
-            "price": 107.27,
-            "returnPct": -9.55,
+            "reason": "thesis intact (aligned +0.28 in its direction)",
+            "price": 108.43,
+            "returnPct": -8.58,
             "daysHeld": 6,
             "horizonClass": "long",
-            "scoreNow": 0.29916221909122626,
+            "scoreNow": 0.27997034478864163,
             "markSource": null,
             "catalyst": {
               "date": null,
@@ -7990,7 +8081,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 108.82
+        }
       },
       {
         "id": "CVX-2026-10-17-runner-1792195684",
@@ -8023,8 +8120,8 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": 170.94,
-        "returnPct": 0,
+        "pnl": 133.26,
+        "returnPct": 3.05,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -8137,15 +8234,15 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 233.79,
-        "lastPriceLocal": 233.79,
+        "lastPrice": 231.85,
+        "lastPriceLocal": 231.88,
         "scoreNow": 0.477,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.48 in its direction)",
-          "price": 233.79,
-          "returnPct": 3.91,
+          "price": 231.88,
+          "returnPct": 3.06,
           "daysHeld": 6,
           "horizonClass": "long",
           "scoreNow": 0.47706529109505,
@@ -8188,8 +8285,8 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.48 in its direction)",
-            "price": 233.79,
-            "returnPct": 3.91,
+            "price": 231.88,
+            "returnPct": 3.06,
             "daysHeld": 6,
             "horizonClass": "long",
             "scoreNow": 0.47706529109505,
@@ -8202,7 +8299,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 231.85
+        }
       },
       {
         "id": "META-2026-10-17-runner-1792195684",
@@ -8235,8 +8338,8 @@
         "trims": [],
         "fees": 2.14,
         "realizedPL": 0,
-        "pnl": -472.16,
-        "returnPct": 0,
+        "pnl": -439.1,
+        "returnPct": -10.24,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -8328,15 +8431,15 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 631.21,
-        "lastPriceLocal": 631.21,
+        "lastPrice": 636.68,
+        "lastPriceLocal": 636.155,
         "scoreNow": 0.248,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "signal faded to +0.25 - exits at the stop / target or the —-session horizon",
-          "price": 631.21,
-          "returnPct": -11.01,
+          "price": 636.155,
+          "returnPct": -10.32,
           "daysHeld": 6,
           "horizonClass": "long",
           "scoreNow": 0.2484776550604993,
@@ -8379,8 +8482,8 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "signal faded to +0.25 - exits at the stop / target or the —-session horizon",
-            "price": 631.21,
-            "returnPct": -11.01,
+            "price": 636.155,
+            "returnPct": -10.32,
             "daysHeld": 6,
             "horizonClass": "long",
             "scoreNow": 0.2484776550604993,
@@ -8393,7 +8496,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 636.68
+        }
       },
       {
         "id": "SHOP-2026-10-17-runner-1792195684",
@@ -8426,14 +8535,14 @@
         "trims": [],
         "fees": 2.06,
         "realizedPL": 0,
-        "pnl": -2.55,
-        "returnPct": 0,
+        "pnl": 44.76,
+        "returnPct": 1.09,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.344,
-        "confidence": 0.697,
-        "longTermLean": 0.441,
+        "confidence": 0.698,
+        "longTermLean": 0.443,
         "components": {
           "trend": 0.925,
           "momentum": 0.868,
@@ -8509,18 +8618,18 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 169.415,
-        "lastPriceLocal": 169.415,
-        "scoreNow": 0.271,
+        "lastPrice": 171.36,
+        "lastPriceLocal": 171.04,
+        "scoreNow": 0.272,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.27 in its direction)",
-          "price": 169.415,
-          "returnPct": -0.06,
+          "price": 171.04,
+          "returnPct": 0.9,
           "daysHeld": 6,
           "horizonClass": "medium",
-          "scoreNow": 0.27125976159890774,
+          "scoreNow": 0.272015157282361,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-03",
@@ -8560,11 +8669,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.27 in its direction)",
-            "price": 169.415,
-            "returnPct": -0.06,
+            "price": 171.04,
+            "returnPct": 0.9,
             "daysHeld": 6,
             "horizonClass": "medium",
-            "scoreNow": 0.27125976159890774,
+            "scoreNow": 0.272015157282361,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-03",
@@ -8574,7 +8683,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "PLTR-2026-10-17-runner-1792203754",
@@ -8607,14 +8717,14 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 184.04,
-        "returnPct": 0,
+        "pnl": 254.01,
+        "returnPct": 5.91,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.356,
         "confidence": 0.744,
-        "longTermLean": 0.518,
+        "longTermLean": 0.521,
         "components": {
           "trend": 0.62,
           "momentum": 0.913,
@@ -8695,18 +8805,18 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 194,
-        "lastPriceLocal": 194,
-        "scoreNow": 0.317,
+        "lastPrice": 197.03,
+        "lastPriceLocal": 197.705,
+        "scoreNow": 0.318,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.32 in its direction)",
-          "price": 194,
-          "returnPct": 4.28,
+          "price": 197.705,
+          "returnPct": 6.28,
           "daysHeld": 6,
           "horizonClass": "long",
-          "scoreNow": 0.31672058844521855,
+          "scoreNow": 0.3175192461633394,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-02",
@@ -8746,11 +8856,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.32 in its direction)",
-            "price": 194,
-            "returnPct": 4.28,
+            "price": 197.705,
+            "returnPct": 6.28,
             "daysHeld": 6,
             "horizonClass": "long",
-            "scoreNow": 0.31672058844521855,
+            "scoreNow": 0.3175192461633394,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-02",
@@ -8760,7 +8870,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 197.03
+        }
       },
       {
         "id": "MSFT-2026-10-17-runner-1792203754",
@@ -8793,8 +8909,8 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": -41.57,
-        "returnPct": 0,
+        "pnl": -15.03,
+        "returnPct": -0.35,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -8908,15 +9024,15 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 523.96,
-        "lastPriceLocal": 523.96,
+        "lastPrice": 527.21,
+        "lastPriceLocal": 527.885,
         "scoreNow": 0.33,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.33 in its direction)",
-          "price": 523.96,
-          "returnPct": -0.96,
+          "price": 527.885,
+          "returnPct": -0.22,
           "daysHeld": 6,
           "horizonClass": "long",
           "scoreNow": 0.3296388817145765,
@@ -8959,8 +9075,8 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.33 in its direction)",
-            "price": 523.96,
-            "returnPct": -0.96,
+            "price": 527.885,
+            "returnPct": -0.22,
             "daysHeld": 6,
             "horizonClass": "long",
             "scoreNow": 0.3296388817145765,
@@ -8973,7 +9089,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 527.21
+        }
       },
       {
         "id": "SSNLF-2026-10-17-runner-1792203754",
@@ -9089,7 +9211,7 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 65.209999,
+        "lastPrice": 65.21,
         "lastPriceLocal": 65.209999,
         "scoreNow": 0.349,
         "lastReview": {
@@ -9154,7 +9276,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 65.21
+        }
       },
       {
         "id": "MU-2026-10-17-runner-1792203754",
@@ -9187,14 +9315,14 @@
         "trims": [],
         "fees": 2.05,
         "realizedPL": 0,
-        "pnl": 64.08,
-        "returnPct": 0,
+        "pnl": 55.72,
+        "returnPct": 1.36,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.332,
         "confidence": 0.609,
-        "longTermLean": 0.868,
+        "longTermLean": 0.874,
         "components": {
           "trend": -0.051,
           "momentum": 0.283,
@@ -9270,18 +9398,18 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 892.56,
-        "lastPriceLocal": 892.56,
-        "scoreNow": 0.272,
+        "lastPrice": 890.77,
+        "lastPriceLocal": 886.45,
+        "scoreNow": 0.273,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.27 in its direction)",
-          "price": 892.56,
-          "returnPct": 1.56,
+          "price": 886.45,
+          "returnPct": 0.87,
           "daysHeld": 6,
           "horizonClass": "medium",
-          "scoreNow": 0.27172811590232215,
+          "scoreNow": 0.27293674899584736,
           "markSource": null,
           "catalyst": {
             "date": "2026-12-23",
@@ -9321,11 +9449,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.27 in its direction)",
-            "price": 892.56,
-            "returnPct": 1.56,
+            "price": 886.45,
+            "returnPct": 0.87,
             "daysHeld": 6,
             "horizonClass": "medium",
-            "scoreNow": 0.27172811590232215,
+            "scoreNow": 0.27293674899584736,
             "markSource": null,
             "catalyst": {
               "date": "2026-12-23",
@@ -9335,7 +9463,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-10-26",
+          "price": 890.77
+        }
       },
       {
         "id": "GME-2026-10-17-runner-1792203754",
@@ -9345,7 +9479,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "momentum",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": 34,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -9368,14 +9502,14 @@
         "trims": [],
         "fees": 1.9,
         "realizedPL": 0,
-        "pnl": -306.18,
-        "returnPct": 0,
+        "pnl": -279.25,
+        "returnPct": -7.35,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.297,
-        "confidence": 0.65,
-        "longTermLean": 0.59,
+        "confidence": 0.597,
+        "longTermLean": 0.522,
         "components": {
           "trend": 1,
           "momentum": 0.686,
@@ -9461,18 +9595,18 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 24.65,
-        "lastPriceLocal": 24.65,
-        "scoreNow": 0.215,
+        "lastPrice": 24.84,
+        "lastPriceLocal": 24.765,
+        "scoreNow": 0.194,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
-          "reason": "signal faded to +0.22 - exits at the stop / target or the 34-session horizon",
-          "price": 24.65,
-          "returnPct": -8.06,
+          "reason": "signal faded to +0.19 - exits at the stop / target or the 34-session horizon",
+          "price": 24.765,
+          "returnPct": -7.63,
           "daysHeld": 6,
-          "horizonClass": "long",
-          "scoreNow": 0.21505732925545512,
+          "horizonClass": "medium",
+          "scoreNow": 0.19445164624277295,
           "markSource": null,
           "catalyst": {
             "date": "2026-12-08",
@@ -9511,12 +9645,12 @@
           {
             "at": "2026-10-26",
             "decision": "hold",
-            "reason": "signal faded to +0.22 - exits at the stop / target or the 34-session horizon",
-            "price": 24.65,
-            "returnPct": -8.06,
+            "reason": "signal faded to +0.19 - exits at the stop / target or the 34-session horizon",
+            "price": 24.765,
+            "returnPct": -7.63,
             "daysHeld": 6,
-            "horizonClass": "long",
-            "scoreNow": 0.21505732925545512,
+            "horizonClass": "medium",
+            "scoreNow": 0.19445164624277295,
             "markSource": null,
             "catalyst": {
               "date": "2026-12-08",
@@ -9526,7 +9660,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "TEAM-2026-10-17-runner-1792203754",
@@ -9559,14 +9694,14 @@
         "trims": [],
         "fees": 0.88,
         "realizedPL": 0,
-        "pnl": 120.03,
-        "returnPct": 0,
+        "pnl": 142.53,
+        "returnPct": 8.11,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.29,
         "confidence": 0.576,
-        "longTermLean": 0.266,
+        "longTermLean": 0.267,
         "components": {
           "trend": 1,
           "momentum": 0.999,
@@ -9671,18 +9806,18 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 222.01,
-        "lastPriceLocal": 222.01,
-        "scoreNow": 0.23,
+        "lastPrice": 224.67,
+        "lastPriceLocal": 225.115,
+        "scoreNow": 0.231,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "signal faded to +0.23 - exits at the stop / target or the 35-session horizon",
-          "price": 222.01,
-          "returnPct": 6.83,
+          "price": 225.115,
+          "returnPct": 8.32,
           "daysHeld": 6,
           "horizonClass": "medium",
-          "scoreNow": 0.2299020554675806,
+          "scoreNow": 0.23060675345415776,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
@@ -9722,11 +9857,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "signal faded to +0.23 - exits at the stop / target or the 35-session horizon",
-            "price": 222.01,
-            "returnPct": 6.83,
+            "price": 225.115,
+            "returnPct": 8.32,
             "daysHeld": 6,
             "horizonClass": "medium",
-            "scoreNow": 0.2299020554675806,
+            "scoreNow": 0.23060675345415776,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-05",
@@ -9736,7 +9871,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "SBLK-2026-10-09-1791533157298-0",
@@ -9901,7 +10037,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 27.79,
+        "lastPrice": 29.29,
         "lastPriceSource": "github",
         "returnPct": -8.8,
         "pnl": 0,
@@ -10082,7 +10218,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 2.13,
+        "lastPrice": 2.14,
         "lastPriceSource": "github",
         "returnPct": 5.75,
         "pnl": 0,
@@ -10265,8 +10401,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 205.28,
-        "lastPriceSource": "finnhub",
+        "lastPrice": 201.645,
+        "lastPriceSource": "github",
         "returnPct": 1.95,
         "pnl": 0,
         "partialSells": [
@@ -10446,7 +10582,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 103.53,
+        "lastPrice": 110.38,
         "lastPriceSource": "github",
         "returnPct": 5.24,
         "pnl": 0,
@@ -10623,19 +10759,19 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 1.18,
+        "lastPrice": 1.12,
         "lastPriceSource": "finnhub",
-        "returnPct": 10.17,
-        "pnl": 0,
+        "returnPct": 5.08,
+        "pnl": 351.08,
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-10-17",
-          "price": 1.06
+          "date": "2026-10-26",
+          "price": 1.12
         },
         "origin": "app",
         "_via": "app-adopt",
         "updatedAt": "2026-10-17T04:25:53.552Z",
-        "lastPriceLocal": 1.18,
+        "lastPriceLocal": 1.1,
         "peakPrice": 1.095,
         "scoreNow": -0.447,
         "longTermLean": 0.297,
@@ -10643,8 +10779,8 @@
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "thesis intact (aligned +0.45 in its direction)",
-          "price": 1.18,
-          "returnPct": 0,
+          "price": 1.1,
+          "returnPct": 6.78,
           "daysHeld": 11,
           "horizonClass": "medium",
           "scoreNow": -0.4474739958714372,
@@ -10687,8 +10823,8 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.45 in its direction)",
-            "price": 1.18,
-            "returnPct": 0,
+            "price": 1.1,
+            "returnPct": 6.78,
             "daysHeld": 11,
             "horizonClass": "medium",
             "scoreNow": -0.4474739958714372,
@@ -10864,8 +11000,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 0.2381,
-        "lastPriceSource": "finnhub",
+        "lastPrice": 0.2254,
+        "lastPriceSource": "github",
         "returnPct": 22.69,
         "pnl": 1636.38,
         "partialSells": [
@@ -10959,14 +11095,14 @@
         "trims": [],
         "fees": 2.6,
         "realizedPL": 0,
-        "pnl": 767.4,
-        "returnPct": 44.77,
+        "pnl": 740,
+        "returnPct": 43.02,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.349,
-        "confidence": 0.787,
-        "longTermLean": 0.662,
+        "confidence": 0.842,
+        "longTermLean": 0.673,
         "components": {
           "trend": 0.354,
           "momentum": 0.386,
@@ -11096,7 +11232,7 @@
         "optionExpiry": "2026-11-06",
         "optionContracts": 4,
         "optionPremium": 4.3,
-        "optionMark": 6.225,
+        "optionMark": 6.15,
         "optionMarkAt": "2026-10-26",
         "optionDelta": 0.4667,
         "optionIV": 0.3434,
@@ -11122,21 +11258,21 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 184.17,
-        "lastPriceLocal": 184.17,
-        "scoreNow": 0.391,
-        "optionMarkSource": "chain 2026-10-26T14:05",
+        "lastPrice": 182.77,
+        "lastPriceLocal": 182.88,
+        "scoreNow": 0.415,
+        "optionMarkSource": "chain 2026-10-26T14:35",
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "minimum hold (1/2 sessions) - only expiry can close it",
-          "price": 184.17,
-          "returnPct": 44.77,
+          "price": 182.88,
+          "returnPct": 43.02,
           "daysHeld": 1,
           "horizonClass": "short",
-          "scoreNow": 0.39107280557054147,
-          "markSource": "chain 2026-10-26T14:05",
-          "optionMark": 6.225,
+          "scoreNow": 0.4146363103391519,
+          "markSource": "chain 2026-10-26T14:35",
+          "optionMark": 6.15,
           "catalyst": {
             "date": "2026-10-30",
             "days": 4,
@@ -11165,13 +11301,13 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "minimum hold (1/2 sessions) - only expiry can close it",
-            "price": 184.17,
-            "returnPct": 44.77,
+            "price": 182.88,
+            "returnPct": 43.02,
             "daysHeld": 1,
             "horizonClass": "short",
-            "scoreNow": 0.39107280557054147,
-            "markSource": "chain 2026-10-26T14:05",
-            "optionMark": 6.225,
+            "scoreNow": 0.4146363103391519,
+            "markSource": "chain 2026-10-26T14:35",
+            "optionMark": 6.15,
             "catalyst": {
               "date": "2026-10-30",
               "days": 4,
@@ -11180,7 +11316,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "optionValue": 6.15
       },
       {
         "id": "BP-2026-10-23-runner-1792775954",
@@ -11213,14 +11351,14 @@
         "trims": [],
         "fees": 1.54,
         "realizedPL": 0,
-        "pnl": -17.98,
-        "returnPct": 0,
+        "pnl": -38.37,
+        "returnPct": -1.25,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.305,
-        "confidence": 0.828,
-        "longTermLean": 0.535,
+        "confidence": 0.82,
+        "longTermLean": 0.61,
         "components": {
           "trend": 0.47,
           "momentum": 0.402,
@@ -11358,18 +11496,18 @@
         "entryQuoteAt": "2026-10-23T17:05:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 51,
-        "lastPriceLocal": 51,
-        "scoreNow": 0.384,
+        "lastPrice": 50.66,
+        "lastPriceLocal": 50.495,
+        "scoreNow": 0.378,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
-          "price": 51,
-          "returnPct": -0.58,
+          "price": 50.495,
+          "returnPct": -1.57,
           "daysHeld": 1,
           "horizonClass": "short",
-          "scoreNow": 0.3838826724045551,
+          "scoreNow": 0.3778168418585245,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-30",
@@ -11398,11 +11536,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
-            "price": 51,
-            "returnPct": -0.58,
+            "price": 50.495,
+            "returnPct": -1.57,
             "daysHeld": 1,
             "horizonClass": "short",
-            "scoreNow": 0.3838826724045551,
+            "scoreNow": 0.3778168418585245,
             "markSource": null,
             "catalyst": {
               "date": "2026-10-30",
@@ -11412,7 +11550,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "DVN-2026-10-23-runner-1792775954",
@@ -11445,14 +11584,14 @@
         "trims": [],
         "fees": 1.81,
         "realizedPL": 0,
-        "pnl": 32.68,
-        "returnPct": 0,
+        "pnl": -15.81,
+        "returnPct": -0.44,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.301,
-        "confidence": 0.824,
-        "longTermLean": 0.73,
+        "confidence": 0.895,
+        "longTermLean": 0.75,
         "components": {
           "trend": 0.125,
           "momentum": 0.269,
@@ -11593,18 +11732,18 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 51.94,
-        "lastPriceLocal": 51.94,
-        "scoreNow": 0.394,
+        "lastPrice": 51.25,
+        "lastPriceLocal": 51.285,
+        "scoreNow": 0.419,
         "lastReview": {
           "at": "2026-10-26",
           "decision": "hold",
           "reason": "minimum hold (1/5 sessions) - only a −18% move closes it",
-          "price": 51.94,
-          "returnPct": 0.9,
+          "price": 51.285,
+          "returnPct": -0.37,
           "daysHeld": 1,
           "horizonClass": "medium",
-          "scoreNow": 0.3938691267959355,
+          "scoreNow": 0.4192503498375142,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
@@ -11633,11 +11772,11 @@
             "at": "2026-10-26",
             "decision": "hold",
             "reason": "minimum hold (1/5 sessions) - only a −18% move closes it",
-            "price": 51.94,
-            "returnPct": 0.9,
+            "price": 51.285,
+            "returnPct": -0.37,
             "daysHeld": 1,
             "horizonClass": "medium",
-            "scoreNow": 0.3938691267959355,
+            "scoreNow": 0.4192503498375142,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-05",
@@ -11647,7 +11786,8 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "AMGN-2026-10-26-runner-1793023818-opt",
@@ -11680,8 +11820,8 @@
         "trims": [],
         "fees": 1.3,
         "realizedPL": 0,
-        "pnl": 0,
-        "returnPct": 0,
+        "pnl": 275,
+        "returnPct": 10.66,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -11857,7 +11997,7 @@
         "optionExpiry": "2026-12-18",
         "optionContracts": 2,
         "optionPremium": 12.9,
-        "optionMark": 12.1,
+        "optionMark": 14.275,
         "optionMarkAt": "2026-10-26",
         "optionDelta": 0.3718,
         "optionIV": 0.3309,
@@ -11868,8 +12008,50 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
+        "lastPrice": 448.05,
+        "lastPriceLocal": 448.21,
+        "scoreNow": 0.322,
+        "optionMarkSource": "chain 2026-10-26T14:20",
+        "lastReview": {
+          "at": "2026-10-26",
+          "decision": "hold",
+          "reason": "minimum hold (0/2 sessions) - only expiry can close it",
+          "price": 448.21,
+          "returnPct": 10.66,
+          "daysHeld": 0,
+          "horizonClass": "short",
+          "scoreNow": 0.3221251179708996,
+          "markSource": "chain 2026-10-26T14:20",
+          "optionMark": 14.275,
+          "catalyst": {
+            "date": "2026-11-03",
+            "days": 8,
+            "time": ""
+          }
+        },
+        "reviews": [
+          {
+            "at": "2026-10-26",
+            "decision": "hold",
+            "reason": "minimum hold (0/2 sessions) - only expiry can close it",
+            "price": 448.21,
+            "returnPct": 10.66,
+            "daysHeld": 0,
+            "horizonClass": "short",
+            "scoreNow": 0.3221251179708996,
+            "markSource": "chain 2026-10-26T14:20",
+            "optionMark": 14.275,
+            "catalyst": {
+              "date": "2026-11-03",
+              "days": 8,
+              "time": ""
+            }
+          }
+        ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "optionValue": 14.28
       },
       {
         "id": "ESTC-2026-10-26-runner-1793023818-opt",
@@ -11885,7 +12067,7 @@
         "exitDate": null,
         "entryPrice": 101.96,
         "exitPrice": null,
-        "peakPrice": 101.96,
+        "peakPrice": 103.5,
         "priceBasis": "USD",
         "currency": "USD",
         "entryPriceLocal": 101.96,
@@ -11902,14 +12084,14 @@
         "trims": [],
         "fees": 1.3,
         "realizedPL": 0,
-        "pnl": 0,
-        "returnPct": 0,
+        "pnl": -20,
+        "returnPct": -1.35,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.298,
-        "confidence": 0.687,
-        "longTermLean": 0.313,
+        "confidence": 0.686,
+        "longTermLean": 0.309,
         "components": {
           "trend": 0.675,
           "momentum": 0.965,
@@ -12097,7 +12279,7 @@
         "optionExpiry": "2026-11-20",
         "optionContracts": 2,
         "optionPremium": 7.4,
-        "optionMark": 7.25,
+        "optionMark": 7.3,
         "optionMarkAt": "2026-10-26",
         "optionDelta": 0.4972,
         "optionIV": 0.7278,
@@ -12132,8 +12314,50 @@
         "entryQuoteAt": "2026-10-26T13:50:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
+        "lastPrice": 104.29,
+        "lastPriceLocal": 103.5,
+        "scoreNow": 0.296,
+        "optionMarkSource": "chain 2026-10-26T14:20",
+        "lastReview": {
+          "at": "2026-10-26",
+          "decision": "hold",
+          "reason": "minimum hold (0/2 sessions) - only expiry can close it",
+          "price": 103.5,
+          "returnPct": -1.35,
+          "daysHeld": 0,
+          "horizonClass": "short",
+          "scoreNow": 0.2957810970958631,
+          "markSource": "chain 2026-10-26T14:20",
+          "optionMark": 7.3,
+          "catalyst": {
+            "date": "2026-11-19",
+            "days": 24,
+            "time": ""
+          }
+        },
+        "reviews": [
+          {
+            "at": "2026-10-26",
+            "decision": "hold",
+            "reason": "minimum hold (0/2 sessions) - only expiry can close it",
+            "price": 103.5,
+            "returnPct": -1.35,
+            "daysHeld": 0,
+            "horizonClass": "short",
+            "scoreNow": 0.2957810970958631,
+            "markSource": "chain 2026-10-26T14:20",
+            "optionMark": 7.3,
+            "catalyst": {
+              "date": "2026-11-19",
+              "days": 24,
+              "time": ""
+            }
+          }
+        ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "optionValue": 7.3
       },
       {
         "id": "OKE-2026-10-26-runner-1793023818-opt",
@@ -12166,14 +12390,14 @@
         "trims": [],
         "fees": 0.65,
         "realizedPL": 0,
-        "pnl": 0,
-        "returnPct": 0,
+        "pnl": -50,
+        "returnPct": -5.56,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.28,
-        "confidence": 0.763,
-        "longTermLean": 0.843,
+        "confidence": 0.825,
+        "longTermLean": 0.882,
         "components": {
           "trend": 0.058,
           "momentum": 0.21,
@@ -12345,7 +12569,7 @@
         "optionExpiry": "2027-01-15",
         "optionContracts": 1,
         "optionPremium": 9,
-        "optionMark": 8.55,
+        "optionMark": 8.5,
         "optionMarkAt": "2026-10-26",
         "optionDelta": 0.7099,
         "optionIV": 0.314,
@@ -12380,8 +12604,50 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
+        "lastPrice": 95.41,
+        "lastPriceLocal": 95.445,
+        "scoreNow": 0.3,
+        "optionMarkSource": "chain 2026-10-26T14:35",
+        "lastReview": {
+          "at": "2026-10-26",
+          "decision": "hold",
+          "reason": "minimum hold (0/5 sessions) - only expiry can close it",
+          "price": 95.445,
+          "returnPct": -5.56,
+          "daysHeld": 0,
+          "horizonClass": "medium",
+          "scoreNow": 0.29986343621160655,
+          "markSource": "chain 2026-10-26T14:35",
+          "optionMark": 8.5,
+          "catalyst": {
+            "date": "2026-10-27",
+            "days": 1,
+            "time": "AMC"
+          }
+        },
+        "reviews": [
+          {
+            "at": "2026-10-26",
+            "decision": "hold",
+            "reason": "minimum hold (0/5 sessions) - only expiry can close it",
+            "price": 95.445,
+            "returnPct": -5.56,
+            "daysHeld": 0,
+            "horizonClass": "medium",
+            "scoreNow": 0.29986343621160655,
+            "markSource": "chain 2026-10-26T14:35",
+            "optionMark": 8.5,
+            "catalyst": {
+              "date": "2026-10-27",
+              "days": 1,
+              "time": "AMC"
+            }
+          }
+        ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "optionValue": 8.5
       },
       {
         "id": "NVDA-2026-10-26-runner-1793023818-opt",
@@ -12397,7 +12663,7 @@
         "exitDate": null,
         "entryPrice": 214.75,
         "exitPrice": null,
-        "peakPrice": 214.75,
+        "peakPrice": 214.79,
         "priceBasis": "USD",
         "currency": "USD",
         "entryPriceLocal": 214.75,
@@ -12414,8 +12680,8 @@
         "trims": [],
         "fees": 0.65,
         "realizedPL": 0,
-        "pnl": 0,
-        "returnPct": 0,
+        "pnl": -45,
+        "returnPct": -3.1,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -12603,7 +12869,7 @@
         "optionExpiry": "2027-01-15",
         "optionContracts": 1,
         "optionPremium": 14.5,
-        "optionMark": 14.425,
+        "optionMark": 14.05,
         "optionMarkAt": "2026-10-26",
         "optionDelta": 0.5078,
         "optionIV": 0.4146,
@@ -12629,8 +12895,50 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
+        "lastPrice": 215.18,
+        "lastPriceLocal": 214.79,
+        "scoreNow": 0.279,
+        "optionMarkSource": "chain 2026-10-26T14:20",
+        "lastReview": {
+          "at": "2026-10-26",
+          "decision": "hold",
+          "reason": "minimum hold (0/5 sessions) - only expiry can close it",
+          "price": 214.79,
+          "returnPct": -3.1,
+          "daysHeld": 0,
+          "horizonClass": "medium",
+          "scoreNow": 0.27860967082186333,
+          "markSource": "chain 2026-10-26T14:20",
+          "optionMark": 14.05,
+          "catalyst": {
+            "date": "2026-11-17",
+            "days": 22,
+            "time": ""
+          }
+        },
+        "reviews": [
+          {
+            "at": "2026-10-26",
+            "decision": "hold",
+            "reason": "minimum hold (0/5 sessions) - only expiry can close it",
+            "price": 214.79,
+            "returnPct": -3.1,
+            "daysHeld": 0,
+            "horizonClass": "medium",
+            "scoreNow": 0.27860967082186333,
+            "markSource": "chain 2026-10-26T14:20",
+            "optionMark": 14.05,
+            "catalyst": {
+              "date": "2026-11-17",
+              "days": 22,
+              "time": ""
+            }
+          }
+        ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "finnhub",
+        "optionValue": 14.05
       }
     ],
     "lastRunDate": "2026-10-15",
@@ -12695,7 +13003,7 @@
       },
       {
         "date": "2026-10-26",
-        "value": 106775.4
+        "value": 107147.9
       }
     ],
     "transactions": [
@@ -12715,8 +13023,8 @@
     ],
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
-    "runnerJournalAt": "2026-10-26T14:10:18.058906+00:00",
-    "mirroredAt": "2026-10-26T14:31:12.295Z"
+    "runnerJournalAt": "2026-10-26T14:36:51.959035+00:00",
+    "mirroredAt": "2026-10-26T14:39:09.255Z"
   },
   "botWeights": {},
   "reviewQueue": [],
