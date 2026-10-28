@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-27T15:28:49.590Z",
+  "updatedAt": "2026-10-28T13:15:29.740Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -450,7 +450,7 @@
   ],
   "thesesDeleted": {},
   "bot": {
-    "bankroll": 119126.58,
+    "bankroll": 100639.61,
     "startedAt": "2026-06-22",
     "bets": [
       {
@@ -5283,7 +5283,7 @@
       },
       {
         "id": "PARA-2026-10-14-1792013920055-1",
-        "pnl": 771.79,
+        "pnl": -18502.32,
         "won": false,
         "_via": "supabase",
         "name": "Banzai International, Inc.",
@@ -5292,20 +5292,20 @@
         "origin": "app",
         "sector": "Technology",
         "shares": 5982.8398,
-        "status": "open",
+        "status": "closed",
         "ticker": "PARA",
         "dollars": 6684.48,
         "dalioEnv": "growth-down",
-        "exitDate": null,
+        "exitDate": "2026-10-27",
         "holdDays": 0,
         "leverage": 1,
         "notional": 3230.73,
-        "scoreNow": -0.486,
+        "scoreNow": -0.439,
         "cashAfter": 85388.61,
         "direction": "short",
         "entryDate": "2026-10-14",
-        "exitPrice": null,
-        "lastPrice": 0.411,
+        "exitPrice": 3.63,
+        "lastPrice": 3.63,
         "peakPrice": 0.3971,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 33)",
@@ -5322,7 +5322,7 @@
           "13F: 1 institution hold · 0 adding / 0 trimming",
           "SEC: Last 10-Q 62d ago"
         ],
-        "returnPct": -0.44,
+        "returnPct": -572.22,
         "stopPrice": 0.68,
         "components": {
           "fed": 0.102,
@@ -5342,10 +5342,10 @@
           "earningsRecency": 0.15,
           "peerRelativeStrength": -1
         },
-        "confidence": 0.823,
+        "confidence": 0.706,
         "conviction": -0.593,
         "entryPrice": 0.54,
-        "exitReason": "open",
+        "exitReason": "hard-stop",
         "instrument": "shares",
         "markTicker": "PARA",
         "optionType": null,
@@ -5381,7 +5381,7 @@
         ],
         "exitMomentum": 0,
         "leveragedEtf": null,
-        "longTermLean": 0.527,
+        "longTermLean": 0.524,
         "partialSells": [
           {
             "date": "2026-10-14",
@@ -5395,7 +5395,7 @@
         "longTermTrend": "strong-down",
         "priceCurrency": "USD",
         "regimeAtEntry": "risk-on",
-        "lastPriceLocal": 0.411,
+        "lastPriceLocal": 3.63,
         "couldHaveWorked": "",
         "decisionReceipt": {
           "style": "short",
@@ -5494,14 +5494,14 @@
         ],
         "realizedTrim": -15.35,
         "lastReview": {
-          "at": "2026-10-26",
-          "decision": "hold",
-          "reason": "thesis intact (aligned +0.49 in its direction)",
-          "price": 0.411,
-          "returnPct": 23.89,
-          "daysHeld": 8,
+          "at": "2026-10-27",
+          "decision": "close",
+          "reason": "hard-stop at $3.63",
+          "price": 3.63,
+          "returnPct": -572.22,
+          "daysHeld": 9,
           "horizonClass": "long",
-          "scoreNow": -0.4863194264482997,
+          "scoreNow": -0.43911721898343503,
           "markSource": null,
           "catalyst": {
             "date": null,
@@ -5552,8 +5552,29 @@
               "days": null,
               "time": ""
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "close",
+            "reason": "hard-stop at $3.63",
+            "price": 3.63,
+            "returnPct": -572.22,
+            "daysHeld": 9,
+            "horizonClass": "long",
+            "scoreNow": -0.43911721898343503,
+            "markSource": null,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
           }
         ],
+        "realizedPL": -18502.32,
+        "sharesAtExit": 5982.8398,
+        "exitAt": "2026-10-27T18:04:08+00:00",
+        "exitQuoteAt": "2026-10-27T17:50:12+00:00",
+        "updatedAt": "2026-10-27T18:05:40+00:00",
         "_fromRepo": true,
         "_runnerSynced": true
       },
@@ -5941,7 +5962,7 @@
       },
       {
         "id": "UMC-2026-10-14-1792013920055-3",
-        "pnl": -804.01,
+        "pnl": -750.16,
         "won": false,
         "_via": "supabase",
         "name": "United Microelectronics Corporation",
@@ -5958,12 +5979,12 @@
         "holdDays": 0,
         "leverage": 1,
         "notional": 7958.41,
-        "scoreNow": 0.239,
+        "scoreNow": 0.316,
         "cashAfter": 58589.04,
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 19.265,
+        "lastPrice": 19.41,
         "peakPrice": 21.43,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
@@ -6000,7 +6021,7 @@
           "earningsRecency": 0.15,
           "peerRelativeStrength": -0.335
         },
-        "confidence": 0.639,
+        "confidence": 0.744,
         "conviction": 0.467,
         "entryPrice": 21.43,
         "exitReason": "open",
@@ -6038,12 +6059,12 @@
         ],
         "exitMomentum": 0,
         "leveragedEtf": null,
-        "longTermLean": 0.746,
+        "longTermLean": 0.744,
         "allocationPct": 8.3,
         "longTermTrend": "up",
         "priceCurrency": "USD",
         "regimeAtEntry": "risk-on",
-        "lastPriceLocal": 19.265,
+        "lastPriceLocal": 19.41,
         "couldHaveWorked": "",
         "decisionReceipt": {
           "style": "rotation/macro",
@@ -6131,18 +6152,18 @@
         "signalsThatHelped": [],
         "leveragedEtfMultiplier": null,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "signal faded to +0.24 - exits at the stop / target or the 17-session horizon",
-          "price": 19.265,
-          "returnPct": -10.1,
-          "daysHeld": 8,
+          "reason": "thesis intact (aligned +0.32 in its direction)",
+          "price": 19.41,
+          "returnPct": -9.43,
+          "daysHeld": 9,
           "horizonClass": "long",
-          "scoreNow": 0.23880805742739575,
+          "scoreNow": 0.3164032045201631,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-28",
-            "days": 2,
+            "days": 1,
             "time": "BMO"
           }
         },
@@ -6189,6 +6210,22 @@
               "days": 2,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.32 in its direction)",
+            "price": 19.41,
+            "returnPct": -9.43,
+            "daysHeld": 9,
+            "horizonClass": "long",
+            "scoreNow": 0.3164032045201631,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-10-28",
+              "days": 1,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -6225,14 +6262,14 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": -68.42,
+        "pnl": -372.5,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.5,
-        "confidence": 0.885,
-        "longTermLean": 0.616,
+        "confidence": 0.783,
+        "longTermLean": 0.516,
         "components": {
           "trend": 1,
           "momentum": 0.918,
@@ -6312,22 +6349,22 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 470.49,
-        "lastPriceLocal": 470.49,
-        "scoreNow": 0.498,
+        "lastPrice": 436.8,
+        "lastPriceLocal": 436.8,
+        "scoreNow": 0.419,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.50 in its direction)",
-          "price": 470.49,
-          "returnPct": -1.59,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.42 in its direction)",
+          "price": 436.8,
+          "returnPct": -8.63,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.49807403204027806,
+          "scoreNow": 0.4189216753748541,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-03",
-            "days": 8,
+            "days": 7,
             "time": "BMO"
           }
         },
@@ -6374,6 +6411,22 @@
               "days": 8,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.42 in its direction)",
+            "price": 436.8,
+            "returnPct": -8.63,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.4189216753748541,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-03",
+              "days": 7,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -6410,14 +6463,14 @@
         "trims": [],
         "fees": 2.14,
         "realizedPL": 0,
-        "pnl": -170.5,
+        "pnl": -537.52,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.482,
-        "confidence": 0.847,
-        "longTermLean": 0.735,
+        "confidence": 0.74,
+        "longTermLean": 0.664,
         "components": {
           "trend": 0.845,
           "momentum": 0.862,
@@ -6497,22 +6550,22 @@
           }
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 427.03,
-        "lastPriceLocal": 427.03,
-        "scoreNow": 0.432,
+        "lastPrice": 388.97,
+        "lastPriceLocal": 388.97,
+        "scoreNow": 0.344,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.43 in its direction)",
-          "price": 427.03,
-          "returnPct": -3.98,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.34 in its direction)",
+          "price": 388.97,
+          "returnPct": -12.53,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.4321856386193599,
+          "scoreNow": 0.3439385478358703,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-28",
-            "days": 94,
+            "days": 93,
             "time": "BMO"
           }
         },
@@ -6559,6 +6612,22 @@
               "days": 94,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.34 in its direction)",
+            "price": 388.97,
+            "returnPct": -12.53,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.3439385478358703,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-28",
+              "days": 93,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -6595,14 +6664,14 @@
         "trims": [],
         "fees": 2.12,
         "realizedPL": 0,
-        "pnl": -60.93,
+        "pnl": -338.79,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.434,
-        "confidence": 0.933,
-        "longTermLean": 0.675,
+        "confidence": 0.819,
+        "longTermLean": 0.577,
         "components": {
           "trend": 0.699,
           "momentum": 0.832,
@@ -6703,22 +6772,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 288.95,
-        "lastPriceLocal": 288.95,
-        "scoreNow": 0.484,
+        "lastPrice": 269.705,
+        "lastPriceLocal": 269.705,
+        "scoreNow": 0.397,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.48 in its direction)",
-          "price": 288.95,
-          "returnPct": -1.44,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.40 in its direction)",
+          "price": 269.705,
+          "returnPct": -8,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.4844709649313113,
+          "scoreNow": 0.3966274120854909,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-28",
-            "days": 2,
+            "days": 1,
             "time": "BMO"
           }
         },
@@ -6765,6 +6834,22 @@
               "days": 2,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.40 in its direction)",
+            "price": 269.705,
+            "returnPct": -8,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.3966274120854909,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-10-28",
+              "days": 1,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -6801,14 +6886,14 @@
         "trims": [],
         "fees": 2.12,
         "realizedPL": 0,
-        "pnl": 24.19,
+        "pnl": -68.61,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.433,
-        "confidence": 0.907,
-        "longTermLean": 0.693,
+        "confidence": 0.79,
+        "longTermLean": 0.674,
         "components": {
           "trend": 0.42,
           "momentum": 0.506,
@@ -6914,22 +6999,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 107.27,
-        "lastPriceLocal": 107.27,
-        "scoreNow": 0.537,
+        "lastPrice": 104.93,
+        "lastPriceLocal": 104.93,
+        "scoreNow": 0.43,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.54 in its direction)",
-          "price": 107.27,
-          "returnPct": 0.57,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.43 in its direction)",
+          "price": 104.93,
+          "returnPct": -1.62,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.5366037744949597,
+          "scoreNow": 0.4300833145468893,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-29",
-            "days": 3,
+            "days": 2,
             "time": "BMO"
           }
         },
@@ -6976,6 +7061,22 @@
               "days": 3,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.43 in its direction)",
+            "price": 104.93,
+            "returnPct": -1.62,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.4300833145468893,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-10-29",
+              "days": 2,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -7012,14 +7113,14 @@
         "trims": [],
         "fees": 2.09,
         "realizedPL": 0,
-        "pnl": 154.52,
+        "pnl": 86.67,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.405,
-        "confidence": 0.9,
-        "longTermLean": 0.718,
+        "confidence": 0.797,
+        "longTermLean": 0.658,
         "components": {
           "trend": 0.078,
           "momentum": 0.266,
@@ -7124,23 +7225,23 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 163.84,
-        "lastPriceLocal": 163.84,
-        "scoreNow": 0.514,
+        "lastPrice": 161.28,
+        "lastPriceLocal": 161.28,
+        "scoreNow": 0.424,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.51 in its direction)",
-          "price": 163.84,
-          "returnPct": 3.69,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.42 in its direction)",
+          "price": 161.28,
+          "returnPct": 2.07,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.5141590032541322,
+          "scoreNow": 0.4238672583639458,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
-            "days": 10,
-            "time": ""
+            "days": 9,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -7186,6 +7287,22 @@
               "days": 10,
               "time": ""
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.42 in its direction)",
+            "price": 161.28,
+            "returnPct": 2.07,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.4238672583639458,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-05",
+              "days": 9,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
@@ -7222,14 +7339,14 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 125.59,
+        "pnl": 25.53,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.385,
-        "confidence": 0.873,
-        "longTermLean": 0.747,
+        "confidence": 0.77,
+        "longTermLean": 0.688,
         "components": {
           "trend": 0.053,
           "momentum": 0.307,
@@ -7343,23 +7460,23 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 64.2,
-        "lastPriceLocal": 64.2,
-        "scoreNow": 0.468,
+        "lastPrice": 62.75,
+        "lastPriceLocal": 62.75,
+        "scoreNow": 0.377,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.47 in its direction)",
-          "price": 64.2,
-          "returnPct": 2.92,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.38 in its direction)",
+          "price": 62.75,
+          "returnPct": 0.59,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.4675495477249159,
+          "scoreNow": 0.37717395359060363,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-09",
-            "days": 14,
-            "time": ""
+            "days": 13,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -7405,6 +7522,22 @@
               "days": 14,
               "time": ""
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.38 in its direction)",
+            "price": 62.75,
+            "returnPct": 0.59,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.37717395359060363,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-09",
+              "days": 13,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
@@ -7441,14 +7574,14 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 298.12,
+        "pnl": 106.75,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.428,
-        "confidence": 0.797,
-        "longTermLean": 0.459,
+        "confidence": 0.877,
+        "longTermLean": 0.506,
         "components": {
           "trend": 0.901,
           "momentum": 0.935,
@@ -7534,23 +7667,23 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 245.64,
-        "lastPriceLocal": 245.64,
-        "scoreNow": 0.424,
+        "lastPrice": 235.395,
+        "lastPriceLocal": 235.395,
+        "scoreNow": 0.476,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.42 in its direction)",
-          "price": 245.64,
-          "returnPct": 6.95,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.48 in its direction)",
+          "price": 235.395,
+          "returnPct": 2.49,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.4239757198408154,
+          "scoreNow": 0.4756430035698504,
           "markSource": null,
           "catalyst": {
-            "date": "2026-12-17",
-            "days": 52,
-            "time": "BMO"
+            "date": "2026-12-16",
+            "days": 50,
+            "time": ""
           }
         },
         "reviews": [
@@ -7596,6 +7729,22 @@
               "days": 52,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.48 in its direction)",
+            "price": 235.395,
+            "returnPct": 2.49,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.4756430035698504,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-12-16",
+              "days": 50,
+              "time": ""
+            }
           }
         ],
         "_fromRepo": true,
@@ -7632,14 +7781,14 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": 153.13,
+        "pnl": 49.55,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.405,
-        "confidence": 0.897,
-        "longTermLean": 0.632,
+        "confidence": 0.794,
+        "longTermLean": 0.558,
         "components": {
           "trend": 0.395,
           "momentum": 0.609,
@@ -7745,22 +7894,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 151.64,
-        "lastPriceLocal": 151.64,
-        "scoreNow": 0.51,
+        "lastPrice": 148.17,
+        "lastPriceLocal": 148.17,
+        "scoreNow": 0.419,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.51 in its direction)",
-          "price": 151.64,
-          "returnPct": 3.5,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.42 in its direction)",
+          "price": 148.17,
+          "returnPct": 1.13,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.5096020259318077,
+          "scoreNow": 0.4187537142175856,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
-            "days": 10,
+            "days": 9,
             "time": "BMO"
           }
         },
@@ -7807,6 +7956,22 @@
               "days": 10,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.42 in its direction)",
+            "price": 148.17,
+            "returnPct": 1.13,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.4187537142175856,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-05",
+              "days": 9,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -7843,14 +8008,14 @@
         "trims": [],
         "fees": 2.26,
         "realizedPL": 0,
-        "pnl": -336.55,
+        "pnl": -239.06,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.404,
-        "confidence": 0.762,
-        "longTermLean": 0.737,
+        "confidence": 0.778,
+        "longTermLean": 0.733,
         "components": {
           "trend": -0.017,
           "momentum": 0.703,
@@ -7935,18 +8100,18 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 109.78,
-        "lastPriceLocal": 109.78,
-        "scoreNow": 0.299,
+        "lastPrice": 112.335,
+        "lastPriceLocal": 112.335,
+        "scoreNow": 0.326,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.30 in its direction)",
-          "price": 109.78,
-          "returnPct": -7.44,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.33 in its direction)",
+          "price": 112.335,
+          "returnPct": -5.28,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.29916221909122626,
+          "scoreNow": 0.326262910407902,
           "markSource": null,
           "catalyst": {
             "date": null,
@@ -7997,6 +8162,22 @@
               "days": null,
               "time": ""
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.33 in its direction)",
+            "price": 112.335,
+            "returnPct": -5.28,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.326262910407902,
+            "markSource": null,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
           }
         ],
         "_fromRepo": true,
@@ -8033,14 +8214,14 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": 139.96,
+        "pnl": 71.29,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.392,
-        "confidence": 0.878,
-        "longTermLean": 0.675,
+        "confidence": 0.774,
+        "longTermLean": 0.621,
         "components": {
           "trend": 0.301,
           "momentum": 0.471,
@@ -8147,22 +8328,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 232.195,
-        "lastPriceLocal": 232.195,
-        "scoreNow": 0.477,
+        "lastPrice": 228.66,
+        "lastPriceLocal": 228.66,
+        "scoreNow": 0.383,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.48 in its direction)",
-          "price": 232.195,
-          "returnPct": 3.2,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.38 in its direction)",
+          "price": 228.66,
+          "returnPct": 1.63,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.47706529109505,
+          "scoreNow": 0.3834319396990439,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-30",
-            "days": 4,
+            "days": 3,
             "time": "BMO"
           }
         },
@@ -8209,6 +8390,22 @@
               "days": 4,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.38 in its direction)",
+            "price": 228.66,
+            "returnPct": 1.63,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.3834319396990439,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-10-30",
+              "days": 3,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -8245,14 +8442,14 @@
         "trims": [],
         "fees": 2.14,
         "realizedPL": 0,
-        "pnl": -478.78,
+        "pnl": -521.12,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.35,
-        "confidence": 0.732,
-        "longTermLean": 0.827,
+        "confidence": 0.81,
+        "longTermLean": 0.838,
         "components": {
           "trend": 0.595,
           "momentum": 0.398,
@@ -8338,18 +8535,18 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 630.115,
-        "lastPriceLocal": 630.115,
-        "scoreNow": 0.248,
+        "lastPrice": 623.11,
+        "lastPriceLocal": 623.11,
+        "scoreNow": 0.275,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "signal faded to +0.25 - exits at the stop / target or the —-session horizon",
-          "price": 630.115,
-          "returnPct": -11.17,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.27 in its direction)",
+          "price": 623.11,
+          "returnPct": -12.15,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.2484776550604993,
+          "scoreNow": 0.2745117584002781,
           "markSource": null,
           "catalyst": {
             "date": null,
@@ -8400,6 +8597,22 @@
               "days": null,
               "time": ""
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.27 in its direction)",
+            "price": 623.11,
+            "returnPct": -12.15,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.2745117584002781,
+            "markSource": null,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
           }
         ],
         "_fromRepo": true,
@@ -8413,7 +8626,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "momentum",
-        "horizonType": "swing",
+        "horizonType": "core",
         "horizonDays": 36,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -8436,14 +8649,14 @@
         "trims": [],
         "fees": 2.06,
         "realizedPL": 0,
-        "pnl": -26.03,
+        "pnl": -80.77,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.344,
-        "confidence": 0.698,
-        "longTermLean": 0.445,
+        "confidence": 0.772,
+        "longTermLean": 0.501,
         "components": {
           "trend": 0.925,
           "momentum": 0.868,
@@ -8519,22 +8732,22 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 168.45,
-        "lastPriceLocal": 168.45,
-        "scoreNow": 0.273,
+        "lastPrice": 166.2,
+        "lastPriceLocal": 166.2,
+        "scoreNow": 0.305,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.27 in its direction)",
-          "price": 168.45,
-          "returnPct": -0.63,
-          "daysHeld": 6,
-          "horizonClass": "medium",
-          "scoreNow": 0.2726194738291236,
+          "reason": "thesis intact (aligned +0.30 in its direction)",
+          "price": 166.2,
+          "returnPct": -1.96,
+          "daysHeld": 7,
+          "horizonClass": "long",
+          "scoreNow": 0.30458666247629124,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-03",
-            "days": 8,
+            "days": 7,
             "time": "BMO"
           }
         },
@@ -8581,6 +8794,22 @@
               "days": 8,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.30 in its direction)",
+            "price": 166.2,
+            "returnPct": -1.96,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.30458666247629124,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-03",
+              "days": 7,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
@@ -8600,7 +8829,7 @@
         "exitDate": null,
         "entryPrice": 186.029999,
         "exitPrice": null,
-        "peakPrice": 199.88,
+        "peakPrice": 200.135,
         "priceBasis": "USD",
         "currency": "USD",
         "entryPriceLocal": 186.029999,
@@ -8617,14 +8846,14 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 303.19,
+        "pnl": 317.86,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.356,
-        "confidence": 0.744,
-        "longTermLean": 0.52,
+        "confidence": 0.818,
+        "longTermLean": 0.55,
         "components": {
           "trend": 0.62,
           "momentum": 0.913,
@@ -8705,23 +8934,23 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 199.16,
-        "lastPriceLocal": 199.16,
-        "scoreNow": 0.317,
+        "lastPrice": 199.795,
+        "lastPriceLocal": 199.795,
+        "scoreNow": 0.365,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.32 in its direction)",
-          "price": 199.16,
-          "returnPct": 7.06,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.37 in its direction)",
+          "price": 199.795,
+          "returnPct": 7.4,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.3172373669687085,
+          "scoreNow": 0.3654335983288886,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-02",
-            "days": 7,
-            "time": ""
+            "days": 6,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -8767,6 +8996,22 @@
               "days": 7,
               "time": ""
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.37 in its direction)",
+            "price": 199.795,
+            "returnPct": 7.4,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.3654335983288886,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-02",
+              "days": 6,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
@@ -8803,14 +9048,14 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": 17.31,
+        "pnl": 25.89,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.355,
-        "confidence": 0.792,
-        "longTermLean": 0.703,
+        "confidence": 0.879,
+        "longTermLean": 0.695,
         "components": {
           "trend": 0.379,
           "momentum": 0.804,
@@ -8918,22 +9163,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 531.17,
-        "lastPriceLocal": 531.17,
-        "scoreNow": 0.33,
+        "lastPrice": 532.22,
+        "lastPriceLocal": 532.22,
+        "scoreNow": 0.393,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.33 in its direction)",
-          "price": 531.17,
-          "returnPct": 0.4,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.39 in its direction)",
+          "price": 532.22,
+          "returnPct": 0.6,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.3296388817145765,
+          "scoreNow": 0.3929760839983498,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-28",
-            "days": 2,
+            "days": 1,
             "time": "AMC"
           }
         },
@@ -8980,6 +9225,22 @@
               "days": 2,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.39 in its direction)",
+            "price": 532.22,
+            "returnPct": 0.6,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.3929760839983498,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-10-28",
+              "days": 1,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
@@ -9022,8 +9283,8 @@
         "exitReason": "open",
         "status": "open",
         "conviction": 0.333,
-        "confidence": 0.711,
-        "longTermLean": 0.841,
+        "confidence": 0.811,
+        "longTermLean": 0.851,
         "components": {
           "trend": 0,
           "momentum": 0,
@@ -9101,20 +9362,20 @@
         "updatedAt": "2026-10-17T02:22:34+00:00",
         "lastPrice": 65.209999,
         "lastPriceLocal": 65.209999,
-        "scoreNow": 0.349,
+        "scoreNow": 0.399,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.35 in its direction)",
+          "reason": "thesis intact (aligned +0.40 in its direction)",
           "price": 65.209999,
           "returnPct": 0,
-          "daysHeld": 6,
+          "daysHeld": 7,
           "horizonClass": "long",
-          "scoreNow": 0.3490473072629465,
+          "scoreNow": 0.3990596024189213,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-28",
-            "days": 2,
+            "days": 1,
             "time": "AMC"
           }
         },
@@ -9161,6 +9422,22 @@
               "days": 2,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.40 in its direction)",
+            "price": 65.209999,
+            "returnPct": 0,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.3990596024189213,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-10-28",
+              "days": 1,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
@@ -9174,13 +9451,13 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "swing",
+        "horizonType": "core",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
         "entryPrice": 878.840027,
         "exitPrice": null,
-        "peakPrice": 917.72,
+        "peakPrice": 932.705,
         "priceBasis": "USD",
         "currency": "USD",
         "entryPriceLocal": 878.840027,
@@ -9197,14 +9474,14 @@
         "trims": [],
         "fees": 2.05,
         "realizedPL": 0,
-        "pnl": 148.53,
+        "pnl": 246.24,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.332,
-        "confidence": 0.61,
-        "longTermLean": 0.877,
+        "confidence": 0.759,
+        "longTermLean": 0.851,
         "components": {
           "trend": -0.051,
           "momentum": 0.283,
@@ -9280,23 +9557,23 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 910.64,
-        "lastPriceLocal": 910.64,
-        "scoreNow": 0.273,
+        "lastPrice": 931.56,
+        "lastPriceLocal": 931.56,
+        "scoreNow": 0.358,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.27 in its direction)",
-          "price": 910.64,
-          "returnPct": 3.62,
-          "daysHeld": 6,
-          "horizonClass": "medium",
-          "scoreNow": 0.2734907058303797,
+          "reason": "thesis intact (aligned +0.36 in its direction)",
+          "price": 931.56,
+          "returnPct": 6,
+          "daysHeld": 7,
+          "horizonClass": "long",
+          "scoreNow": 0.3581427231541422,
           "markSource": null,
           "catalyst": {
-            "date": "2026-12-23",
-            "days": 58,
-            "time": ""
+            "date": "2026-12-15",
+            "days": 49,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -9341,6 +9618,22 @@
               "date": "2026-12-23",
               "days": 58,
               "time": ""
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.36 in its direction)",
+            "price": 931.56,
+            "returnPct": 6,
+            "daysHeld": 7,
+            "horizonClass": "long",
+            "scoreNow": 0.3581427231541422,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-12-15",
+              "days": 49,
+              "time": "AMC"
             }
           }
         ],
@@ -9588,14 +9881,14 @@
         "trims": [],
         "fees": 0.88,
         "realizedPL": 0,
-        "pnl": 110.22,
+        "pnl": 91.1,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.29,
-        "confidence": 0.577,
-        "longTermLean": 0.269,
+        "confidence": 0.702,
+        "longTermLean": 0.291,
         "components": {
           "trend": 1,
           "momentum": 0.999,
@@ -9700,22 +9993,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 220.85,
-        "lastPriceLocal": 220.85,
-        "scoreNow": 0.232,
+        "lastPrice": 218.59,
+        "lastPriceLocal": 218.59,
+        "scoreNow": 0.26,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "signal faded to +0.23 - exits at the stop / target or the 35-session horizon",
-          "price": 220.85,
-          "returnPct": 6.27,
-          "daysHeld": 6,
+          "reason": "thesis intact (aligned +0.26 in its direction)",
+          "price": 218.59,
+          "returnPct": 5.18,
+          "daysHeld": 7,
           "horizonClass": "medium",
-          "scoreNow": 0.2318752098299967,
+          "scoreNow": 0.26044281336625247,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
-            "days": 10,
+            "days": 9,
             "time": ""
           }
         },
@@ -9760,6 +10053,22 @@
             "catalyst": {
               "date": "2026-11-05",
               "days": 10,
+              "time": ""
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.26 in its direction)",
+            "price": 218.59,
+            "returnPct": 5.18,
+            "daysHeld": 7,
+            "horizonClass": "medium",
+            "scoreNow": 0.26044281336625247,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-05",
+              "days": 9,
               "time": ""
             }
           }
@@ -10521,7 +10830,7 @@
         "localCurrency": null,
         "fxRateToUsd": 1,
         "conviction": -0.558,
-        "confidence": 0.911,
+        "confidence": 0.819,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 44)",
           "Research grade D+ (24/100 percentile)",
@@ -10652,10 +10961,10 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 1.135,
+        "lastPrice": 1.055,
         "lastPriceSource": "finnhub",
         "returnPct": 10.17,
-        "pnl": 263.31,
+        "pnl": 731.41,
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-10-17",
@@ -10664,24 +10973,24 @@
         "origin": "app",
         "_via": "app-adopt",
         "updatedAt": "2026-10-17T04:25:53.552Z",
-        "lastPriceLocal": 1.135,
-        "peakPrice": 1.095,
-        "scoreNow": -0.447,
-        "longTermLean": 0.297,
+        "lastPriceLocal": 1.055,
+        "peakPrice": 1.055,
+        "scoreNow": -0.385,
+        "longTermLean": 0.364,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.45 in its direction)",
-          "price": 1.135,
-          "returnPct": 3.81,
-          "daysHeld": 11,
+          "reason": "thesis intact (aligned +0.38 in its direction)",
+          "price": 1.055,
+          "returnPct": 10.59,
+          "daysHeld": 12,
           "horizonClass": "medium",
-          "scoreNow": -0.4474739958714372,
+          "scoreNow": -0.38466895740544116,
           "markSource": null,
           "catalyst": {
-            "date": "2026-11-06",
-            "days": 11,
-            "time": "BMO"
+            "date": "2026-11-05",
+            "days": 9,
+            "time": ""
           }
         },
         "reviews": [
@@ -10726,6 +11035,22 @@
               "date": "2026-11-06",
               "days": 11,
               "time": "BMO"
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.38 in its direction)",
+            "price": 1.055,
+            "returnPct": 10.59,
+            "daysHeld": 12,
+            "horizonClass": "medium",
+            "scoreNow": -0.38466895740544116,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-05",
+              "days": 9,
+              "time": ""
             }
           }
         ],
@@ -10988,14 +11313,14 @@
         "trims": [],
         "fees": 2.6,
         "realizedPL": 0,
-        "pnl": 1157.4,
-        "returnPct": 67.44,
+        "pnl": 47.4,
+        "returnPct": 2.91,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.349,
-        "confidence": 0.842,
-        "longTermLean": 0.673,
+        "confidence": 0.741,
+        "longTermLean": 0.582,
         "components": {
           "trend": 0.354,
           "momentum": 0.386,
@@ -11125,8 +11450,8 @@
         "optionExpiry": "2026-11-06",
         "optionContracts": 4,
         "optionPremium": 4.3,
-        "optionMark": 7.2,
-        "optionMarkAt": "2026-10-26",
+        "optionMark": 4.425,
+        "optionMarkAt": "2026-10-27",
         "optionDelta": 0.4667,
         "optionIV": 0.3434,
         "optionChainAsOf": "2026-10-22T23:32:58.923489Z",
@@ -11151,24 +11476,24 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 184.41,
-        "lastPriceLocal": 184.41,
-        "scoreNow": 0.415,
-        "optionMarkSource": "chain 2026-10-26T19:35",
+        "lastPrice": 180.31,
+        "lastPriceLocal": 180.31,
+        "scoreNow": 0.328,
+        "optionMarkSource": "chain 2026-10-27T19:20",
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "minimum hold (1/2 sessions) - only expiry can close it",
-          "price": 184.41,
-          "returnPct": 67.44,
-          "daysHeld": 1,
+          "reason": "inside the plan: stop at −50%, take profit at +100%, roll off at 5 DTE",
+          "price": 180.31,
+          "returnPct": 2.91,
+          "daysHeld": 2,
           "horizonClass": "short",
-          "scoreNow": 0.4146363103391519,
-          "markSource": "chain 2026-10-26T19:35",
-          "optionMark": 7.2,
+          "scoreNow": 0.3278776304057171,
+          "markSource": "chain 2026-10-27T19:20",
+          "optionMark": 4.425,
           "catalyst": {
             "date": "2026-10-30",
-            "days": 4,
+            "days": 3,
             "time": "BMO"
           }
         },
@@ -11204,6 +11529,23 @@
             "catalyst": {
               "date": "2026-10-30",
               "days": 4,
+              "time": "BMO"
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "inside the plan: stop at −50%, take profit at +100%, roll off at 5 DTE",
+            "price": 180.31,
+            "returnPct": 2.91,
+            "daysHeld": 2,
+            "horizonClass": "short",
+            "scoreNow": 0.3278776304057171,
+            "markSource": "chain 2026-10-27T19:20",
+            "optionMark": 4.425,
+            "catalyst": {
+              "date": "2026-10-30",
+              "days": 3,
               "time": "BMO"
             }
           }
@@ -11242,14 +11584,14 @@
         "trims": [],
         "fees": 1.54,
         "realizedPL": 0,
-        "pnl": -36.87,
+        "pnl": -135.18,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.305,
-        "confidence": 0.82,
-        "longTermLean": 0.61,
+        "confidence": 0.713,
+        "longTermLean": 0.549,
         "components": {
           "trend": 0.47,
           "momentum": 0.402,
@@ -11387,22 +11729,22 @@
         "entryQuoteAt": "2026-10-23T17:05:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 50.685,
-        "lastPriceLocal": 50.685,
-        "scoreNow": 0.378,
+        "lastPrice": 49.045,
+        "lastPriceLocal": 49.045,
+        "scoreNow": 0.279,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
-          "price": 50.685,
-          "returnPct": -1.2,
-          "daysHeld": 1,
+          "reason": "thesis intact (aligned +0.28 in its direction)",
+          "price": 49.045,
+          "returnPct": -4.4,
+          "daysHeld": 2,
           "horizonClass": "short",
-          "scoreNow": 0.3778168418585245,
+          "scoreNow": 0.27894625143021967,
           "markSource": null,
           "catalyst": {
             "date": "2026-10-30",
-            "days": 4,
+            "days": 3,
             "time": "BMO"
           }
         },
@@ -11436,6 +11778,22 @@
             "catalyst": {
               "date": "2026-10-30",
               "days": 4,
+              "time": "BMO"
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.28 in its direction)",
+            "price": 49.045,
+            "returnPct": -4.4,
+            "daysHeld": 2,
+            "horizonClass": "short",
+            "scoreNow": 0.27894625143021967,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-10-30",
+              "days": 3,
               "time": "BMO"
             }
           }
@@ -11474,14 +11832,14 @@
         "trims": [],
         "fees": 1.81,
         "realizedPL": 0,
-        "pnl": 16.17,
+        "pnl": -8.43,
         "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.301,
-        "confidence": 0.895,
-        "longTermLean": 0.75,
+        "confidence": 0.781,
+        "longTermLean": 0.663,
         "components": {
           "trend": 0.125,
           "momentum": 0.269,
@@ -11622,23 +11980,23 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-23T17:19:14+00:00",
-        "lastPrice": 51.705,
-        "lastPriceLocal": 51.705,
-        "scoreNow": 0.419,
+        "lastPrice": 51.355,
+        "lastPriceLocal": 51.355,
+        "scoreNow": 0.331,
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "minimum hold (1/5 sessions) - only a −18% move closes it",
-          "price": 51.705,
-          "returnPct": 0.45,
-          "daysHeld": 1,
+          "reason": "minimum hold (2/5 sessions) - only a −18% move closes it",
+          "price": 51.355,
+          "returnPct": -0.23,
+          "daysHeld": 2,
           "horizonClass": "medium",
-          "scoreNow": 0.4192503498375142,
+          "scoreNow": 0.3311516674836884,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-05",
-            "days": 10,
-            "time": ""
+            "days": 9,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -11672,6 +12030,22 @@
               "date": "2026-11-05",
               "days": 10,
               "time": ""
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "minimum hold (2/5 sessions) - only a −18% move closes it",
+            "price": 51.355,
+            "returnPct": -0.23,
+            "daysHeld": 2,
+            "horizonClass": "medium",
+            "scoreNow": 0.3311516674836884,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-05",
+              "days": 9,
+              "time": "AMC"
             }
           }
         ],
@@ -11709,14 +12083,14 @@
         "trims": [],
         "fees": 1.3,
         "realizedPL": 0,
-        "pnl": -331.3,
-        "returnPct": -12.79,
+        "pnl": 53.7,
+        "returnPct": 2.13,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.322,
-        "confidence": 0.775,
-        "longTermLean": 0.73,
+        "confidence": 0.873,
+        "longTermLean": 0.775,
         "components": {
           "trend": 0.233,
           "momentum": 0.464,
@@ -11886,8 +12260,8 @@
         "optionExpiry": "2026-12-18",
         "optionContracts": 2,
         "optionPremium": 12.9,
-        "optionMark": 11.25,
-        "optionMarkAt": "2026-10-26",
+        "optionMark": 13.175,
+        "optionMarkAt": "2026-10-27",
         "optionDelta": 0.3718,
         "optionIV": 0.3309,
         "optionChainAsOf": "2026-10-23T23:27:11.299142Z",
@@ -11897,25 +12271,25 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
-        "lastPrice": 442.135,
-        "lastPriceLocal": 442.135,
-        "scoreNow": 0.322,
-        "optionMarkSource": "chain 2026-10-26T19:20",
+        "lastPrice": 446.145,
+        "lastPriceLocal": 446.145,
+        "scoreNow": 0.382,
+        "optionMarkSource": "chain 2026-10-27T19:20",
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "minimum hold (0/2 sessions) - only expiry can close it",
-          "price": 442.135,
-          "returnPct": -12.79,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/2 sessions) - only expiry can close it",
+          "price": 446.145,
+          "returnPct": 2.13,
+          "daysHeld": 1,
           "horizonClass": "short",
-          "scoreNow": 0.3221251179708996,
-          "markSource": "chain 2026-10-26T19:20",
-          "optionMark": 11.25,
+          "scoreNow": 0.3823732061636433,
+          "markSource": "chain 2026-10-27T19:20",
+          "optionMark": 13.175,
           "catalyst": {
             "date": "2026-11-03",
-            "days": 8,
-            "time": ""
+            "days": 7,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -11934,6 +12308,23 @@
               "date": "2026-11-03",
               "days": 8,
               "time": ""
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "minimum hold (1/2 sessions) - only expiry can close it",
+            "price": 446.145,
+            "returnPct": 2.13,
+            "daysHeld": 1,
+            "horizonClass": "short",
+            "scoreNow": 0.3823732061636433,
+            "markSource": "chain 2026-10-27T19:20",
+            "optionMark": 13.175,
+            "catalyst": {
+              "date": "2026-11-03",
+              "days": 7,
+              "time": "AMC"
             }
           }
         ],
@@ -11971,14 +12362,14 @@
         "trims": [],
         "fees": 1.3,
         "realizedPL": 0,
-        "pnl": 298.7,
-        "returnPct": 20.27,
+        "pnl": 28.7,
+        "returnPct": 2.03,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.298,
-        "confidence": 0.686,
-        "longTermLean": 0.309,
+        "confidence": 0.755,
+        "longTermLean": 0.374,
         "components": {
           "trend": 0.675,
           "momentum": 0.965,
@@ -12166,8 +12557,8 @@
         "optionExpiry": "2026-11-20",
         "optionContracts": 2,
         "optionPremium": 7.4,
-        "optionMark": 8.9,
-        "optionMarkAt": "2026-10-26",
+        "optionMark": 7.55,
+        "optionMarkAt": "2026-10-27",
         "optionDelta": 0.4972,
         "optionIV": 0.7278,
         "optionChainAsOf": "2026-10-23T23:26:25.464733Z",
@@ -12201,24 +12592,24 @@
         "entryQuoteAt": "2026-10-26T13:50:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
-        "lastPrice": 106.035,
-        "lastPriceLocal": 106.035,
-        "scoreNow": 0.296,
-        "optionMarkSource": "chain 2026-10-26T19:20",
+        "lastPrice": 105.44,
+        "lastPriceLocal": 105.44,
+        "scoreNow": 0.336,
+        "optionMarkSource": "chain 2026-10-27T19:20",
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "minimum hold (0/2 sessions) - only expiry can close it",
-          "price": 106.035,
-          "returnPct": 20.27,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/2 sessions) - only expiry can close it",
+          "price": 105.44,
+          "returnPct": 2.03,
+          "daysHeld": 1,
           "horizonClass": "short",
-          "scoreNow": 0.29568713736431945,
-          "markSource": "chain 2026-10-26T19:20",
-          "optionMark": 8.9,
+          "scoreNow": 0.3361651669712873,
+          "markSource": "chain 2026-10-27T19:20",
+          "optionMark": 7.55,
           "catalyst": {
-            "date": "2026-11-19",
-            "days": 24,
+            "date": "2026-11-16",
+            "days": 20,
             "time": ""
           }
         },
@@ -12237,6 +12628,23 @@
             "catalyst": {
               "date": "2026-11-19",
               "days": 24,
+              "time": ""
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "minimum hold (1/2 sessions) - only expiry can close it",
+            "price": 105.44,
+            "returnPct": 2.03,
+            "daysHeld": 1,
+            "horizonClass": "short",
+            "scoreNow": 0.3361651669712873,
+            "markSource": "chain 2026-10-27T19:20",
+            "optionMark": 7.55,
+            "catalyst": {
+              "date": "2026-11-16",
+              "days": 20,
               "time": ""
             }
           }
@@ -12275,14 +12683,14 @@
         "trims": [],
         "fees": 0.65,
         "realizedPL": 0,
-        "pnl": -50.65,
-        "returnPct": -5.56,
+        "pnl": -80.65,
+        "returnPct": -8.89,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.28,
-        "confidence": 0.76,
-        "longTermLean": 0.823,
+        "confidence": 0.654,
+        "longTermLean": 0.735,
         "components": {
           "trend": 0.058,
           "momentum": 0.21,
@@ -12454,8 +12862,8 @@
         "optionExpiry": "2027-01-15",
         "optionContracts": 1,
         "optionPremium": 9,
-        "optionMark": 8.5,
-        "optionMarkAt": "2026-10-26",
+        "optionMark": 8.2,
+        "optionMarkAt": "2026-10-27",
         "optionDelta": 0.7099,
         "optionIV": 0.314,
         "optionChainAsOf": "2026-10-23T23:23:55.771656Z",
@@ -12489,24 +12897,24 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
-        "lastPrice": 96.445,
-        "lastPriceLocal": 96.445,
-        "scoreNow": 0.274,
-        "optionMarkSource": "chain 2026-10-26T19:20",
+        "lastPrice": 95.895,
+        "lastPriceLocal": 95.895,
+        "scoreNow": 0.197,
+        "optionMarkSource": "chain 2026-10-27T19:20",
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "minimum hold (0/5 sessions) - only expiry can close it",
-          "price": 96.445,
-          "returnPct": -5.56,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/5 sessions) - only expiry can close it",
+          "price": 95.895,
+          "returnPct": -8.89,
+          "daysHeld": 1,
           "horizonClass": "medium",
-          "scoreNow": 0.2737780173925906,
-          "markSource": "chain 2026-10-26T19:20",
-          "optionMark": 8.5,
+          "scoreNow": 0.19708419169831,
+          "markSource": "chain 2026-10-27T19:20",
+          "optionMark": 8.2,
           "catalyst": {
             "date": "2026-10-27",
-            "days": 1,
+            "days": 0,
             "time": "AMC"
           }
         },
@@ -12525,6 +12933,23 @@
             "catalyst": {
               "date": "2026-10-27",
               "days": 1,
+              "time": "AMC"
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "minimum hold (1/5 sessions) - only expiry can close it",
+            "price": 95.895,
+            "returnPct": -8.89,
+            "daysHeld": 1,
+            "horizonClass": "medium",
+            "scoreNow": 0.19708419169831,
+            "markSource": "chain 2026-10-27T19:20",
+            "optionMark": 8.2,
+            "catalyst": {
+              "date": "2026-10-27",
+              "days": 0,
               "time": "AMC"
             }
           }
@@ -12546,7 +12971,7 @@
         "exitDate": null,
         "entryPrice": 214.75,
         "exitPrice": null,
-        "peakPrice": 217.11,
+        "peakPrice": 217.98,
         "priceBasis": "USD",
         "currency": "USD",
         "entryPriceLocal": 214.75,
@@ -12563,14 +12988,14 @@
         "trims": [],
         "fees": 0.65,
         "realizedPL": 0,
-        "pnl": 24.35,
-        "returnPct": 1.72,
+        "pnl": 76.85,
+        "returnPct": 5.34,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.279,
-        "confidence": 0.676,
-        "longTermLean": 0.843,
+        "confidence": 0.785,
+        "longTermLean": 0.886,
         "components": {
           "trend": -0.071,
           "momentum": 0.217,
@@ -12752,8 +13177,8 @@
         "optionExpiry": "2027-01-15",
         "optionContracts": 1,
         "optionPremium": 14.5,
-        "optionMark": 14.75,
-        "optionMarkAt": "2026-10-26",
+        "optionMark": 15.275,
+        "optionMarkAt": "2026-10-27",
         "optionDelta": 0.5078,
         "optionIV": 0.4146,
         "optionChainAsOf": "2026-10-26T14:05:30.078024Z",
@@ -12778,24 +13203,24 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-26T14:10:18+00:00",
-        "lastPrice": 216.47,
-        "lastPriceLocal": 216.47,
-        "scoreNow": 0.279,
-        "optionMarkSource": "chain 2026-10-26T19:20",
+        "lastPrice": 217.37,
+        "lastPriceLocal": 217.37,
+        "scoreNow": 0.326,
+        "optionMarkSource": "chain 2026-10-27T19:20",
         "lastReview": {
-          "at": "2026-10-26",
+          "at": "2026-10-27",
           "decision": "hold",
-          "reason": "minimum hold (0/5 sessions) - only expiry can close it",
-          "price": 216.47,
-          "returnPct": 1.72,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/5 sessions) - only expiry can close it",
+          "price": 217.37,
+          "returnPct": 5.34,
+          "daysHeld": 1,
           "horizonClass": "medium",
-          "scoreNow": 0.27860967082186333,
-          "markSource": "chain 2026-10-26T19:20",
-          "optionMark": 14.75,
+          "scoreNow": 0.32636180868033116,
+          "markSource": "chain 2026-10-27T19:20",
+          "optionMark": 15.275,
           "catalyst": {
             "date": "2026-11-17",
-            "days": 22,
+            "days": 21,
             "time": ""
           }
         },
@@ -12814,6 +13239,23 @@
             "catalyst": {
               "date": "2026-11-17",
               "days": 22,
+              "time": ""
+            }
+          },
+          {
+            "at": "2026-10-27",
+            "decision": "hold",
+            "reason": "minimum hold (1/5 sessions) - only expiry can close it",
+            "price": 217.37,
+            "returnPct": 5.34,
+            "daysHeld": 1,
+            "horizonClass": "medium",
+            "scoreNow": 0.32636180868033116,
+            "markSource": "chain 2026-10-27T19:20",
+            "optionMark": 15.275,
+            "catalyst": {
+              "date": "2026-11-17",
+              "days": 21,
               "time": ""
             }
           }
@@ -12889,6 +13331,10 @@
       {
         "date": "2026-10-27",
         "value": 80972.47
+      },
+      {
+        "date": "2026-10-28",
+        "value": 85756.91
       }
     ],
     "transactions": [
@@ -12908,8 +13354,8 @@
     ],
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
-    "runnerJournalAt": "2026-10-26T19:36:16.764516+00:00",
-    "mirroredAt": "2026-10-27T15:28:32.689Z"
+    "runnerJournalAt": "2026-10-27T19:36:17.312430+00:00",
+    "mirroredAt": "2026-10-28T13:13:39.962Z"
   },
   "botWeights": {},
   "reviewQueue": [],
