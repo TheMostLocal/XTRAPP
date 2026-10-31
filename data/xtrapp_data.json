@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-10-31T13:57:27.859Z",
+  "updatedAt": "2026-10-31T15:28:06.039Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -16302,7 +16302,7 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-10-30T19:35:45.259565+00:00",
-    "mirroredAt": "2026-10-31T13:57:13.187Z"
+    "mirroredAt": "2026-10-31T15:27:56.746Z"
   },
   "botWeights": {},
   "reviewQueue": [],
@@ -20486,115 +20486,6 @@
           "backdated": false
         }
       ]
-    },
-    {
-      "id": "txn:tx-1782171181417-akuyl",
-      "ts": "2026-06-22T23:33:01.417Z",
-      "fee": 0,
-      "qty": 2000,
-      "date": "2026-06-22T23:33:01.417Z",
-      "type": "sell",
-      "notes": null,
-      "price": 21.16,
-      "action": "sell",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1781937967070-uogkm",
-      "proceeds": 42320,
-      "soldDate": "2026-06-22T23:33:01.411Z",
-      "entryDate": "2026-06-20T12:00:00.000Z",
-      "entryPrice": 15.97,
-      "realizedPL": 10379.999999999998,
-      "positionNotes": [
-        {
-          "ts": "2026-06-20T12:00:00.000Z",
-          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
-          "backdated": false,
-          "priceAtNote": 15.97
-        }
-      ],
-      "realizedPLPct": 32.49843456480902
-    },
-    {
-      "id": "txn:tx-1782171181419-e8595",
-      "ts": "2026-06-22T23:33:01.419Z",
-      "fee": 0,
-      "qty": 2000,
-      "date": "2026-06-22T23:33:01.419Z",
-      "type": "sell",
-      "price": 21.16,
-      "action": "sell",
-      "reason": "position-removed",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1781937967070-uogkm",
-      "proceeds": 42320
-    },
-    {
-      "id": "txn:tx-1782099038659-c4plw",
-      "ts": "2026-06-22T03:30:38.659Z",
-      "fee": 30,
-      "qty": 2000,
-      "cost": 31970,
-      "date": "2026-06-22T03:30:38.659Z",
-      "type": "buy",
-      "notes": "Good entry",
-      "price": 15.97,
-      "action": "buy",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1782099038647-jzvn1",
-      "proceeds": 0,
-      "entryDate": "2026-06-22T12:00:00.000Z",
-      "entryPrice": 15.97,
-      "realizedPL": 0
-    },
-    {
-      "id": "txn:tx-1782101366224-i4hsh",
-      "ts": "2026-06-22T04:09:26.224Z",
-      "fee": 30,
-      "qty": 100,
-      "cost": 27338,
-      "date": "2026-06-22T04:09:26.224Z",
-      "type": "buy",
-      "notes": "Good entry",
-      "price": 273.08,
-      "action": "buy",
-      "shares": 100,
-      "ticker": "AAPL",
-      "entryId": "AAPL-1782101366221-bvz3g",
-      "proceeds": 0,
-      "entryDate": "2025-12-30T12:00:00.000Z",
-      "entryPrice": 273.08,
-      "realizedPL": 0
-    },
-    {
-      "id": "txn:tx-1791575323589-7xhrj",
-      "ts": "2026-10-09T19:48:43.589Z",
-      "fee": 0,
-      "qty": 2000,
-      "date": "2026-10-09T19:48:43.589Z",
-      "type": "sell",
-      "notes": null,
-      "price": 12.245,
-      "action": "sell",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1781937967070-uogkm",
-      "proceeds": 24490,
-      "soldDate": "2026-10-09T19:48:43.589Z",
-      "entryDate": "2026-06-20T12:00:00.000Z",
-      "entryPrice": 15.97,
-      "realizedPL": -7450.000000000003,
-      "positionNotes": [
-        {
-          "ts": "2026-06-20T12:00:00.000Z",
-          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
-          "backdated": false,
-          "priceAtNote": 15.97
-        }
-      ],
-      "realizedPLPct": -23.324984345648097
     }
   ],
   "cashPosition": 94640,
