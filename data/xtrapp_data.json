@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-05T20:22:10.756Z",
+  "updatedAt": "2026-11-06T15:36:00.968Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -460,7 +460,7 @@
   ],
   "thesesDeleted": {},
   "bot": {
-    "bankroll": 117232.38,
+    "bankroll": 116249.88,
     "startedAt": "2026-06-22",
     "bets": [
       {
@@ -612,7 +612,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 0.3173,
+        "lastPriceSource": "github"
       },
       {
         "id": "CCJ-2026-06-22-1782098049708-1",
@@ -774,7 +776,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 70.155,
+        "lastPriceSource": "github"
       },
       {
         "id": "UPS-2026-06-22-1782098049710-2",
@@ -940,7 +944,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 109.44,
+        "lastPriceSource": "github"
       },
       {
         "id": "BZFD-2026-06-22-1782098049711-3",
@@ -1112,7 +1118,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 0.55,
+        "lastPriceSource": "github"
       },
       {
         "id": "NOC-2026-06-22-1782098049713-4",
@@ -1303,7 +1311,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 525.505,
+        "lastPriceSource": "github"
       },
       {
         "id": "PEG-2026-06-22-1782098049714-5",
@@ -1493,7 +1503,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 72.735,
+        "lastPriceSource": "github"
       },
       {
         "id": "ZF=F-2026-06-21-1782018714968-1",
@@ -1652,7 +1664,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 105.1562,
+        "lastPriceSource": "github"
       },
       {
         "id": "FSLR-2026-06-21-1782018714970-2",
@@ -1836,7 +1850,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 204.83,
+        "lastPriceSource": "github"
       },
       {
         "id": "SBLK-2026-06-21-1782018714971-3",
@@ -2031,7 +2047,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 26.71,
+        "lastPriceSource": "github"
       },
       {
         "id": "EU-2026-06-21-1782018714972-4",
@@ -2208,7 +2226,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 0.6321,
+        "lastPriceSource": "github"
       },
       {
         "id": "AAL-2026-06-21-1782018714974-5",
@@ -2387,7 +2407,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 13.25,
+        "lastPriceSource": "github"
       },
       {
         "id": "UMC-2026-06-16-1781573221723-2",
@@ -2502,7 +2524,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 13.95,
+        "lastPriceSource": "github"
       },
       {
         "id": "DELL-2026-06-16-1781573221723-3",
@@ -2617,7 +2641,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 338.05,
+        "lastPriceSource": "github"
       },
       {
         "id": "TOELY-2026-06-16-1781573221723-1",
@@ -2824,7 +2850,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 928.4712000000001,
+        "lastPriceSource": "github"
       },
       {
         "id": "000725.SZ-2026-06-16-1781573221723-0",
@@ -2937,7 +2965,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 0.66914718,
+        "lastPriceSource": "github"
       },
       {
         "id": "MU-2026-06-16-1781573221723-4",
@@ -3052,7 +3082,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 687.12,
+        "lastPriceSource": "github"
       },
       {
         "id": "ARM-2026-06-18-1781751939570-2",
@@ -3221,7 +3253,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 172.73,
+        "lastPriceSource": "github"
       },
       {
         "id": "BCAB-2026-06-21-1782018714957-0",
@@ -3388,7 +3422,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 1.735,
+        "lastPriceSource": "github"
       },
       {
         "id": "ZR=F-2026-06-18-1781752006376-0",
@@ -3543,7 +3579,9 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 18.39,
+        "lastPriceSource": "github"
       },
       {
         "id": "BCAB-2026-06-20-1781975171800-0",
@@ -3708,7 +3746,9 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 1.735,
+        "lastPriceSource": "github"
       },
       {
         "id": "INDO-2026-06-20-1781975171803-1",
@@ -3874,7 +3914,9 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 2.465,
+        "lastPriceSource": "github"
       },
       {
         "id": "3231.TW-2026-06-20-1781975171804-2",
@@ -4049,7 +4091,9 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 4.884750400000001,
+        "lastPriceSource": "github"
       },
       {
         "id": "SBLK-2026-06-20-1781975171805-3",
@@ -4252,7 +4296,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 26.71,
+        "lastPriceSource": "github"
       },
       {
         "id": "000660.KS-2026-06-20-1781975171806-4",
@@ -4447,7 +4493,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 928.4712000000001,
+        "lastPriceSource": "github"
       },
       {
         "id": "TSM-2026-06-20-1781975171807-5",
@@ -4651,7 +4699,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 370.44,
+        "lastPriceSource": "github"
       },
       {
         "id": "MU-2026-06-18-1781751939570-0",
@@ -4843,7 +4893,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 687.12,
+        "lastPriceSource": "github"
       },
       {
         "id": "ZR=F-2026-06-18-1781751939570-1",
@@ -5000,7 +5052,9 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 18.39,
+        "lastPriceSource": "github"
       },
       {
         "id": "LNVGY-2026-06-16-1781573221723-5",
@@ -5113,7 +5167,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPrice": 49.25,
+        "lastPriceSource": "github"
       },
       {
         "id": "BCAB-2026-10-14-1792013920056-4",
@@ -5139,7 +5195,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": 1.63,
-        "lastPrice": 1.63,
+        "lastPrice": 1.735,
         "peakPrice": 1.25,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 30)",
@@ -5290,7 +5346,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5398,7 +5454,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 61.41,
+        "lastPrice": 56.55,
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 68)",
           "Research grade B (70/100 percentile)",
@@ -5555,7 +5611,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5588,7 +5644,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": 3.63,
-        "lastPrice": 3.63,
+        "lastPrice": 0.1325,
         "peakPrice": 3.971,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 33)",
@@ -5760,7 +5816,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5912,7 +5968,7 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 0.2029,
+        "lastPrice": 0.201,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 13)",
           "Research grade C- (32/100 percentile)",
@@ -6069,7 +6125,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -6101,7 +6157,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 430,
+        "lastPrice": 370.44,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
           "Research grade A- (80/100 percentile)",
@@ -6262,7 +6318,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -6295,7 +6351,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": 16.415,
-        "lastPrice": 16.415,
+        "lastPrice": 13.95,
         "peakPrice": 21.43,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
@@ -6456,7 +6512,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "finnhub",
+        "lastPriceSource": "github",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -6714,7 +6770,7 @@
           }
         },
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 393.970001,
+        "lastPrice": 371.45,
         "lastPriceLocal": 393.970001,
         "scoreNow": 0.163,
         "lastReview": {
@@ -6927,7 +6983,8 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "VLO-2026-10-16-runner-1792194396",
@@ -7047,7 +7104,7 @@
           }
         },
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 368.399994,
+        "lastPrice": 344.835,
         "lastPriceLocal": 368.399994,
         "scoreNow": 0.169,
         "lastReview": {
@@ -7260,7 +7317,8 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "PSX-2026-10-16-runner-1792194396",
@@ -7401,7 +7459,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 262.48999,
+        "lastPrice": 244.81,
         "lastPriceLocal": 262.48999,
         "scoreNow": 0.18,
         "lastReview": {
@@ -7614,7 +7672,8 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "SHEL-2026-10-16-runner-1792194396",
@@ -7624,12 +7683,12 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-16",
-        "exitDate": null,
+        "exitDate": "2026-11-06",
         "entryPrice": 106.660004,
-        "exitPrice": null,
+        "exitPrice": 98.86,
         "peakPrice": 108.64,
         "priceBasis": "USD",
         "currency": "USD",
@@ -7646,15 +7705,15 @@
         "trimTier": 0,
         "trims": [],
         "fees": 2.12,
-        "realizedPL": 0,
-        "pnl": -222.1,
-        "returnPct": 0,
+        "realizedPL": -311.48,
+        "pnl": -311.48,
+        "returnPct": -7.36,
         "won": false,
-        "exitReason": "open",
-        "status": "open",
+        "exitReason": "horizon",
+        "status": "closed",
         "conviction": 0.433,
-        "confidence": 0.688,
-        "longTermLean": 0.853,
+        "confidence": 0.597,
+        "longTermLean": 0.634,
         "components": {
           "trend": 0.42,
           "momentum": 0.506,
@@ -7759,38 +7818,27 @@
           ],
           "scanAsOf": "2026-10-15"
         },
-        "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 101.06,
-        "lastPriceLocal": 101.06,
-        "scoreNow": 0.256,
+        "updatedAt": "2026-11-06T15:09:24+00:00",
+        "lastPrice": 98.945,
+        "lastPriceLocal": 98.86,
+        "scoreNow": 0.194,
         "lastReview": {
-          "at": "2026-11-05",
-          "decision": "hold",
-          "reason": "thesis intact (aligned +0.26 in its direction)",
-          "price": 101.06,
-          "returnPct": -5.25,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.2559767574463546,
+          "at": "2026-11-06",
+          "decision": "close",
+          "reason": "horizon at $98.86",
+          "price": 98.86,
+          "returnPct": -7.31,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.19448535481055185,
           "markSource": null,
           "catalyst": {
             "date": "2027-02-04",
-            "days": 91,
+            "days": 90,
             "time": "BMO"
           }
         },
         "reviews": [
-          {
-            "at": "2026-10-22",
-            "decision": "hold",
-            "reason": "thesis intact (score +0.41)",
-            "price": 105.719498,
-            "returnPct": -0.88,
-            "daysHeld": 4,
-            "horizonClass": "long",
-            "scoreNow": 0.4058117689458511,
-            "markSource": null
-          },
           {
             "at": "2026-10-23",
             "decision": "hold",
@@ -7938,23 +7986,59 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.26 in its direction)",
-            "price": 101.06,
-            "returnPct": -5.25,
+            "reason": "signal faded to +0.25 - exits at the stop / target or the —-session horizon",
+            "price": 100.58,
+            "returnPct": -5.7,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.2559767574463546,
+            "scoreNow": 0.24974231783435627,
             "markSource": null,
             "catalyst": {
               "date": "2027-02-04",
               "days": 91,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.26 in its direction)",
+            "price": 98.51,
+            "returnPct": -7.64,
+            "daysHeld": 15,
+            "horizonClass": "long",
+            "scoreNow": 0.2557721195164342,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-04",
+              "days": 90,
+              "time": "BMO"
+            }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "close",
+            "reason": "horizon at $98.86",
+            "price": 98.86,
+            "returnPct": -7.31,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.19448535481055185,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-04",
+              "days": 90,
+              "time": "BMO"
+            }
           }
         ],
-        "lastMarketCap": 286456245639,
+        "lastMarketCap": 280126875247,
+        "sharesAtExit": 39.6609,
+        "exitAt": "2026-11-06T15:05:00+00:00",
+        "exitQuoteAt": "2026-11-06T14:50:39+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "EOG-2026-10-16-runner-1792194396",
@@ -7964,12 +8048,12 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-16",
-        "exitDate": null,
+        "exitDate": "2026-11-06",
         "entryPrice": 158.009995,
-        "exitPrice": null,
+        "exitPrice": 147.835007,
         "peakPrice": 165.215,
         "priceBasis": "USD",
         "currency": "USD",
@@ -7986,15 +8070,15 @@
         "trimTier": 0,
         "trims": [],
         "fees": 2.09,
-        "realizedPL": 0,
-        "pnl": -311.55,
-        "returnPct": 0,
+        "realizedPL": -271.76,
+        "pnl": -271.76,
+        "returnPct": -6.49,
         "won": false,
-        "exitReason": "open",
-        "status": "open",
+        "exitReason": "horizon",
+        "status": "closed",
         "conviction": 0.405,
-        "confidence": 0.635,
-        "longTermLean": 0.748,
+        "confidence": 0.575,
+        "longTermLean": 0.618,
         "components": {
           "trend": 0.078,
           "momentum": 0.266,
@@ -8098,38 +8182,27 @@
           ],
           "scanAsOf": "2026-10-15"
         },
-        "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 146.255,
-        "lastPriceLocal": 146.255,
-        "scoreNow": 0.189,
+        "updatedAt": "2026-11-06T15:09:24+00:00",
+        "lastPrice": 148.875,
+        "lastPriceLocal": 147.835007,
+        "scoreNow": 0.156,
         "lastReview": {
-          "at": "2026-11-05",
-          "decision": "hold",
-          "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-          "price": 146.255,
-          "returnPct": -7.44,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.18856110720845742,
+          "at": "2026-11-06",
+          "decision": "close",
+          "reason": "horizon at $147.84",
+          "price": 147.835007,
+          "returnPct": -6.44,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.15633405690889318,
           "markSource": null,
           "catalyst": {
-            "date": "2026-11-05",
-            "days": 0,
-            "time": "AMC"
+            "date": null,
+            "days": null,
+            "time": ""
           }
         },
         "reviews": [
-          {
-            "at": "2026-10-22",
-            "decision": "hold",
-            "reason": "thesis intact (score +0.42)",
-            "price": 157.559998,
-            "returnPct": -0.28,
-            "daysHeld": 4,
-            "horizonClass": "long",
-            "scoreNow": 0.42107332008285303,
-            "markSource": null
-          },
           {
             "at": "2026-10-23",
             "decision": "hold",
@@ -8278,22 +8351,58 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-            "price": 146.255,
-            "returnPct": -7.44,
+            "price": 145.82,
+            "returnPct": -7.71,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.18856110720845742,
+            "scoreNow": 0.19345224297285238,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-05",
               "days": 0,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.20 - exits at the stop / target or the —-session horizon",
+            "price": 144.71,
+            "returnPct": -8.42,
+            "daysHeld": 15,
+            "horizonClass": "long",
+            "scoreNow": 0.20207670396771674,
+            "markSource": null,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "close",
+            "reason": "horizon at $147.84",
+            "price": 147.835007,
+            "returnPct": -6.44,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.15633405690889318,
+            "markSource": null,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
           }
         ],
-        "lastMarketCap": 76715011495,
+        "lastMarketCap": 78705134265,
+        "sharesAtExit": 26.5037,
+        "exitAt": "2026-11-06T15:05:00+00:00",
+        "exitQuoteAt": "2026-11-06T15:00:54+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "OXY-2026-10-16-runner-1792194396",
@@ -8306,9 +8415,9 @@
         "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-16",
-        "exitDate": null,
+        "exitDate": "2026-11-06",
         "entryPrice": 62.380001,
-        "exitPrice": null,
+        "exitPrice": 56.625,
         "peakPrice": 64.6401,
         "priceBasis": "USD",
         "currency": "USD",
@@ -8325,15 +8434,15 @@
         "trimTier": 0,
         "trims": [],
         "fees": 2.15,
-        "realizedPL": 0,
-        "pnl": -370.2,
-        "returnPct": 0,
+        "realizedPL": -399.26,
+        "pnl": -399.26,
+        "returnPct": -9.28,
         "won": false,
-        "exitReason": "open",
-        "status": "open",
+        "exitReason": "horizon",
+        "status": "closed",
         "conviction": 0.385,
-        "confidence": 0.609,
-        "longTermLean": 0.867,
+        "confidence": 0.545,
+        "longTermLean": 0.597,
         "components": {
           "trend": 0.053,
           "momentum": 0.307,
@@ -8446,38 +8555,27 @@
           ],
           "scanAsOf": "2026-10-15"
         },
-        "updatedAt": "2026-10-16T23:46:36+00:00",
-        "lastPrice": 57.015,
-        "lastPriceLocal": 57.015,
-        "scoreNow": 0.188,
+        "updatedAt": "2026-11-06T15:09:24+00:00",
+        "lastPrice": 56.55,
+        "lastPriceLocal": 56.625,
+        "scoreNow": 0.131,
         "lastReview": {
-          "at": "2026-11-05",
-          "decision": "hold",
-          "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-          "price": 57.015,
-          "returnPct": -8.6,
-          "daysHeld": 14,
+          "at": "2026-11-06",
+          "decision": "close",
+          "reason": "horizon at $56.62",
+          "price": 56.625,
+          "returnPct": -9.23,
+          "daysHeld": 15,
           "horizonClass": "medium",
-          "scoreNow": 0.18761559616763504,
+          "scoreNow": 0.13135126514431464,
           "markSource": null,
           "catalyst": {
             "date": "2026-11-09",
-            "days": 4,
+            "days": 3,
             "time": "AMC"
           }
         },
         "reviews": [
-          {
-            "at": "2026-10-22",
-            "decision": "hold",
-            "reason": "thesis intact (score +0.39)",
-            "price": 62.445099,
-            "returnPct": 0.1,
-            "daysHeld": 4,
-            "horizonClass": "long",
-            "scoreNow": 0.39156160506929005,
-            "markSource": null
-          },
           {
             "at": "2026-10-23",
             "decision": "hold",
@@ -8625,23 +8723,59 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-            "price": 57.015,
-            "returnPct": -8.6,
+            "reason": "signal faded to +0.20 - exits at the stop / target or the —-session horizon",
+            "price": 56.93,
+            "returnPct": -8.74,
             "daysHeld": 14,
-            "horizonClass": "medium",
-            "scoreNow": 0.18761559616763504,
+            "horizonClass": "long",
+            "scoreNow": 0.19992328123038725,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-09",
               "days": 4,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.22 - exits at the stop / target or the —-session horizon",
+            "price": 55.66,
+            "returnPct": -10.77,
+            "daysHeld": 15,
+            "horizonClass": "long",
+            "scoreNow": 0.21857758784942397,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-09",
+              "days": 3,
+              "time": "AMC"
+            }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "close",
+            "reason": "horizon at $56.62",
+            "price": 56.625,
+            "returnPct": -9.23,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.13135126514431464,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-11-09",
+              "days": 3,
+              "time": "AMC"
+            }
           }
         ],
-        "lastMarketCap": 56994324833,
+        "lastMarketCap": 57578674769,
+        "sharesAtExit": 69.0029,
+        "exitAt": "2026-11-06T15:05:00+00:00",
+        "exitQuoteAt": "2026-11-06T15:00:54+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "ACN-2026-10-17-runner-1792195684",
@@ -8651,8 +8785,8 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
-        "horizonDays": null,
+        "horizonType": "swing",
+        "horizonDays": 27,
         "entryDate": "2026-10-17",
         "exitDate": null,
         "entryPrice": 229.679993,
@@ -8674,14 +8808,14 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": 727.64,
-        "returnPct": 0,
+        "pnl": 498.08,
+        "returnPct": 11.61,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.428,
-        "confidence": 0.851,
-        "longTermLean": 0.454,
+        "confidence": 0.667,
+        "longTermLean": 0.424,
         "components": {
           "trend": 0.901,
           "momentum": 0.935,
@@ -8767,22 +8901,22 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 268.635,
-        "lastPriceLocal": 268.635,
-        "scoreNow": 0.43,
+        "lastPrice": 256.345,
+        "lastPriceLocal": 257.144989,
+        "scoreNow": 0.263,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.43 in its direction)",
-          "price": 268.635,
-          "returnPct": 16.96,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.4303672504352152,
+          "reason": "thesis intact (aligned +0.26 in its direction)",
+          "price": 257.144989,
+          "returnPct": 11.96,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.2634735996247237,
           "markSource": null,
           "catalyst": {
             "date": "2026-12-16",
-            "days": 41,
+            "days": 40,
             "time": ""
           }
         },
@@ -8945,23 +9079,42 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.43 in its direction)",
-            "price": 268.635,
-            "returnPct": 16.96,
+            "reason": "thesis intact (aligned +0.45 in its direction)",
+            "price": 265.87,
+            "returnPct": 15.76,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.4303672504352152,
+            "scoreNow": 0.44953505423954787,
             "markSource": null,
             "catalyst": {
               "date": "2026-12-16",
               "days": 41,
               "time": ""
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "thesis intact (aligned +0.26 in its direction)",
+            "price": 257.144989,
+            "returnPct": 11.96,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.2634735996247237,
+            "markSource": null,
+            "catalyst": {
+              "date": "2026-12-16",
+              "days": 40,
+              "time": ""
+            }
           }
         ],
-        "lastMarketCap": 164389061856,
+        "lastMarketCap": 156829665767,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_rolledForMomentum": 1,
+        "_lastRollDate": "2026-11-06"
       },
       {
         "id": "COP-2026-10-17-runner-1792195684",
@@ -8971,7 +9124,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -8994,14 +9147,14 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": -264.62,
-        "returnPct": 0,
+        "pnl": -306.26,
+        "returnPct": -7,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.405,
-        "confidence": 0.636,
-        "longTermLean": 0.751,
+        "confidence": 0.571,
+        "longTermLean": 0.601,
         "components": {
           "trend": 0.395,
           "momentum": 0.609,
@@ -9107,23 +9260,23 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 137.645,
-        "lastPriceLocal": 137.645,
-        "scoreNow": 0.19,
+        "lastPrice": 136.25,
+        "lastPriceLocal": 137.335007,
+        "scoreNow": 0.15,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-          "price": 137.645,
-          "returnPct": -6.05,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.18987554725614367,
+          "reason": "signal faded to +0.15 - exits at the stop / target or the —-session horizon",
+          "price": 137.335007,
+          "returnPct": -6.26,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.14975788180706737,
           "markSource": null,
           "catalyst": {
-            "date": "2026-11-05",
-            "days": 0,
-            "time": "BMO"
+            "date": null,
+            "days": null,
+            "time": ""
           }
         },
         "reviews": [
@@ -9285,23 +9438,45 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-            "price": 137.645,
-            "returnPct": -6.05,
+            "reason": "signal faded to +0.20 - exits at the stop / target or the —-session horizon",
+            "price": 137.06,
+            "returnPct": -6.45,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.18987554725614367,
+            "scoreNow": 0.19657129919525598,
             "markSource": null,
             "catalyst": {
               "date": "2026-11-05",
               "days": 0,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.15 - exits at the stop / target or the —-session horizon",
+            "price": 137.335007,
+            "returnPct": -6.26,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.14975788180706737,
+            "markSource": null,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
           }
         ],
-        "lastMarketCap": 165358094618,
+        "lastMarketCap": 166788271784,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 136.25
+        }
       },
       {
         "id": "NEM-2026-10-17-runner-1792195684",
@@ -9311,7 +9486,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -9334,14 +9509,14 @@
         "trims": [],
         "fees": 2.26,
         "realizedPL": 0,
-        "pnl": 44.26,
-        "returnPct": 0,
+        "pnl": 84.71,
+        "returnPct": 1.87,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.404,
-        "confidence": 0.799,
-        "longTermLean": 0.804,
+        "confidence": 0.592,
+        "longTermLean": 0.648,
         "components": {
           "trend": -0.017,
           "momentum": 0.703,
@@ -9426,23 +9601,23 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 119.76,
-        "lastPriceLocal": 119.76,
-        "scoreNow": 0.351,
+        "lastPrice": 120.82,
+        "lastPriceLocal": 121.230003,
+        "scoreNow": 0.158,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.35 in its direction)",
-          "price": 119.76,
-          "returnPct": 0.98,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.3509517295405976,
+          "reason": "signal faded to +0.16 - exits at the stop / target or the —-session horizon",
+          "price": 121.230003,
+          "returnPct": 2.22,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.1582084546717632,
           "markSource": null,
           "catalyst": {
             "date": "2027-02-18",
-            "days": 105,
-            "time": ""
+            "days": 104,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -9605,22 +9780,44 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "thesis intact (aligned +0.35 in its direction)",
-            "price": 119.76,
-            "returnPct": 0.98,
+            "price": 119.18,
+            "returnPct": 0.49,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.3509517295405976,
+            "scoreNow": 0.3538780401727689,
             "markSource": null,
             "catalyst": {
               "date": "2027-02-18",
               "days": 105,
               "time": ""
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.16 - exits at the stop / target or the —-session horizon",
+            "price": 121.230003,
+            "returnPct": 2.22,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.1582084546717632,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-18",
+              "days": 104,
+              "time": "AMC"
+            }
           }
         ],
-        "lastMarketCap": 124453781518,
+        "lastMarketCap": 124297580190,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 120.82
+        }
       },
       {
         "id": "CVX-2026-10-17-runner-1792195684",
@@ -9630,7 +9827,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -9653,14 +9850,14 @@
         "trims": [],
         "fees": 2.19,
         "realizedPL": 0,
-        "pnl": -170.75,
-        "returnPct": 0,
+        "pnl": -231.36,
+        "returnPct": -5.29,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.392,
-        "confidence": 0.655,
-        "longTermLean": 0.845,
+        "confidence": 0.584,
+        "longTermLean": 0.641,
         "components": {
           "trend": 0.301,
           "momentum": 0.471,
@@ -9767,22 +9964,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 216.2,
-        "lastPriceLocal": 216.2,
-        "scoreNow": 0.222,
+        "lastPrice": 213.08,
+        "lastPriceLocal": 213.600006,
+        "scoreNow": 0.172,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "signal faded to +0.22 - exits at the stop / target or the —-session horizon",
-          "price": 216.2,
-          "returnPct": -3.91,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.22232512371828855,
+          "reason": "signal faded to +0.17 - exits at the stop / target or the —-session horizon",
+          "price": 213.600006,
+          "returnPct": -5.06,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.17196604894156212,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-29",
-            "days": 85,
+            "days": 84,
             "time": "BMO"
           }
         },
@@ -9945,23 +10142,45 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "signal faded to +0.22 - exits at the stop / target or the —-session horizon",
-            "price": 216.2,
-            "returnPct": -3.91,
+            "reason": "signal faded to +0.24 - exits at the stop / target or the —-session horizon",
+            "price": 215.48,
+            "returnPct": -4.23,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.22232512371828855,
+            "scoreNow": 0.23937667602399845,
             "markSource": null,
             "catalyst": {
               "date": "2027-01-29",
               "days": 85,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.17 - exits at the stop / target or the —-session horizon",
+            "price": 213.600006,
+            "returnPct": -5.06,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.17196604894156212,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-29",
+              "days": 84,
+              "time": "BMO"
+            }
           }
         ],
-        "lastMarketCap": 421806222332,
+        "lastMarketCap": 424620932077,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 213.08
+        }
       },
       {
         "id": "META-2026-10-17-runner-1792195684",
@@ -9971,7 +10190,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -9994,14 +10213,14 @@
         "trims": [],
         "fees": 2.14,
         "realizedPL": 0,
-        "pnl": -616.14,
-        "returnPct": 0,
+        "pnl": -544.03,
+        "returnPct": -12.69,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.35,
-        "confidence": 0.708,
-        "longTermLean": 0.697,
+        "confidence": 0.522,
+        "longTermLean": 0.655,
         "components": {
           "trend": 0.595,
           "momentum": 0.398,
@@ -10087,22 +10306,22 @@
           }
         },
         "updatedAt": "2026-10-17T00:08:04+00:00",
-        "lastPrice": 607.39,
-        "lastPriceLocal": 607.39,
-        "scoreNow": 0.271,
+        "lastPrice": 619.32,
+        "lastPriceLocal": 616.51001,
+        "scoreNow": 0.092,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.27 in its direction)",
-          "price": 607.39,
-          "returnPct": -14.37,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.2711320130806878,
+          "reason": "signal faded to +0.09 - exits at the stop / target or the —-session horizon",
+          "price": 616.51001,
+          "returnPct": -13.08,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.09202880972779023,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-27",
-            "days": 83,
+            "days": 82,
             "time": "AMC"
           }
         },
@@ -10265,23 +10484,45 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.27 in its direction)",
-            "price": 607.39,
-            "returnPct": -14.37,
+            "reason": "thesis intact (aligned +0.29 in its direction)",
+            "price": 604.38,
+            "returnPct": -14.8,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.2711320130806878,
+            "scoreNow": 0.29450215965860366,
             "markSource": null,
             "catalyst": {
               "date": "2027-01-27",
               "days": 83,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.09 - exits at the stop / target or the —-session horizon",
+            "price": 616.51001,
+            "returnPct": -13.08,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.09202880972779023,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-27",
+              "days": 82,
+              "time": "AMC"
+            }
           }
         ],
-        "lastMarketCap": 1552994764159,
+        "lastMarketCap": 1641232941507,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 619.32
+        }
       },
       {
         "id": "SHOP-2026-10-17-runner-1792195684",
@@ -10397,7 +10638,7 @@
           }
         },
         "updatedAt": "2026-10-30T18:07:05+00:00",
-        "lastPrice": 154.49,
+        "lastPrice": 147.01,
         "lastPriceLocal": 154.49,
         "scoreNow": 0.252,
         "lastReview": {
@@ -10530,7 +10771,8 @@
         "exitAt": "2026-10-30T18:04:24+00:00",
         "exitQuoteAt": "2026-10-30T18:00:31+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "PLTR-2026-10-17-runner-1792203754",
@@ -10540,7 +10782,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -10563,14 +10805,14 @@
         "trims": [],
         "fees": 2.15,
         "realizedPL": 0,
-        "pnl": -692.06,
-        "returnPct": 0,
+        "pnl": -597.27,
+        "returnPct": -13.9,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.356,
-        "confidence": 0.672,
-        "longTermLean": 0.599,
+        "confidence": 0.451,
+        "longTermLean": 0.514,
         "components": {
           "trend": 0.62,
           "momentum": 0.913,
@@ -10651,23 +10893,23 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 156.06,
-        "lastPriceLocal": 156.06,
-        "scoreNow": 0.194,
+        "lastPrice": 160.165,
+        "lastPriceLocal": 162.324402,
+        "scoreNow": -0.048,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-          "price": 156.06,
-          "returnPct": -16.11,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.19378820204578967,
+          "reason": "signal faded to -0.05 - exits at the stop / target or the —-session horizon",
+          "price": 162.324402,
+          "returnPct": -12.74,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": -0.04812107970201409,
           "markSource": null,
           "catalyst": {
-            "date": null,
-            "days": null,
-            "time": ""
+            "date": "2027-02-01",
+            "days": 87,
+            "time": "AMC"
           }
         },
         "reviews": [
@@ -10829,23 +11071,45 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "signal faded to +0.19 - exits at the stop / target or the —-session horizon",
-            "price": 156.06,
-            "returnPct": -16.11,
+            "reason": "signal faded to +0.21 - exits at the stop / target or the —-session horizon",
+            "price": 154.38,
+            "returnPct": -17.01,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.19378820204578967,
+            "scoreNow": 0.2067561175637835,
             "markSource": null,
             "catalyst": {
               "date": null,
               "days": null,
               "time": ""
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to -0.05 - exits at the stop / target or the —-session horizon",
+            "price": 162.324402,
+            "returnPct": -12.74,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": -0.04812107970201409,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-01",
+              "days": 87,
+              "time": "AMC"
+            }
           }
         ],
-        "lastMarketCap": 376026206884,
+        "lastMarketCap": 433288258303,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 160.165
+        }
       },
       {
         "id": "MSFT-2026-10-17-runner-1792203754",
@@ -10878,14 +11142,14 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": 80.93,
-        "returnPct": 0,
+        "pnl": 30.05,
+        "returnPct": 0.7,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.355,
-        "confidence": 0.784,
-        "longTermLean": 0.695,
+        "confidence": 0.644,
+        "longTermLean": 0.726,
         "components": {
           "trend": 0.379,
           "momentum": 0.804,
@@ -10993,22 +11257,22 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 538.96,
-        "lastPriceLocal": 538.96,
-        "scoreNow": 0.307,
+        "lastPrice": 532.73,
+        "lastPriceLocal": 529.494995,
+        "scoreNow": 0.145,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.31 in its direction)",
-          "price": 538.96,
-          "returnPct": 1.87,
-          "daysHeld": 14,
+          "reason": "signal faded to +0.15 - exits at the stop / target or the —-session horizon",
+          "price": 529.494995,
+          "returnPct": 0.08,
+          "daysHeld": 15,
           "horizonClass": "long",
-          "scoreNow": 0.30723741694791007,
+          "scoreNow": 0.14522888269041176,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-27",
-            "days": 83,
+            "days": 82,
             "time": "AMC"
           }
         },
@@ -11171,23 +11435,45 @@
           {
             "at": "2026-11-05",
             "decision": "hold",
-            "reason": "thesis intact (aligned +0.31 in its direction)",
-            "price": 538.96,
-            "returnPct": 1.87,
+            "reason": "thesis intact (aligned +0.33 in its direction)",
+            "price": 533.81,
+            "returnPct": 0.9,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.30723741694791007,
+            "scoreNow": 0.3326420076546843,
             "markSource": null,
             "catalyst": {
               "date": "2027-01-27",
               "days": 83,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.15 - exits at the stop / target or the —-session horizon",
+            "price": 529.494995,
+            "returnPct": 0.08,
+            "daysHeld": 15,
+            "horizonClass": "long",
+            "scoreNow": 0.14522888269041176,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-27",
+              "days": 82,
+              "time": "AMC"
+            }
           }
         ],
-        "lastMarketCap": 4002421750203,
+        "lastMarketCap": 4077919472298,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 532.73
+        }
       },
       {
         "id": "SSNLF-2026-10-17-runner-1792203754",
@@ -11197,7 +11483,7 @@
         "direction": "long",
         "instrument": "shares",
         "style": "core",
-        "horizonType": "core",
+        "horizonType": "swing",
         "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
@@ -11226,8 +11512,8 @@
         "exitReason": "open",
         "status": "open",
         "conviction": 0.333,
-        "confidence": 0.82,
-        "longTermLean": 0.857,
+        "confidence": 0.593,
+        "longTermLean": 0.776,
         "components": {
           "trend": 0,
           "momentum": 0,
@@ -11303,22 +11589,22 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 65.209999,
+        "lastPrice": 65.21,
         "lastPriceLocal": 65.209999,
-        "scoreNow": 0.414,
+        "scoreNow": 0.224,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "thesis intact (aligned +0.41 in its direction)",
+          "reason": "signal faded to +0.22 - exits at the stop / target or the —-session horizon",
           "price": 65.209999,
           "returnPct": 0,
-          "daysHeld": 14,
-          "horizonClass": "long",
-          "scoreNow": 0.41380451448910194,
+          "daysHeld": 15,
+          "horizonClass": "medium",
+          "scoreNow": 0.22398516674822463,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-27",
-            "days": 83,
+            "days": 82,
             "time": "AMC"
           }
         },
@@ -11486,18 +11772,40 @@
             "returnPct": 0,
             "daysHeld": 14,
             "horizonClass": "long",
-            "scoreNow": 0.41380451448910194,
+            "scoreNow": 0.40554449423362543,
             "markSource": null,
             "catalyst": {
               "date": "2027-01-27",
               "days": 83,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "signal faded to +0.22 - exits at the stop / target or the —-session horizon",
+            "price": 65.209999,
+            "returnPct": 0,
+            "daysHeld": 15,
+            "horizonClass": "medium",
+            "scoreNow": 0.22398516674822463,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-27",
+              "days": 82,
+              "time": "AMC"
+            }
           }
         ],
-        "lastMarketCap": 424642506680,
+        "lastMarketCap": 424642790042,
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 65.21
+        }
       },
       {
         "id": "MU-2026-10-17-runner-1792203754",
@@ -11613,7 +11921,7 @@
           }
         },
         "updatedAt": "2026-11-04T16:06:47+00:00",
-        "lastPrice": 803.12,
+        "lastPrice": 687.12,
         "lastPriceLocal": 803.12,
         "scoreNow": 0.216,
         "lastReview": {
@@ -11810,7 +12118,8 @@
         "exitAt": "2026-11-04T16:05:01+00:00",
         "exitQuoteAt": "2026-11-04T16:00:27+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "GME-2026-10-17-runner-1792203754",
@@ -11936,7 +12245,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-26T15:06:47+00:00",
-        "lastPrice": 24.665,
+        "lastPrice": 24.385,
         "lastPriceLocal": 24.665,
         "scoreNow": 0.196,
         "lastReview": {
@@ -12020,7 +12329,8 @@
         "exitAt": "2026-10-26T15:05:00+00:00",
         "exitQuoteAt": "2026-10-26T15:00:11+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "TEAM-2026-10-17-runner-1792203754",
@@ -12165,7 +12475,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-29T18:34:12+00:00",
-        "lastPrice": 205.565,
+        "lastPrice": 153.11,
         "lastPriceLocal": 205.565,
         "scoreNow": 0.218,
         "lastReview": {
@@ -12283,7 +12593,8 @@
         "exitAt": "2026-10-29T18:31:49+00:00",
         "exitQuoteAt": "2026-10-29T18:30:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "SBLK-2026-10-09-1791533157298-0",
@@ -12448,7 +12759,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 27.79,
+        "lastPrice": 26.71,
         "lastPriceSource": "github",
         "returnPct": -8.8,
         "pnl": 0,
@@ -12629,7 +12940,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 2.13,
+        "lastPrice": 3.12,
         "lastPriceSource": "github",
         "returnPct": 5.75,
         "pnl": 0,
@@ -12812,8 +13123,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 205.28,
-        "lastPriceSource": "finnhub",
+        "lastPrice": 213.33,
+        "lastPriceSource": "github",
         "returnPct": 1.95,
         "pnl": 0,
         "partialSells": [
@@ -12993,7 +13304,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 103.53,
+        "lastPrice": 117.15,
         "lastPriceSource": "github",
         "returnPct": 5.24,
         "pnl": 0,
@@ -13170,8 +13481,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 1.25,
-        "lastPriceSource": "finnhub",
+        "lastPrice": 1.105,
+        "lastPriceSource": "github",
         "returnPct": -5.93,
         "pnl": -409.59,
         "_exitSignal": {
@@ -13514,8 +13825,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 0.2381,
-        "lastPriceSource": "finnhub",
+        "lastPrice": 0.201,
+        "lastPriceSource": "github",
         "returnPct": 22.69,
         "pnl": 1636.38,
         "partialSells": [
@@ -13772,7 +14083,7 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T14:37:04+00:00",
-        "lastPrice": 183.74,
+        "lastPrice": 165.93,
         "lastPriceLocal": 183.74,
         "scoreNow": 0.419,
         "optionMarkSource": "chain 2026-10-31T00:03",
@@ -13919,7 +14230,8 @@
         "exitAt": "2026-11-02T14:35:00+00:00",
         "exitQuoteAt": "2026-11-02T14:32:48+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "BP-2026-10-23-runner-1792775954",
@@ -14097,7 +14409,7 @@
         "entryQuoteAt": "2026-10-23T17:05:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-03T14:35:51+00:00",
-        "lastPrice": 47.6,
+        "lastPrice": 44.315,
         "lastPriceLocal": 47.6,
         "scoreNow": 0.205,
         "lastReview": {
@@ -14251,7 +14563,8 @@
         "exitAt": "2026-11-03T14:35:01+00:00",
         "exitQuoteAt": "2026-11-03T14:33:02+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "DVN-2026-10-23-runner-1792775954",
@@ -14432,7 +14745,7 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-04T16:36:50+00:00",
-        "lastPrice": 45.19,
+        "lastPrice": 42.09,
         "lastPriceLocal": 45.19,
         "scoreNow": 0.222,
         "lastReview": {
@@ -14618,7 +14931,8 @@
         "exitAt": "2026-11-04T16:35:00+00:00",
         "exitQuoteAt": "2026-11-04T16:30:26+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "AMGN-2026-10-26-runner-1793023818-opt",
@@ -14839,7 +15153,7 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-04T14:36:27+00:00",
-        "lastPrice": 471.665,
+        "lastPrice": 461.45,
         "lastPriceLocal": 471.665,
         "scoreNow": 0.322,
         "optionMarkSource": "model (Black-Scholes, entry IV)",
@@ -15003,7 +15317,8 @@
         "exitAt": "2026-11-04T14:35:00+00:00",
         "exitQuoteAt": "2026-11-04T14:32:51+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "ESTC-2026-10-26-runner-1793023818-opt",
@@ -15266,7 +15581,7 @@
         "entryQuoteAt": "2026-10-26T13:50:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:13:33+00:00",
-        "lastPrice": 91.85,
+        "lastPrice": 86.26,
         "lastPriceLocal": 91.85,
         "scoreNow": 0.115,
         "optionMarkSource": "chain 2026-11-02T15:05",
@@ -15413,7 +15728,8 @@
         "exitAt": "2026-11-02T15:11:50+00:00",
         "exitQuoteAt": "2026-11-02T15:05:13+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "OKE-2026-10-26-runner-1793023818-opt",
@@ -15660,7 +15976,7 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-04T17:08:52+00:00",
-        "lastPrice": 88.24,
+        "lastPrice": 85.65,
         "lastPriceLocal": 88.24,
         "scoreNow": 0.167,
         "optionMarkSource": "chain 2026-11-04T17:05",
@@ -15841,7 +16157,8 @@
         "exitAt": "2026-11-04T17:05:01+00:00",
         "exitQuoteAt": "2026-11-04T17:00:25+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "NVDA-2026-10-26-runner-1793023818-opt",
@@ -16089,7 +16406,7 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 190.414993,
+        "lastPrice": 189.46,
         "lastPriceLocal": 190.414993,
         "scoreNow": 0.166,
         "optionMarkSource": "chain 2026-11-05T14:51",
@@ -16287,7 +16604,8 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "PBRG-2026-10-28-runner-1793212117",
@@ -16716,7 +17034,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-04T15:37:00+00:00",
         "lastMarketCap": null,
-        "lastPrice": 728,
+        "lastPrice": 663.61,
         "lastPriceLocal": 728,
         "scoreNow": 0.306,
         "lastReview": {
@@ -16802,7 +17120,8 @@
         "exitAt": "2026-11-04T15:35:00+00:00",
         "exitQuoteAt": "2026-11-04T15:33:13+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "TSM-2026-10-29-runner-1793298852-opt",
@@ -17045,7 +17364,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-05T14:35:43+00:00",
         "lastMarketCap": 1969589369820,
-        "lastPrice": 379.755,
+        "lastPrice": 370.44,
         "lastPriceLocal": 379.755,
         "scoreNow": 0.315,
         "optionMarkSource": "chain 2026-11-04T20:51",
@@ -17174,7 +17493,8 @@
         "exitAt": "2026-11-05T14:35:00+00:00",
         "exitQuoteAt": "2026-11-05T14:32:57+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "A-2026-10-29-runner-1793298852-opt",
@@ -17207,14 +17527,14 @@
         "trims": [],
         "fees": 1.3,
         "realizedPL": 0,
-        "pnl": -1041.3,
-        "returnPct": -36.11,
+        "pnl": -1060,
+        "returnPct": -36.81,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.333,
-        "confidence": 0.858,
-        "longTermLean": 0.679,
+        "confidence": 0.529,
+        "longTermLean": 0.58,
         "components": {
           "trend": 0.523,
           "momentum": 0.728,
@@ -17383,8 +17703,8 @@
         "optionExpiry": "2027-01-15",
         "optionContracts": 2,
         "optionPremium": 14.4,
-        "optionMark": 9.2,
-        "optionMarkAt": "2026-11-05",
+        "optionMark": 9.1,
+        "optionMarkAt": "2026-11-06",
         "optionDelta": 0.5726,
         "optionIV": 0.4074,
         "optionChainAsOf": "2026-10-29T00:16:33.886472Z",
@@ -17394,25 +17714,25 @@
         "entryQuoteAt": "2026-10-29T18:30:20+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-10-29T18:34:12+00:00",
-        "lastMarketCap": 48839300992,
-        "lastPrice": 173.21,
-        "lastPriceLocal": 173.21,
-        "scoreNow": 0.356,
-        "optionMarkSource": "chain 2026-11-05T19:50",
+        "lastMarketCap": 51194747474,
+        "lastPrice": 174.36,
+        "lastPriceLocal": 176.039993,
+        "scoreNow": 0.078,
+        "optionMarkSource": "chain 2026-11-06T14:51",
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
           "reason": "inside the plan: stop at −50%, take profit at +150%, roll off at 14 DTE",
-          "price": 173.21,
-          "returnPct": -36.11,
-          "daysHeld": 5,
+          "price": 176.039993,
+          "returnPct": -36.81,
+          "daysHeld": 6,
           "horizonClass": "medium",
-          "scoreNow": 0.35584164849754213,
-          "markSource": "chain 2026-11-05T19:50",
-          "optionMark": 9.2,
+          "scoreNow": 0.0776551096942705,
+          "markSource": "chain 2026-11-06T14:51",
+          "optionMark": 9.1,
           "catalyst": {
             "date": "2026-11-23",
-            "days": 18,
+            "days": 17,
             "time": "AMC"
           }
         },
@@ -17506,22 +17826,41 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "inside the plan: stop at −50%, take profit at +150%, roll off at 14 DTE",
-            "price": 173.21,
-            "returnPct": -36.11,
+            "price": 171.69,
+            "returnPct": -39.58,
             "daysHeld": 5,
             "horizonClass": "medium",
-            "scoreNow": 0.35584164849754213,
-            "markSource": "chain 2026-11-05T19:50",
-            "optionMark": 9.2,
+            "scoreNow": 0.3499563132844591,
+            "markSource": "chain 2026-11-05T20:35",
+            "optionMark": 8.7,
             "catalyst": {
               "date": "2026-11-23",
               "days": 18,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "inside the plan: stop at −50%, take profit at +150%, roll off at 14 DTE",
+            "price": 176.039993,
+            "returnPct": -36.81,
+            "daysHeld": 6,
+            "horizonClass": "medium",
+            "scoreNow": 0.0776551096942705,
+            "markSource": "chain 2026-11-06T14:51",
+            "optionMark": 9.1,
+            "catalyst": {
+              "date": "2026-11-23",
+              "days": 17,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "optionValue": 9.1
       },
       {
         "id": "PFE-2026-10-29-runner-1793298852-opt",
@@ -17768,7 +18107,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-02T14:37:04+00:00",
         "lastMarketCap": 174011036545,
-        "lastPrice": 30.53,
+        "lastPrice": 29.29,
         "lastPriceLocal": 30.53,
         "scoreNow": 0.165,
         "optionMarkSource": "chain 2026-10-31T00:03",
@@ -17846,7 +18185,8 @@
         "exitAt": "2026-11-02T14:35:00+00:00",
         "exitQuoteAt": "2026-11-02T14:32:48+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "XOM-2026-11-02-runner-1793632279-opt",
@@ -17879,14 +18219,14 @@
         "trims": [],
         "fees": 7.8,
         "realizedPL": 0,
-        "pnl": -1912.8,
-        "returnPct": -40.35,
+        "pnl": 5373.89,
+        "returnPct": 426.5,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.45,
-        "confidence": 0.708,
-        "longTermLean": 0.911,
+        "confidence": 0.572,
+        "longTermLean": 0.665,
         "components": {
           "trend": 0.495,
           "momentum": 0.553,
@@ -18093,8 +18433,8 @@
         "optionNet": -2.1,
         "optionPremium": 2.1,
         "optionCredit": true,
-        "optionMark": -5.275,
-        "optionMarkAt": "2026-11-05",
+        "optionMark": -6.05,
+        "optionMarkAt": "2026-11-06",
         "optionDelta": 0.132,
         "optionIV": 0.2948,
         "optionWidth": 10,
@@ -18118,22 +18458,22 @@
         "entryQuoteAt": "2026-11-02T15:00:13+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:11:20+00:00",
-        "lastMarketCap": 686002818778,
-        "lastPrice": 168.17,
-        "lastPriceLocal": 168.17,
-        "scoreNow": 0.222,
+        "lastMarketCap": 693601971434,
+        "lastPrice": 165.93,
+        "lastPriceLocal": 166.044998,
+        "scoreNow": 0.153,
         "optionMarkSource": "chain",
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
           "reason": "credit spread: keep 50 % of the credit, stop at 2x it, close a week out",
-          "price": 168.17,
-          "returnPct": -40.35,
-          "daysHeld": 3,
+          "price": 166.044998,
+          "returnPct": -50.16,
+          "daysHeld": 4,
           "horizonClass": "medium",
-          "scoreNow": 0.22213824084881656,
+          "scoreNow": 0.15285182190607327,
           "markSource": "chain",
-          "optionMark": -5.275,
+          "optionMark": -6.05,
           "catalyst": {
             "date": null,
             "days": null,
@@ -18196,13 +18536,30 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "credit spread: keep 50 % of the credit, stop at 2x it, close a week out",
-            "price": 168.17,
-            "returnPct": -40.35,
+            "price": 167.46,
+            "returnPct": -39.41,
             "daysHeld": 3,
             "horizonClass": "medium",
-            "scoreNow": 0.22213824084881656,
+            "scoreNow": 0.22143520825777716,
             "markSource": "chain",
-            "optionMark": -5.275,
+            "optionMark": -5.2,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "credit spread: keep 50 % of the credit, stop at 2x it, close a week out",
+            "price": 166.044998,
+            "returnPct": -50.16,
+            "daysHeld": 4,
+            "horizonClass": "medium",
+            "scoreNow": 0.15285182190607327,
+            "markSource": "chain",
+            "optionMark": -6.05,
             "catalyst": {
               "date": null,
               "days": null,
@@ -18211,7 +18568,9 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "optionValue": 11.06
       },
       {
         "id": "LLY-2026-11-02-runner-1793632279",
@@ -18244,14 +18603,14 @@
         "trims": [],
         "fees": 2.2,
         "realizedPL": 0,
-        "pnl": -81.98,
-        "returnPct": 0,
+        "pnl": -136.19,
+        "returnPct": -3.1,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.343,
-        "confidence": 0.81,
-        "longTermLean": 0.672,
+        "confidence": 0.626,
+        "longTermLean": 0.623,
         "components": {
           "trend": 0.723,
           "momentum": 0.66,
@@ -18444,23 +18803,23 @@
         "entryQuoteAt": "2026-11-02T15:00:13+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:11:20+00:00",
-        "lastMarketCap": 1232381307910,
-        "lastPrice": 1383.54,
-        "lastPriceLocal": 1383.54,
-        "scoreNow": 0.446,
+        "lastMarketCap": 1266760228924,
+        "lastPrice": 1366.17,
+        "lastPriceLocal": 1368.719971,
+        "scoreNow": 0.217,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (3/5 sessions) - only a −18% move closes it",
-          "price": 1383.54,
-          "returnPct": -1.86,
-          "daysHeld": 3,
+          "reason": "minimum hold (4/5 sessions) - only a −18% move closes it",
+          "price": 1368.719971,
+          "returnPct": -2.91,
+          "daysHeld": 4,
           "horizonClass": "medium",
-          "scoreNow": 0.4459855881391086,
+          "scoreNow": 0.21668770758106934,
           "markSource": null,
           "catalyst": {
             "date": "2027-02-03",
-            "days": 90,
+            "days": 89,
             "time": "BMO"
           }
         },
@@ -18517,21 +18876,38 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (3/5 sessions) - only a −18% move closes it",
-            "price": 1383.54,
-            "returnPct": -1.86,
+            "price": 1373.05,
+            "returnPct": -2.61,
             "daysHeld": 3,
             "horizonClass": "medium",
-            "scoreNow": 0.4459855881391086,
+            "scoreNow": 0.4642256747769243,
             "markSource": null,
             "catalyst": {
               "date": "2027-02-03",
               "days": 90,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (4/5 sessions) - only a −18% move closes it",
+            "price": 1368.719971,
+            "returnPct": -2.91,
+            "daysHeld": 4,
+            "horizonClass": "medium",
+            "scoreNow": 0.21668770758106934,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-03",
+              "days": 89,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "REGN-2026-11-02-runner-1793632279",
@@ -18564,14 +18940,14 @@
         "trims": [],
         "fees": 2.09,
         "realizedPL": 0,
-        "pnl": -214.65,
-        "returnPct": 0,
+        "pnl": -246.84,
+        "returnPct": -5.91,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.276,
-        "confidence": 0.847,
-        "longTermLean": 0.641,
+        "confidence": 0.671,
+        "longTermLean": 0.57,
         "components": {
           "trend": 0.249,
           "momentum": 0.583,
@@ -18778,24 +19154,24 @@
         "entryQuoteAt": "2026-11-02T14:50:12+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:11:20+00:00",
-        "lastMarketCap": 94112723491,
-        "lastPrice": 909.76,
-        "lastPriceLocal": 909.76,
-        "scoreNow": 0.493,
+        "lastMarketCap": 96102540835,
+        "lastPrice": 902.375,
+        "lastPriceLocal": 901.275,
+        "scoreNow": 0.269,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (3/5 sessions) - only a −18% move closes it",
-          "price": 909.76,
-          "returnPct": -5.14,
-          "daysHeld": 3,
+          "reason": "minimum hold (4/5 sessions) - only a −18% move closes it",
+          "price": 901.275,
+          "returnPct": -6.02,
+          "daysHeld": 4,
           "horizonClass": "medium",
-          "scoreNow": 0.49347162940403405,
+          "scoreNow": 0.269480185954398,
           "markSource": null,
           "catalyst": {
-            "date": null,
-            "days": null,
-            "time": ""
+            "date": "2027-01-28",
+            "days": 83,
+            "time": "BMO"
           }
         },
         "reviews": [
@@ -18851,21 +19227,38 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (3/5 sessions) - only a −18% move closes it",
-            "price": 909.76,
-            "returnPct": -5.14,
+            "price": 904.67,
+            "returnPct": -5.67,
             "daysHeld": 3,
             "horizonClass": "medium",
-            "scoreNow": 0.49347162940403405,
+            "scoreNow": 0.48581164209567673,
             "markSource": null,
             "catalyst": {
               "date": null,
               "days": null,
               "time": ""
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (4/5 sessions) - only a −18% move closes it",
+            "price": 901.275,
+            "returnPct": -6.02,
+            "daysHeld": 4,
+            "horizonClass": "medium",
+            "scoreNow": 0.269480185954398,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-28",
+              "days": 83,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "VRTX-2026-11-02-runner-1793632279",
@@ -18898,14 +19291,14 @@
         "trims": [],
         "fees": 1.39,
         "realizedPL": 0,
-        "pnl": -74.86,
-        "returnPct": 0,
+        "pnl": -121.58,
+        "returnPct": -4.36,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.275,
-        "confidence": 0.769,
-        "longTermLean": 0.73,
+        "confidence": 0.549,
+        "longTermLean": 0.543,
         "components": {
           "trend": 0.102,
           "momentum": 0.509,
@@ -19112,19 +19505,19 @@
         "entryQuoteAt": "2026-11-02T14:50:12+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:11:20+00:00",
-        "lastMarketCap": 138726762012,
-        "lastPrice": 547.33,
-        "lastPriceLocal": 547.33,
-        "scoreNow": 0.299,
+        "lastMarketCap": 137567207371,
+        "lastPrice": 537.9,
+        "lastPriceLocal": 536.29,
+        "scoreNow": 0.084,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (3/15 sessions) - only a −25% move closes it",
-          "price": 547.33,
-          "returnPct": -2.69,
-          "daysHeld": 3,
+          "reason": "minimum hold (4/15 sessions) - only a −25% move closes it",
+          "price": 536.29,
+          "returnPct": -4.65,
+          "daysHeld": 4,
           "horizonClass": "long",
-          "scoreNow": 0.2992206495186451,
+          "scoreNow": 0.08447525938046688,
           "markSource": null,
           "catalyst": {
             "date": null,
@@ -19185,11 +19578,27 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (3/15 sessions) - only a −25% move closes it",
-            "price": 547.33,
-            "returnPct": -2.69,
+            "price": 542.26,
+            "returnPct": -3.59,
             "daysHeld": 3,
             "horizonClass": "long",
-            "scoreNow": 0.2992206495186451,
+            "scoreNow": 0.29615144919266406,
+            "markSource": null,
+            "catalyst": {
+              "date": null,
+              "days": null,
+              "time": ""
+            }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (4/15 sessions) - only a −25% move closes it",
+            "price": 536.29,
+            "returnPct": -4.65,
+            "daysHeld": 4,
+            "horizonClass": "long",
+            "scoreNow": 0.08447525938046688,
             "markSource": null,
             "catalyst": {
               "date": null,
@@ -19199,7 +19608,13 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 537.9
+        }
       },
       {
         "id": "NUE-2026-11-03-runner-1793718445",
@@ -19232,14 +19647,14 @@
         "trims": [],
         "fees": 1.77,
         "realizedPL": 0,
-        "pnl": -345.39,
-        "returnPct": 0,
+        "pnl": -370.69,
+        "returnPct": -10.48,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.348,
-        "confidence": 0.841,
-        "longTermLean": 0.912,
+        "confidence": 0.508,
+        "longTermLean": 0.757,
         "components": {
           "trend": 0.34,
           "momentum": 0.039,
@@ -19432,23 +19847,23 @@
         "entryQuoteAt": "2026-11-03T15:00:32+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-03T15:07:25+00:00",
-        "lastMarketCap": 56698501250,
-        "lastPrice": 249.91,
-        "lastPriceLocal": 249.91,
-        "scoreNow": 0.327,
+        "lastMarketCap": 61904243233,
+        "lastPrice": 247.93,
+        "lastPriceLocal": 250.214996,
+        "scoreNow": 0.099,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (2/15 sessions) - only a −25% move closes it",
-          "price": 249.91,
-          "returnPct": -9.76,
-          "daysHeld": 2,
+          "reason": "minimum hold (3/15 sessions) - only a −25% move closes it",
+          "price": 250.214996,
+          "returnPct": -9.65,
+          "daysHeld": 3,
           "horizonClass": "long",
-          "scoreNow": 0.32677235385779396,
+          "scoreNow": 0.0987368636633847,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-25",
-            "days": 81,
+            "days": 80,
             "time": "AMC"
           }
         },
@@ -19489,21 +19904,43 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (2/15 sessions) - only a −25% move closes it",
-            "price": 249.91,
-            "returnPct": -9.76,
+            "price": 247.935,
+            "returnPct": -10.47,
             "daysHeld": 2,
             "horizonClass": "long",
-            "scoreNow": 0.32677235385779396,
+            "scoreNow": 0.3223560821362906,
             "markSource": null,
             "catalyst": {
               "date": "2027-01-25",
               "days": 81,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (3/15 sessions) - only a −25% move closes it",
+            "price": 250.214996,
+            "returnPct": -9.65,
+            "daysHeld": 3,
+            "horizonClass": "long",
+            "scoreNow": 0.0987368636633847,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-25",
+              "days": 80,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 247.93
+        }
       },
       {
         "id": "SQQQ-2026-11-04-runner-1793805126",
@@ -19536,14 +19973,14 @@
         "trims": [],
         "fees": 2.35,
         "realizedPL": 0,
-        "pnl": 923.68,
-        "returnPct": 0,
+        "pnl": 816.58,
+        "returnPct": 17.39,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.426,
-        "confidence": 0.772,
-        "longTermLean": 0.544,
+        "confidence": 0.602,
+        "longTermLean": 0.385,
         "components": {
           "trend": 0.593,
           "momentum": 0.336,
@@ -19693,18 +20130,18 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-04T15:12:06+00:00",
         "lastMarketCap": null,
-        "lastPrice": 48.28,
-        "lastPriceLocal": 48.28,
-        "scoreNow": 0.352,
+        "lastPrice": 47.36,
+        "lastPriceLocal": 46.58,
+        "scoreNow": 0.284,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (1/15 sessions) - only a −25% move closes it",
-          "price": 48.28,
-          "returnPct": 19.67,
-          "daysHeld": 1,
+          "reason": "minimum hold (2/15 sessions) - only a −25% move closes it",
+          "price": 46.58,
+          "returnPct": 15.45,
+          "daysHeld": 2,
           "horizonClass": "long",
-          "scoreNow": 0.35229106216879713,
+          "scoreNow": 0.2842385117507808,
           "markSource": null
         },
         "reviews": [
@@ -19723,16 +20160,33 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (1/15 sessions) - only a −25% move closes it",
-            "price": 48.28,
-            "returnPct": 19.67,
+            "price": 48.94,
+            "returnPct": 21.3,
             "daysHeld": 1,
             "horizonClass": "long",
-            "scoreNow": 0.35229106216879713,
+            "scoreNow": 0.3471319606292973,
+            "markSource": null
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (2/15 sessions) - only a −25% move closes it",
+            "price": 46.58,
+            "returnPct": 15.45,
+            "daysHeld": 2,
+            "horizonClass": "long",
+            "scoreNow": 0.2842385117507808,
             "markSource": null
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 47.36
+        }
       },
       {
         "id": "AMGN-2026-11-05-runner-1793891255",
@@ -19765,14 +20219,14 @@
         "trims": [],
         "fees": 2.18,
         "realizedPL": 0,
-        "pnl": -130.87,
-        "returnPct": 0,
+        "pnl": -178.64,
+        "returnPct": -4.09,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.419,
-        "confidence": 0.795,
-        "longTermLean": 0.69,
+        "confidence": 0.601,
+        "longTermLean": 0.612,
         "components": {
           "trend": 0.526,
           "momentum": 0.497,
@@ -19948,23 +20402,23 @@
         "entryQuoteAt": "2026-11-05T15:00:58+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastMarketCap": 252318357667,
-        "lastPrice": 466.71,
-        "lastPriceLocal": 466.71,
-        "scoreNow": 0.42,
+        "lastMarketCap": 258077435155,
+        "lastPrice": 461.45,
+        "lastPriceLocal": 459.204987,
+        "scoreNow": 0.174,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (0/15 sessions) - only a −25% move closes it",
-          "price": 466.71,
-          "returnPct": -3,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/15 sessions) - only a −25% move closes it",
+          "price": 459.204987,
+          "returnPct": -4.55,
+          "daysHeld": 1,
           "horizonClass": "long",
-          "scoreNow": 0.42038045335650615,
+          "scoreNow": 0.17368480384085824,
           "markSource": null,
           "catalyst": {
             "date": "2027-02-02",
-            "days": 89,
+            "days": 88,
             "time": "AMC"
           }
         },
@@ -19973,21 +20427,43 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (0/15 sessions) - only a −25% move closes it",
-            "price": 466.71,
-            "returnPct": -3,
+            "price": 464.04,
+            "returnPct": -3.55,
             "daysHeld": 0,
             "horizonClass": "long",
-            "scoreNow": 0.42038045335650615,
+            "scoreNow": 0.4443553441062194,
             "markSource": null,
             "catalyst": {
               "date": "2027-02-02",
               "days": 89,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (1/15 sessions) - only a −25% move closes it",
+            "price": 459.204987,
+            "returnPct": -4.55,
+            "daysHeld": 1,
+            "horizonClass": "long",
+            "scoreNow": 0.17368480384085824,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-02",
+              "days": 88,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 461.45
+        }
       },
       {
         "id": "ZSL-2026-11-05-runner-1793891255",
@@ -20003,7 +20479,7 @@
         "exitDate": null,
         "entryPrice": 35.375,
         "exitPrice": null,
-        "peakPrice": 36.095,
+        "peakPrice": 36.295,
         "priceBasis": "USD",
         "currency": "USD",
         "entryPriceLocal": 35.375,
@@ -20020,14 +20496,14 @@
         "trims": [],
         "fees": 2.06,
         "realizedPL": 0,
-        "pnl": -29.65,
-        "returnPct": 0,
+        "pnl": 79.65,
+        "returnPct": 1.94,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.406,
-        "confidence": 0.678,
-        "longTermLean": 0.269,
+        "confidence": 0.388,
+        "longTermLean": 0.234,
         "components": {
           "trend": 1,
           "momentum": 0.717,
@@ -20179,18 +20655,18 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
         "lastMarketCap": null,
-        "lastPrice": 35.12,
-        "lastPriceLocal": 35.12,
-        "scoreNow": 0.348,
+        "lastPrice": 36.06,
+        "lastPriceLocal": 35.885,
+        "scoreNow": 0.108,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (0/2 sessions) - only a −12% move closes it",
-          "price": 35.12,
-          "returnPct": -0.72,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
+          "price": 35.885,
+          "returnPct": 1.44,
+          "daysHeld": 1,
           "horizonClass": "short",
-          "scoreNow": 0.3475065187710964,
+          "scoreNow": 0.10798822404258955,
           "markSource": null
         },
         "reviews": [
@@ -20198,16 +20674,28 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (0/2 sessions) - only a −12% move closes it",
-            "price": 35.12,
-            "returnPct": -0.72,
+            "price": 35.78,
+            "returnPct": 1.14,
             "daysHeld": 0,
             "horizonClass": "short",
-            "scoreNow": 0.3475065187710964,
+            "scoreNow": 0.3339991216342147,
+            "markSource": null
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
+            "price": 35.885,
+            "returnPct": 1.44,
+            "daysHeld": 1,
+            "horizonClass": "short",
+            "scoreNow": 0.10798822404258955,
             "markSource": null
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "AZN-2026-11-05-runner-1793891255",
@@ -20240,14 +20728,14 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": -86.08,
-        "returnPct": 0,
+        "pnl": -151.54,
+        "returnPct": -3.51,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.401,
-        "confidence": 0.851,
-        "longTermLean": 0.703,
+        "confidence": 0.634,
+        "longTermLean": 0.645,
         "components": {
           "trend": 0.581,
           "momentum": 0.478,
@@ -20420,23 +20908,23 @@
         "entryQuoteAt": "2026-11-05T14:50:29+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastMarketCap": 291130492678,
-        "lastPrice": 187.715,
-        "lastPriceLocal": 187.715,
-        "scoreNow": 0.441,
+        "lastMarketCap": 288416686833,
+        "lastPrice": 184.81,
+        "lastPriceLocal": 183.84,
+        "scoreNow": 0.229,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (0/15 sessions) - only a −25% move closes it",
-          "price": 187.715,
-          "returnPct": -1.99,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/15 sessions) - only a −25% move closes it",
+          "price": 183.84,
+          "returnPct": -4.02,
+          "daysHeld": 1,
           "horizonClass": "long",
-          "scoreNow": 0.4405557778007789,
+          "scoreNow": 0.22935006262825736,
           "markSource": null,
           "catalyst": {
             "date": "2027-02-09",
-            "days": 96,
+            "days": 95,
             "time": "AMC"
           }
         },
@@ -20445,21 +20933,43 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (0/15 sessions) - only a −25% move closes it",
-            "price": 187.715,
-            "returnPct": -1.99,
+            "price": 187.29,
+            "returnPct": -2.22,
             "daysHeld": 0,
             "horizonClass": "long",
-            "scoreNow": 0.4405557778007789,
+            "scoreNow": 0.43138694920384946,
             "markSource": null,
             "catalyst": {
               "date": "2027-02-09",
               "days": 96,
               "time": "AMC"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (1/15 sessions) - only a −25% move closes it",
+            "price": 183.84,
+            "returnPct": -4.02,
+            "daysHeld": 1,
+            "horizonClass": "long",
+            "scoreNow": 0.22935006262825736,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-09",
+              "days": 95,
+              "time": "AMC"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 184.81
+        }
       },
       {
         "id": "IDXX-2026-11-05-runner-1793891255",
@@ -20492,14 +21002,14 @@
         "trims": [],
         "fees": 2.03,
         "realizedPL": 0,
-        "pnl": -118.97,
-        "returnPct": 0,
+        "pnl": -138.06,
+        "returnPct": -3.4,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.335,
-        "confidence": 0.828,
-        "longTermLean": 0.538,
+        "confidence": 0.642,
+        "longTermLean": 0.513,
         "components": {
           "trend": 1,
           "momentum": 0.502,
@@ -20668,23 +21178,23 @@
         "entryQuoteAt": "2026-11-05T15:00:58+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastMarketCap": 53016460643,
-        "lastPrice": 672.915,
-        "lastPriceLocal": 672.915,
-        "scoreNow": 0.412,
+        "lastMarketCap": 54567600999,
+        "lastPrice": 669.66,
+        "lastPriceLocal": 665,
+        "scoreNow": 0.2,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
-          "price": 672.915,
-          "returnPct": -2.93,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/5 sessions) - only a −18% move closes it",
+          "price": 665,
+          "returnPct": -4.07,
+          "daysHeld": 1,
           "horizonClass": "medium",
-          "scoreNow": 0.4119637318444664,
+          "scoreNow": 0.19984947947784487,
           "markSource": null,
           "catalyst": {
             "date": "2027-02-01",
-            "days": 88,
+            "days": 87,
             "time": "BMO"
           }
         },
@@ -20693,21 +21203,38 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
-            "price": 672.915,
-            "returnPct": -2.93,
+            "price": 666.38,
+            "returnPct": -3.87,
             "daysHeld": 0,
             "horizonClass": "medium",
-            "scoreNow": 0.4119637318444664,
+            "scoreNow": 0.4039031220830529,
             "markSource": null,
             "catalyst": {
               "date": "2027-02-01",
               "days": 88,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (1/5 sessions) - only a −18% move closes it",
+            "price": 665,
+            "returnPct": -4.07,
+            "daysHeld": 1,
+            "horizonClass": "medium",
+            "scoreNow": 0.19984947947784487,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-02-01",
+              "days": 87,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "NDAQ-2026-11-05-runner-1793891255",
@@ -20740,13 +21267,13 @@
         "trims": [],
         "fees": 1.96,
         "realizedPL": 0,
-        "pnl": -85.21,
-        "returnPct": 0,
+        "pnl": -103.25,
+        "returnPct": -2.63,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.279,
-        "confidence": 0.687,
+        "confidence": 0.516,
         "longTermLean": 0.513,
         "components": {
           "trend": 0.548,
@@ -20958,23 +21485,23 @@
         "entryQuoteAt": "2026-11-05T14:50:29+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastMarketCap": 60120806243,
-        "lastPrice": 107.555,
-        "lastPriceLocal": 107.555,
-        "scoreNow": 0.297,
+        "lastMarketCap": 61273890488,
+        "lastPrice": 107.05,
+        "lastPriceLocal": 106.75,
+        "scoreNow": 0.128,
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
-          "price": 107.555,
-          "returnPct": -2.17,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/5 sessions) - only a −18% move closes it",
+          "price": 106.75,
+          "returnPct": -2.9,
+          "daysHeld": 1,
           "horizonClass": "medium",
-          "scoreNow": 0.2971735114682903,
+          "scoreNow": 0.12786214783107652,
           "markSource": null,
           "catalyst": {
             "date": "2027-01-28",
-            "days": 84,
+            "days": 83,
             "time": "BMO"
           }
         },
@@ -20983,21 +21510,38 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
-            "price": 107.555,
-            "returnPct": -2.17,
+            "price": 107.005,
+            "returnPct": -2.67,
             "daysHeld": 0,
             "horizonClass": "medium",
-            "scoreNow": 0.2971735114682903,
+            "scoreNow": 0.2986938520050341,
             "markSource": null,
             "catalyst": {
               "date": "2027-01-28",
               "days": 84,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (1/5 sessions) - only a −18% move closes it",
+            "price": 106.75,
+            "returnPct": -2.9,
+            "daysHeld": 1,
+            "horizonClass": "medium",
+            "scoreNow": 0.12786214783107652,
+            "markSource": null,
+            "catalyst": {
+              "date": "2027-01-28",
+              "days": 83,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github"
       },
       {
         "id": "DIS-2026-11-05-runner-1793891255-opt",
@@ -21030,14 +21574,14 @@
         "trims": [],
         "fees": 1.3,
         "realizedPL": 0,
-        "pnl": -216.3,
-        "returnPct": -25.9,
+        "pnl": -403,
+        "returnPct": -48.55,
         "won": false,
         "exitReason": "open",
         "status": "open",
         "conviction": 0.243,
-        "confidence": 0.752,
-        "longTermLean": 0.47,
+        "confidence": 0.573,
+        "longTermLean": 0.464,
         "components": {
           "trend": 0.426,
           "momentum": 0.388,
@@ -21214,8 +21758,8 @@
         "optionExpiry": "2027-01-15",
         "optionContracts": 2,
         "optionPremium": 4.15,
-        "optionMark": 3.075,
-        "optionMarkAt": "2026-11-05",
+        "optionMark": 2.135,
+        "optionMarkAt": "2026-11-06",
         "optionDelta": 0.4253,
         "optionIV": 0.2905,
         "optionChainAsOf": "2026-11-05T14:51:42.371249Z",
@@ -21250,25 +21794,25 @@
         "entryQuoteAt": "2026-11-05T15:00:58+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastMarketCap": 203265578577,
-        "lastPrice": 117.72,
-        "lastPriceLocal": 117.72,
-        "scoreNow": 0.26,
-        "optionMarkSource": "chain 2026-11-05T19:51",
+        "lastMarketCap": 203707316570,
+        "lastPrice": 116.75,
+        "lastPriceLocal": 116.260002,
+        "scoreNow": 0.102,
+        "optionMarkSource": "chain 2026-11-06T14:52",
         "lastReview": {
-          "at": "2026-11-05",
+          "at": "2026-11-06",
           "decision": "hold",
-          "reason": "minimum hold (0/2 sessions) - only expiry can close it",
-          "price": 117.72,
-          "returnPct": -25.9,
-          "daysHeld": 0,
+          "reason": "minimum hold (1/2 sessions) - only expiry can close it",
+          "price": 116.260002,
+          "returnPct": -48.55,
+          "daysHeld": 1,
           "horizonClass": "short",
-          "scoreNow": 0.259851878609596,
-          "markSource": "chain 2026-11-05T19:51",
-          "optionMark": 3.075,
+          "scoreNow": 0.10246570514442808,
+          "markSource": "chain 2026-11-06T14:52",
+          "optionMark": 2.135,
           "catalyst": {
             "date": "2026-11-17",
-            "days": 12,
+            "days": 11,
             "time": "BMO"
           }
         },
@@ -21277,22 +21821,722 @@
             "at": "2026-11-05",
             "decision": "hold",
             "reason": "minimum hold (0/2 sessions) - only expiry can close it",
-            "price": 117.72,
-            "returnPct": -25.9,
+            "price": 117.22,
+            "returnPct": -27.83,
             "daysHeld": 0,
             "horizonClass": "short",
-            "scoreNow": 0.259851878609596,
-            "markSource": "chain 2026-11-05T19:51",
-            "optionMark": 3.075,
+            "scoreNow": 0.29454758909318735,
+            "markSource": "chain 2026-11-05T20:36",
+            "optionMark": 2.995,
             "catalyst": {
               "date": "2026-11-17",
               "days": 12,
               "time": "BMO"
             }
+          },
+          {
+            "at": "2026-11-06",
+            "decision": "hold",
+            "reason": "minimum hold (1/2 sessions) - only expiry can close it",
+            "price": 116.260002,
+            "returnPct": -48.55,
+            "daysHeld": 1,
+            "horizonClass": "short",
+            "scoreNow": 0.10246570514442808,
+            "markSource": "chain 2026-11-06T14:52",
+            "optionMark": 2.135,
+            "catalyst": {
+              "date": "2026-11-17",
+              "days": 11,
+              "time": "BMO"
+            }
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true
+        "_runnerSynced": true,
+        "lastPriceSource": "github",
+        "optionValue": 2.13
+      },
+      {
+        "id": "SPXS-2026-11-06-runner-1793977764",
+        "ticker": "SPXS",
+        "name": "Direxion Daily S&P 500 Bear 3X Shares",
+        "sector": "Unknown",
+        "direction": "long",
+        "instrument": "shares",
+        "style": "core",
+        "horizonType": "core",
+        "horizonDays": 7,
+        "entryDate": "2026-11-06",
+        "exitDate": null,
+        "entryPrice": 27.13,
+        "exitPrice": null,
+        "peakPrice": 27.13,
+        "priceBasis": "USD",
+        "currency": "USD",
+        "entryPriceLocal": 27.13,
+        "fxAtEntry": 1,
+        "shares": 146.0301,
+        "notional": 3961.8,
+        "dollars": 3961.8,
+        "allocationPct": 3.41,
+        "leverage": 1,
+        "hedge": false,
+        "stopPrice": 20.3475,
+        "targetPrice": null,
+        "trimTier": 0,
+        "trims": [],
+        "fees": 1.98,
+        "realizedPL": 0,
+        "pnl": 10.22,
+        "returnPct": 0.26,
+        "won": false,
+        "exitReason": "open",
+        "status": "open",
+        "conviction": 0.28,
+        "confidence": 0.67,
+        "longTermLean": 0.574,
+        "components": {
+          "trend": 0.521,
+          "momentum": 0.445,
+          "meanReversion": 0,
+          "fundamentals": 0.45,
+          "health": 0.45,
+          "crossAsset": -1,
+          "optionsMarket": -0.444,
+          "pattern": 0.795
+        },
+        "topDrivers": [
+          {
+            "signal": "pattern",
+            "value": 0.795
+          },
+          {
+            "signal": "trend",
+            "value": 0.521
+          },
+          {
+            "signal": "fundamentals",
+            "value": 0.45
+          },
+          {
+            "signal": "health",
+            "value": 0.45
+          },
+          {
+            "signal": "momentum",
+            "value": 0.445
+          }
+        ],
+        "signalsThatHelped": [
+          "pattern",
+          "trend",
+          "fundamentals",
+          "health",
+          "momentum"
+        ],
+        "rationale": [
+          "CORE · conf 0.67 · score 0.28. Triggers: pattern +0.80, trend +0.52, fundamentals +0.45, health +0.45, momentum +0.45",
+          "LONG horizon (~180 sessions, min hold 15): conf 0.67 on slow signals (lean 0.57)"
+        ],
+        "cashAfter": 25702.01,
+        "placedBy": "runner",
+        "mode": "explore",
+        "entryReason": "blend",
+        "primaryTrigger": "pattern",
+        "regimeContext": {
+          "regime": "expansion",
+          "quad": 3,
+          "certainty": 0.153,
+          "dialedIn": false,
+          "botMode": "risk-off",
+          "bondTrend": {
+            "trend": "up",
+            "tlt": 81.93,
+            "ma20": 80.52,
+            "ma50": 80.4,
+            "slope10Pct": 0.23,
+            "stockBondCorr60": 0.11
+          },
+          "fed": {
+            "stance": "Stable / reinvesting",
+            "monthlyPaceBn": -0.1,
+            "netLiquidityBn": 5790.8,
+            "netLiquidity13wBn": -48.8,
+            "statementTone": 1,
+            "toneChange": 0,
+            "statementDate": "2026-10-28T18:00+00:00",
+            "asOf": "2026-11-06T02:00:21+00:00"
+          },
+          "curve": {
+            "date": "2026-11-04",
+            "y2": 4.58,
+            "y10": 4.9,
+            "s2s10": 32,
+            "s3m10y": 69,
+            "real10": 2.64,
+            "be10": 2.26,
+            "be5": 2.3,
+            "fwd5y5y": 2.22,
+            "move1m": {
+              "label": "bull flattener",
+              "d2": -25,
+              "d10": -38,
+              "vs": "2026-10-02"
+            }
+          },
+          "credit": {
+            "date": "2026-11-04",
+            "hyOas": 332,
+            "hy1m": 22,
+            "cccOas": 1297,
+            "cccMinusBb": 1098,
+            "igOas": 91,
+            "band": "normal"
+          },
+          "labor": {
+            "pctCutting": 33.1,
+            "pctGrowing": 41.3,
+            "aggregateYoY": 0.16,
+            "medianYoY": 0.33,
+            "companies": 390,
+            "read": "spreading",
+            "asOf": "2026-11-05T19:10:05Z"
+          },
+          "dataHealth": {
+            "asOf": "2026-11-06T14:49:20Z",
+            "botInputsDown": [],
+            "summary": {
+              "ok": 27,
+              "stale": 1,
+              "missing": 0,
+              "notDue": 0,
+              "unknown": 0
+            }
+          },
+          "volatility": {
+            "vix": 28.18,
+            "vix3m": 25.55,
+            "vixTo3m": 1.103,
+            "structure": "backwardation",
+            "vixPctile1y": 99,
+            "skew": 149.37,
+            "skewPctile1y": 76,
+            "date": "2026-11-05"
+          }
+        },
+        "horizonClass": "long",
+        "horizonReason": "conf 0.67 on slow signals (lean 0.57)",
+        "steered": false,
+        "explore": false,
+        "horizonDaysPlanned": 180,
+        "minHoldDays": 15,
+        "plannedExitBy": "2027-07-16",
+        "catalyst": null,
+        "headcount": null,
+        "filings": {
+          "red30": [],
+          "caution30": [],
+          "events30": null,
+          "insiderNet90": null,
+          "insiderBuyers90": null,
+          "insiderSellers90": null,
+          "clusterBuy": null,
+          "shortVol5d": 40.9,
+          "shortVolZ": -1.8,
+          "shortInterestChgPct": 6.6,
+          "daysToCover": 1
+        },
+        "pattern": {
+          "value": 0.795,
+          "calls": [
+            {
+              "template": "double_bottom",
+              "status": "confirmed",
+              "identDate": "2026-11-02",
+              "trust": 0.79,
+              "value": 0.795,
+              "trustFrom": "all",
+              "volConfirmed": true
+            }
+          ],
+          "scanAsOf": "2026-11-05"
+        },
+        "entryAt": "2026-11-06T15:05:00+00:00",
+        "entryQuoteAt": "2026-11-06T15:03:25+00:00",
+        "entrySession": "regular",
+        "updatedAt": "2026-11-06T15:09:24+00:00",
+        "_fromRepo": true,
+        "_runnerSynced": true,
+        "lastPrice": 27.2,
+        "lastPriceSource": "github",
+        "_rolledForMomentum": 1,
+        "_lastRollDate": "2026-11-06"
+      },
+      {
+        "id": "PG-2026-11-06-runner-1793977764",
+        "ticker": "PG",
+        "name": "The Procter & Gamble Company",
+        "sector": "Consumer Defensive",
+        "direction": "long",
+        "instrument": "shares",
+        "style": "core",
+        "horizonType": "core",
+        "horizonDays": null,
+        "entryDate": "2026-11-06",
+        "exitDate": null,
+        "entryPrice": 165.475006,
+        "exitPrice": null,
+        "peakPrice": 165.475006,
+        "priceBasis": "USD",
+        "currency": "USD",
+        "entryPriceLocal": 165.475006,
+        "fxAtEntry": 1,
+        "shares": 24.2286,
+        "notional": 4009.23,
+        "dollars": 4009.23,
+        "allocationPct": 3.45,
+        "leverage": 1,
+        "hedge": false,
+        "stopPrice": 124.1063,
+        "targetPrice": null,
+        "trimTier": 0,
+        "trims": [],
+        "fees": 2,
+        "realizedPL": 0,
+        "pnl": 21.68,
+        "returnPct": 0.54,
+        "won": false,
+        "exitReason": "open",
+        "status": "open",
+        "conviction": 0.235,
+        "confidence": 0.687,
+        "longTermLean": 0.65,
+        "components": {
+          "trend": 0.445,
+          "momentum": 0.412,
+          "meanReversion": 0,
+          "fundamentals": 0.204,
+          "health": 0.193,
+          "researchGrade": 0.283,
+          "peerGrade": 0.732,
+          "crossAsset": -1,
+          "optionsMarket": -0.444,
+          "pattern": 0.825,
+          "catalyst": 0.186
+        },
+        "topDrivers": [
+          {
+            "signal": "pattern",
+            "value": 0.825
+          },
+          {
+            "signal": "peerGrade",
+            "value": 0.732
+          },
+          {
+            "signal": "trend",
+            "value": 0.445
+          },
+          {
+            "signal": "momentum",
+            "value": 0.412
+          }
+        ],
+        "signalsThatHelped": [
+          "pattern",
+          "peerGrade",
+          "trend",
+          "momentum"
+        ],
+        "rationale": [
+          "CORE · conf 0.69 · score 0.23. Triggers: pattern +0.82, peerGrade +0.73, trend +0.45, momentum +0.41",
+          "LONG horizon (~180 sessions, min hold 15): conf 0.69 on slow signals (lean 0.65) · earnings 2027-01-21 (76d, beat rate 1.0)"
+        ],
+        "cashAfter": 21692.78,
+        "placedBy": "runner",
+        "mode": "explore",
+        "entryReason": "pattern-nudge",
+        "primaryTrigger": "pattern",
+        "regimeContext": {
+          "regime": "expansion",
+          "quad": 3,
+          "certainty": 0.153,
+          "dialedIn": false,
+          "botMode": "risk-off",
+          "bondTrend": {
+            "trend": "up",
+            "tlt": 81.93,
+            "ma20": 80.52,
+            "ma50": 80.4,
+            "slope10Pct": 0.23,
+            "stockBondCorr60": 0.11
+          },
+          "fed": {
+            "stance": "Stable / reinvesting",
+            "monthlyPaceBn": -0.1,
+            "netLiquidityBn": 5790.8,
+            "netLiquidity13wBn": -48.8,
+            "statementTone": 1,
+            "toneChange": 0,
+            "statementDate": "2026-10-28T18:00+00:00",
+            "asOf": "2026-11-06T02:00:21+00:00"
+          },
+          "curve": {
+            "date": "2026-11-04",
+            "y2": 4.58,
+            "y10": 4.9,
+            "s2s10": 32,
+            "s3m10y": 69,
+            "real10": 2.64,
+            "be10": 2.26,
+            "be5": 2.3,
+            "fwd5y5y": 2.22,
+            "move1m": {
+              "label": "bull flattener",
+              "d2": -25,
+              "d10": -38,
+              "vs": "2026-10-02"
+            }
+          },
+          "credit": {
+            "date": "2026-11-04",
+            "hyOas": 332,
+            "hy1m": 22,
+            "cccOas": 1297,
+            "cccMinusBb": 1098,
+            "igOas": 91,
+            "band": "normal"
+          },
+          "labor": {
+            "pctCutting": 33.1,
+            "pctGrowing": 41.3,
+            "aggregateYoY": 0.16,
+            "medianYoY": 0.33,
+            "companies": 390,
+            "read": "spreading",
+            "asOf": "2026-11-05T19:10:05Z"
+          },
+          "dataHealth": {
+            "asOf": "2026-11-06T14:49:20Z",
+            "botInputsDown": [],
+            "summary": {
+              "ok": 27,
+              "stale": 1,
+              "missing": 0,
+              "notDue": 0,
+              "unknown": 0
+            }
+          },
+          "volatility": {
+            "vix": 28.18,
+            "vix3m": 25.55,
+            "vixTo3m": 1.103,
+            "structure": "backwardation",
+            "vixPctile1y": 99,
+            "skew": 149.37,
+            "skewPctile1y": 76,
+            "date": "2026-11-05"
+          }
+        },
+        "horizonClass": "long",
+        "horizonReason": "conf 0.69 on slow signals (lean 0.65)",
+        "steered": false,
+        "explore": false,
+        "horizonDaysPlanned": 180,
+        "minHoldDays": 15,
+        "plannedExitBy": "2027-07-16",
+        "catalyst": {
+          "type": "earnings",
+          "date": "2027-01-21",
+          "days": 76,
+          "time": "BMO",
+          "est": 1.81,
+          "beatRate": 1,
+          "avgSurprise": 2.4,
+          "n": 8
+        },
+        "headcount": {
+          "employees": 104000,
+          "yoyPct": -4.59,
+          "fromPeakPct": -4.59,
+          "date": "2026-06-30",
+          "scale": "large employer (10k+)"
+        },
+        "filings": {
+          "red30": [],
+          "caution30": [],
+          "events30": 7,
+          "insiderNet90": -31539135,
+          "insiderBuyers90": 0,
+          "insiderSellers90": 12,
+          "clusterBuy": false,
+          "shortVol5d": 40.2,
+          "shortVolZ": 0.92,
+          "shortInterestChgPct": -9.6,
+          "daysToCover": 2.42
+        },
+        "pattern": {
+          "value": 0.825,
+          "calls": [
+            {
+              "template": "breakout_52w",
+              "status": "confirmed",
+              "identDate": "2026-11-04",
+              "trust": 0.82,
+              "value": 0.825,
+              "trustFrom": "all",
+              "volConfirmed": true
+            }
+          ],
+          "scanAsOf": "2026-11-05"
+        },
+        "entryAt": "2026-11-06T15:05:00+00:00",
+        "entryQuoteAt": "2026-11-06T15:00:54+00:00",
+        "entrySession": "regular",
+        "updatedAt": "2026-11-06T15:09:24+00:00",
+        "_fromRepo": true,
+        "_runnerSynced": true,
+        "lastPrice": 166.37,
+        "lastPriceSource": "github",
+        "_exitSignal": {
+          "reason": "horizon",
+          "date": "2026-11-06",
+          "price": 166.37
+        }
+      },
+      {
+        "id": "CBOE-2026-11-06-runner-1793977764",
+        "ticker": "CBOE",
+        "name": "Cboe Global Markets, Inc.",
+        "sector": "Financial Services",
+        "direction": "long",
+        "instrument": "shares",
+        "style": "momentum",
+        "horizonType": "swing",
+        "horizonDays": 10,
+        "entryDate": "2026-11-06",
+        "exitDate": null,
+        "entryPrice": 353.56,
+        "exitPrice": null,
+        "peakPrice": 353.56,
+        "priceBasis": "USD",
+        "currency": "USD",
+        "entryPriceLocal": 353.56,
+        "fxAtEntry": 1,
+        "shares": 11.1581,
+        "notional": 3945.06,
+        "dollars": 3945.06,
+        "allocationPct": 3.39,
+        "leverage": 1,
+        "hedge": false,
+        "stopPrice": 328.8108,
+        "targetPrice": 395.9872,
+        "trimTier": 0,
+        "trims": [],
+        "fees": 1.97,
+        "realizedPL": 0,
+        "pnl": 23.77,
+        "returnPct": 0.6,
+        "won": false,
+        "exitReason": "open",
+        "status": "open",
+        "conviction": 0.215,
+        "confidence": 0.664,
+        "longTermLean": 0.526,
+        "components": {
+          "trend": 0.741,
+          "momentum": 0.602,
+          "meanReversion": 0,
+          "fundamentals": 0.39,
+          "health": 0.41,
+          "researchGrade": 0.131,
+          "peerGrade": -0.026,
+          "crossAsset": -0.984,
+          "optionsMarket": -0.444,
+          "fed": -0.044,
+          "pattern": 0.363,
+          "catalyst": 0.17
+        },
+        "topDrivers": [
+          {
+            "signal": "trend",
+            "value": 0.741
+          },
+          {
+            "signal": "momentum",
+            "value": 0.602
+          },
+          {
+            "signal": "health",
+            "value": 0.41
+          },
+          {
+            "signal": "fundamentals",
+            "value": 0.39
+          },
+          {
+            "signal": "pattern",
+            "value": 0.363
+          }
+        ],
+        "signalsThatHelped": [
+          "trend",
+          "momentum",
+          "health",
+          "fundamentals",
+          "pattern"
+        ],
+        "rationale": [
+          "SWING · conf 0.66 · score 0.21. Triggers: trend +0.74, momentum +0.60, health +0.41, fundamentals +0.39, pattern +0.36",
+          "SHORT horizon (~10 sessions, min hold 2): mixed signals (lean 0.53); steered medium→short (book 54% medium vs 40% target) · earnings 2027-02-05 (91d, beat rate 0.875)"
+        ],
+        "cashAfter": 17747.72,
+        "placedBy": "runner",
+        "mode": "explore",
+        "entryReason": "pattern-nudge",
+        "primaryTrigger": "trend",
+        "regimeContext": {
+          "regime": "expansion",
+          "quad": 3,
+          "certainty": 0.153,
+          "dialedIn": false,
+          "botMode": "risk-off",
+          "bondTrend": {
+            "trend": "up",
+            "tlt": 81.93,
+            "ma20": 80.52,
+            "ma50": 80.4,
+            "slope10Pct": 0.23,
+            "stockBondCorr60": 0.11
+          },
+          "fed": {
+            "stance": "Stable / reinvesting",
+            "monthlyPaceBn": -0.1,
+            "netLiquidityBn": 5790.8,
+            "netLiquidity13wBn": -48.8,
+            "statementTone": 1,
+            "toneChange": 0,
+            "statementDate": "2026-10-28T18:00+00:00",
+            "asOf": "2026-11-06T02:00:21+00:00"
+          },
+          "curve": {
+            "date": "2026-11-04",
+            "y2": 4.58,
+            "y10": 4.9,
+            "s2s10": 32,
+            "s3m10y": 69,
+            "real10": 2.64,
+            "be10": 2.26,
+            "be5": 2.3,
+            "fwd5y5y": 2.22,
+            "move1m": {
+              "label": "bull flattener",
+              "d2": -25,
+              "d10": -38,
+              "vs": "2026-10-02"
+            }
+          },
+          "credit": {
+            "date": "2026-11-04",
+            "hyOas": 332,
+            "hy1m": 22,
+            "cccOas": 1297,
+            "cccMinusBb": 1098,
+            "igOas": 91,
+            "band": "normal"
+          },
+          "labor": {
+            "pctCutting": 33.1,
+            "pctGrowing": 41.3,
+            "aggregateYoY": 0.16,
+            "medianYoY": 0.33,
+            "companies": 390,
+            "read": "spreading",
+            "asOf": "2026-11-05T19:10:05Z"
+          },
+          "dataHealth": {
+            "asOf": "2026-11-06T14:49:20Z",
+            "botInputsDown": [],
+            "summary": {
+              "ok": 27,
+              "stale": 1,
+              "missing": 0,
+              "notDue": 0,
+              "unknown": 0
+            }
+          },
+          "volatility": {
+            "vix": 28.18,
+            "vix3m": 25.55,
+            "vixTo3m": 1.103,
+            "structure": "backwardation",
+            "vixPctile1y": 99,
+            "skew": 149.37,
+            "skewPctile1y": 76,
+            "date": "2026-11-05"
+          }
+        },
+        "horizonClass": "short",
+        "horizonReason": "mixed signals (lean 0.53); steered medium→short (book 54% medium vs 40% target)",
+        "steered": true,
+        "explore": false,
+        "horizonDaysPlanned": 10,
+        "minHoldDays": 2,
+        "plannedExitBy": "2026-11-20",
+        "catalyst": {
+          "type": "earnings",
+          "date": "2027-02-05",
+          "days": 91,
+          "time": "BMO",
+          "est": 3.59,
+          "beatRate": 0.875,
+          "avgSurprise": 3.81,
+          "n": 8
+        },
+        "headcount": {
+          "employees": 1661,
+          "yoyPct": null,
+          "fromPeakPct": 0,
+          "date": "2025-12-31",
+          "scale": "mid (1k-10k)"
+        },
+        "filings": {
+          "red30": [],
+          "caution30": [],
+          "events30": 1,
+          "insiderNet90": -261376,
+          "insiderBuyers90": 0,
+          "insiderSellers90": 1,
+          "clusterBuy": false,
+          "shortVol5d": 51.8,
+          "shortVolZ": 2.34,
+          "shortInterestChgPct": -10.8,
+          "daysToCover": 2.29
+        },
+        "pattern": {
+          "value": 0.363,
+          "calls": [
+            {
+              "template": "minervini",
+              "status": "open",
+              "identDate": "2026-11-05",
+              "trust": 0.6,
+              "value": 0.363,
+              "trustFrom": "all",
+              "volConfirmed": null
+            }
+          ],
+          "scanAsOf": "2026-11-05"
+        },
+        "entryAt": "2026-11-06T15:05:00+00:00",
+        "entryQuoteAt": "2026-11-06T14:50:39+00:00",
+        "entrySession": "regular",
+        "updatedAt": "2026-11-06T15:09:24+00:00",
+        "_fromRepo": true,
+        "_runnerSynced": true,
+        "lastPrice": 355.69,
+        "lastPriceSource": "github"
       }
     ],
     "lastRunDate": "2026-10-15",
@@ -21381,7 +22625,11 @@
       },
       {
         "date": "2026-11-05",
-        "value": 103857.94
+        "value": 104861.82
+      },
+      {
+        "date": "2026-11-06",
+        "value": 104312.06
       }
     ],
     "transactions": [
@@ -21401,8 +22649,8 @@
     ],
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
-    "runnerJournalAt": "2026-11-05T20:06:40.485151+00:00",
-    "mirroredAt": "2026-11-05T20:22:03.788Z"
+    "runnerJournalAt": "2026-11-06T15:09:24.263608+00:00",
+    "mirroredAt": "2026-11-06T15:36:00.643Z"
   },
   "botWeights": {},
   "reviewQueue": [],
@@ -25586,115 +26834,6 @@
           "backdated": false
         }
       ]
-    },
-    {
-      "id": "txn:tx-1782171181417-akuyl",
-      "ts": "2026-06-22T23:33:01.417Z",
-      "fee": 0,
-      "qty": 2000,
-      "date": "2026-06-22T23:33:01.417Z",
-      "type": "sell",
-      "notes": null,
-      "price": 21.16,
-      "action": "sell",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1781937967070-uogkm",
-      "proceeds": 42320,
-      "soldDate": "2026-06-22T23:33:01.411Z",
-      "entryDate": "2026-06-20T12:00:00.000Z",
-      "entryPrice": 15.97,
-      "realizedPL": 10379.999999999998,
-      "positionNotes": [
-        {
-          "ts": "2026-06-20T12:00:00.000Z",
-          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
-          "backdated": false,
-          "priceAtNote": 15.97
-        }
-      ],
-      "realizedPLPct": 32.49843456480902
-    },
-    {
-      "id": "txn:tx-1782171181419-e8595",
-      "ts": "2026-06-22T23:33:01.419Z",
-      "fee": 0,
-      "qty": 2000,
-      "date": "2026-06-22T23:33:01.419Z",
-      "type": "sell",
-      "price": 21.16,
-      "action": "sell",
-      "reason": "position-removed",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1781937967070-uogkm",
-      "proceeds": 42320
-    },
-    {
-      "id": "txn:tx-1782099038659-c4plw",
-      "ts": "2026-06-22T03:30:38.659Z",
-      "fee": 30,
-      "qty": 2000,
-      "cost": 31970,
-      "date": "2026-06-22T03:30:38.659Z",
-      "type": "buy",
-      "notes": "Good entry",
-      "price": 15.97,
-      "action": "buy",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1782099038647-jzvn1",
-      "proceeds": 0,
-      "entryDate": "2026-06-22T12:00:00.000Z",
-      "entryPrice": 15.97,
-      "realizedPL": 0
-    },
-    {
-      "id": "txn:tx-1782101366224-i4hsh",
-      "ts": "2026-06-22T04:09:26.224Z",
-      "fee": 30,
-      "qty": 100,
-      "cost": 27338,
-      "date": "2026-06-22T04:09:26.224Z",
-      "type": "buy",
-      "notes": "Good entry",
-      "price": 273.08,
-      "action": "buy",
-      "shares": 100,
-      "ticker": "AAPL",
-      "entryId": "AAPL-1782101366221-bvz3g",
-      "proceeds": 0,
-      "entryDate": "2025-12-30T12:00:00.000Z",
-      "entryPrice": 273.08,
-      "realizedPL": 0
-    },
-    {
-      "id": "txn:tx-1791575323589-7xhrj",
-      "ts": "2026-10-09T19:48:43.589Z",
-      "fee": 0,
-      "qty": 2000,
-      "date": "2026-10-09T19:48:43.589Z",
-      "type": "sell",
-      "notes": null,
-      "price": 12.245,
-      "action": "sell",
-      "shares": 2000,
-      "ticker": "SNK",
-      "entryId": "SNK-1781937967070-uogkm",
-      "proceeds": 24490,
-      "soldDate": "2026-10-09T19:48:43.589Z",
-      "entryDate": "2026-06-20T12:00:00.000Z",
-      "entryPrice": 15.97,
-      "realizedPL": -7450.000000000003,
-      "positionNotes": [
-        {
-          "ts": "2026-06-20T12:00:00.000Z",
-          "text": "Bought 2000 @ $15.97 on 2026-06-20 · Short",
-          "backdated": false,
-          "priceAtNote": 15.97
-        }
-      ],
-      "realizedPLPct": -23.324984345648097
     }
   ],
   "cashPosition": 94640,
