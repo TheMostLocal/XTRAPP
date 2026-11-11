@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-11T15:38:04.675Z",
+  "updatedAt": "2026-11-11T15:51:37.504Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -521,11 +521,7 @@
         ],
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 44)",
-          "Research grade D+ (27/100 percentile)",
-          "Sector cross-asset: flat",
-          "Peer grade C- (#89 of 98 in Consumer Cyclical · XLY +8.7% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum F (0.40× avg vol)"
+          "Research grade D+ (27/100 percentile)"
         ],
         "cashAfter": 84126.71,
         "decisionReceipt": {
@@ -612,9 +608,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 0.18,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "CCJ-2026-06-22-1782098049708-1",
@@ -674,12 +668,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 48)",
-          "Research grade C (43/100 percentile)",
-          "Sector cross-asset: bear",
-          "Peer grade F (#32 of 36 in Energy · XLE -9.3% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum C- (0.98× avg vol)",
-          "13F: 3 institutions hold · 1 adding / 3 trimming · 1 PUT · 1 CALL"
+          "Research grade C (43/100 percentile)"
         ],
         "cashAfter": 68426.32,
         "decisionReceipt": {
@@ -776,9 +765,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 73.94,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "UPS-2026-06-22-1782098049710-2",
@@ -838,14 +825,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 55)",
-          "Research grade B- (61/100 percentile)",
-          "Sector cross-asset: flat",
-          "Peer grade A- (#19 of 78 in Industrials · XLI +11.9% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A+ (2.32× avg vol)",
-          "Supply-chain peers +0.0% (21 peers in Crude Oil & Refined Products, E-commerce & Payments)",
-          "13F: 48 institutions hold · 38 adding / 32 trimming · 17 PUT · 22 CALL",
-          "SEC: Last 10-Q 47d ago"
+          "Research grade B- (61/100 percentile)"
         ],
         "cashAfter": 52902.06,
         "decisionReceipt": {
@@ -944,9 +924,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 111.72,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BZFD-2026-06-22-1782098049711-3",
@@ -1006,12 +984,7 @@
         ],
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 44)",
-          "Research grade D+ (22/100 percentile)",
-          "Sector cross-asset: warn",
-          "Peer grade C- (#45 of 45 in Communication Services · XLK +41.5% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum F (0.28× avg vol)",
-          "SEC: Last 10-Q 42d ago"
+          "Research grade D+ (22/100 percentile)"
         ],
         "cashAfter": 37664.29,
         "decisionReceipt": {
@@ -1118,9 +1091,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 0.4549,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "NOC-2026-06-22-1782098049713-4",
@@ -1180,14 +1151,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 49)",
-          "Research grade B- (60/100 percentile)",
-          "Sector cross-asset: flat",
-          "Peer grade A (#12 of 78 in Industrials · XLI +11.9% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A+ (2.76× avg vol)",
-          "Supply-chain peers -0.0% (9 peers in Defense & Aerospace)",
-          "13F: 3 institutions hold · 3 adding / 2 trimming · 1 PUT · 2 CALL",
-          "SEC: Last 10-Q 62d ago"
+          "Research grade B- (60/100 percentile)"
         ],
         "cashAfter": 29438.47,
         "decisionReceipt": {
@@ -1311,9 +1275,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 546.53,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "PEG-2026-06-22-1782098049714-5",
@@ -1373,14 +1335,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 50)",
-          "Research grade C+ (52/100 percentile)",
-          "Sector cross-asset: flat",
-          "Peer grade B+ (#3 of 19 in Utilities · XLU +0.2% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A+ (2.29× avg vol)",
-          "Fed easing (-30bps)",
-          "13F: 14 institutions hold · 11 adding / 6 trimming · 3 PUT · 3 CALL",
-          "SEC: Last 10-Q 48d ago"
+          "Research grade C+ (52/100 percentile)"
         ],
         "cashAfter": 14499.99,
         "decisionReceipt": {
@@ -1503,9 +1458,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 73.97,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "ZF=F-2026-06-21-1782018714968-1",
@@ -1565,10 +1518,7 @@
         ],
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 32)",
-          "Downtrend (backend, R²=0.67)",
-          "Sector cross-asset: flat",
-          "Regime grade C+ (choppy regime)",
-          "Momentum F (0.22× avg vol)"
+          "Downtrend (backend, R²=0.67)"
         ],
         "cashAfter": 11940.43,
         "decisionReceipt": {
@@ -1664,9 +1614,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 104.2891,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "FSLR-2026-06-21-1782018714970-2",
@@ -1726,17 +1674,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 47)",
-          "Research grade B (64/100 percentile)",
-          "Uptrend (backend, R²=0.73)",
-          "Sector cross-asset: bull",
-          "Peer grade A+ (#4 of 130 in Technology · XLK +41.5% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum B (1.46× avg vol · Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q76, mom 61)",
-          "Fed easing (-30bps)",
-          "Supply-chain peers +0.0% (12 peers in Solar & Renewable Energy)",
-          "13F: 286 institutions hold · 207 adding / 105 trimming · 20 PUT · 27 CALL",
-          "SEC: Last 10-Q 52d ago"
+          "Research grade B (64/100 percentile)"
         ],
         "cashAfter": 11475.99,
         "decisionReceipt": {
@@ -1850,9 +1788,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 177.675,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "SBLK-2026-06-21-1782018714971-3",
@@ -1912,14 +1848,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 51)",
-          "Research grade C+ (54/100 percentile)",
-          "Uptrend (backend, R²=0.82)",
-          "Sector cross-asset: flat",
-          "Peer grade A+ (#1 of 78 in Industrials · XLI +11.9% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A- (1.73× avg vol)",
-          "Supply-chain peers -0.0% (3 peers in Shipping & Maritime Logistics)",
-          "13F: 59 institutions hold · 51 adding / 30 trimming · 22 PUT · 22 CALL"
+          "Research grade C+ (54/100 percentile)"
         ],
         "cashAfter": 11016.35,
         "decisionReceipt": {
@@ -2047,9 +1976,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 27.975,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "EU-2026-06-21-1782018714972-4",
@@ -2109,15 +2036,7 @@
         ],
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 44)",
-          "Research grade D (20/100 percentile)",
-          "Downtrend (R²=0.12)",
-          "Sector cross-asset: bear",
-          "Peer grade F (#35 of 36 in Energy · XLE -9.3% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum D+ (-4.1% 3mo · 4.23× avg vol · Mixed / no decisive trend)",
-          "Trend neutral (q49, mom 52)",
-          "13F: 3 institutions hold · 1 adding / 3 trimming · 2 PUT · 1 CALL",
-          "SEC: Last 10-Q 38d ago"
+          "Research grade D (20/100 percentile)"
         ],
         "cashAfter": 10799.29,
         "decisionReceipt": {
@@ -2226,9 +2145,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 0.6306,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "AAL-2026-06-21-1782018714974-5",
@@ -2288,16 +2205,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 57)",
-          "Research grade C+ (52/100 percentile)",
-          "Uptrend (R²=0.57)",
-          "Sector cross-asset: flat",
-          "Peer grade A+ (#3 of 78 in Industrials)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A+ (+53.3% 3mo · 1.74× avg vol · Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q86, mom 75)",
-          "Supply-chain peers -0.0% (25 peers in Crude Oil & Refined Products, Airlines & Travel)",
-          "13F: 102 institutions hold · 81 adding / 44 trimming · 21 PUT · 24 CALL",
-          "SEC: Last 10-Q 59d ago"
+          "Research grade C+ (52/100 percentile)"
         ],
         "cashAfter": 10569.34,
         "decisionReceipt": {
@@ -2407,9 +2315,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 14.025,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "UMC-2026-06-16-1781573221723-2",
@@ -2469,16 +2375,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 53)",
-          "Research grade B (69/100 percentile)",
-          "Uptrend (RÂ²=0.72)",
-          "Sector cross-asset: bull",
-          "Peer grade A+ (#7 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum B+ (+142.4% 3mo Â· 1.14Ã avg vol)",
-          "Fed easing (-31bps)",
-          "Supply-chain peers +0.0% (17 peers in Semiconductors & AI Compute)",
-          "13F: 48 institutions hold Â· 38 adding / 32 trimming Â· 17 PUT Â· 22 CALL",
-          "SEC: Last 6-K 11d ago"
+          "Research grade B (69/100 percentile)"
         ],
         "cashAfter": null,
         "decisionReceipt": null,
@@ -2524,9 +2421,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 15.81,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "DELL-2026-06-16-1781573221723-3",
@@ -2586,16 +2481,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 54)",
-          "Research grade B (62/100 percentile)",
-          "Uptrend (RÂ²=0.76)",
-          "Sector cross-asset: bull",
-          "Peer grade A (#29 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum B (+167.3% 3mo Â· 0.71Ã avg vol)",
-          "Fed easing (-31bps)",
-          "Supply-chain peers +0.0% (12 peers in Consumer Electronics & Mobile)",
-          "13F: 7 institutions hold Â· 5 adding / 5 trimming Â· 3 PUT Â· 3 CALL",
-          "SEC: Last 10-Q 7d ago"
+          "Research grade B (62/100 percentile)"
         ],
         "cashAfter": null,
         "decisionReceipt": null,
@@ -2641,9 +2527,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 371.69,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "TOELY-2026-06-16-1781573221723-1",
@@ -2703,14 +2587,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 52)",
-          "Research grade B+ (73/100 percentile)",
-          "Uptrend (RÂ²=0.56)",
-          "Sector cross-asset: bull",
-          "Peer grade A+ (#4 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum A+ (+73.8% 3mo Â· 2.71Ã avg vol)",
-          "Fed easing (-31bps)",
-          "Supply-chain peers +0.0% (17 peers in Semiconductors & AI Compute)"
+          "Research grade B+ (73/100 percentile)"
         ],
         "cashAfter": null,
         "decisionReceipt": null,
@@ -2793,10 +2670,7 @@
         ],
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 60)",
-          "Uptrend (backend, RÂ²=0.88)",
-          "Sector cross-asset: bull",
-          "Fed easing (-31bps)",
-          "Supply-chain peers -0.0% (5 peers in Consumer Electronics & Mobile)"
+          "Uptrend (backend, RÂ²=0.88)"
         ],
         "cashAfter": null,
         "decisionReceipt": null,
@@ -2850,9 +2724,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 905.35188,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "000725.SZ-2026-06-16-1781573221723-0",
@@ -2912,14 +2784,7 @@
         ],
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 61)",
-          "Research grade B- (55/100 percentile)",
-          "Uptrend (RÂ²=0.81)",
-          "Sector cross-asset: bull",
-          "Peer grade B+ (#54 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum A+ (+32.8% 3mo Â· 2.00Ã avg vol)",
-          "Fed easing (-31bps)",
-          "Supply-chain peers +0.0% (12 peers in Consumer Electronics & Mobile)"
+          "Research grade B- (55/100 percentile)"
         ],
         "cashAfter": null,
         "decisionReceipt": null,
@@ -2965,9 +2830,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 0.6844688591999999,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "MU-2026-06-16-1781573221723-4",
@@ -3027,16 +2890,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 55)",
-          "Research grade B (65/100 percentile)",
-          "Uptrend (RÂ²=0.73)",
-          "Sector cross-asset: bull",
-          "Peer grade A (#18 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum B+ (+122.2% 3mo Â· 0.86Ã avg vol)",
-          "Fed easing (-31bps)",
-          "Supply-chain peers +0.0% (12 peers in Consumer Electronics & Mobile)",
-          "13F: 4 institutions hold Â· 3 adding / 3 trimming Â· 2 PUT Â· 2 CALL",
-          "SEC: Last 10-Q 89d ago"
+          "Research grade B (65/100 percentile)"
         ],
         "cashAfter": null,
         "decisionReceipt": null,
@@ -3082,9 +2936,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 806.05,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "ARM-2026-06-18-1781751939570-2",
@@ -3144,16 +2996,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 50)",
-          "Research grade C+ (47/100 percentile)",
-          "Uptrend (RÂ²=0.76)",
-          "Sector cross-asset: bull",
-          "Peer grade B (#69 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum A- (+222.7% 3mo Â· 1.05Ã avg vol Â· Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q91, mom 95)",
-          "Fed easing (-30bps)",
-          "Supply-chain peers -0.0% (17 peers in Semiconductors & AI Compute)",
-          "SEC: Last 20-F 23d ago"
+          "Research grade C+ (47/100 percentile)"
         ],
         "cashAfter": 11119.57,
         "decisionReceipt": {
@@ -3253,9 +3096,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 197.79,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BCAB-2026-06-21-1782018714957-0",
@@ -3315,12 +3156,7 @@
         ],
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 42)",
-          "Research grade F (14/100 percentile)",
-          "Downtrend (backend, R²=0.65)",
-          "Sector cross-asset: flat",
-          "Peer grade D+ (#71 of 82 in Healthcare · XLV +2.8% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum F (0.56× avg vol)"
+          "Research grade F (14/100 percentile)"
         ],
         "cashAfter": 12966.61,
         "decisionReceipt": {
@@ -3422,9 +3258,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 1.735,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "ZR=F-2026-06-18-1781752006376-0",
@@ -3484,11 +3318,7 @@
         ],
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 68)",
-          "Uptrend (RÂ²=0.86)",
-          "Sector cross-asset: bull",
-          "Regime grade C+ (risk-on regime)",
-          "Momentum A+ (+24.4% 3mo Â· 2.05Ã avg vol Â· Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q54, mom 81)"
+          "Uptrend (RÂ²=0.86)"
         ],
         "cashAfter": 68500,
         "decisionReceipt": {
@@ -3579,9 +3409,7 @@
         "_via": "supabase",
         "regimeCallCorrect": true,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 18.1,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BCAB-2026-06-20-1781975171800-0",
@@ -3641,12 +3469,7 @@
         ],
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 42)",
-          "Research grade F (14/100 percentile)",
-          "Downtrend (backend, R²=0.65)",
-          "Sector cross-asset: flat",
-          "Peer grade D+ (#71 of 82 in Healthcare · XLV +2.8% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum F (0.56× avg vol)"
+          "Research grade F (14/100 percentile)"
         ],
         "cashAfter": 80334,
         "decisionReceipt": {
@@ -3746,9 +3569,7 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 1.735,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "INDO-2026-06-20-1781975171803-1",
@@ -3808,12 +3629,7 @@
         ],
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 42)",
-          "Research grade D (19/100 percentile)",
-          "Downtrend (backend, R²=0.76)",
-          "Sector cross-asset: warn",
-          "Peer grade F (#36 of 36 in Energy · XLE -9.3% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum F (0.27× avg vol)"
+          "Research grade D (19/100 percentile)"
         ],
         "cashAfter": 60918.24,
         "decisionReceipt": {
@@ -3914,9 +3730,7 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 2.28,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "3231.TW-2026-06-20-1781975171804-2",
@@ -3976,15 +3790,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 50)",
-          "Research grade B (65/100 percentile)",
-          "Uptrend (R²=0.40)",
-          "Sector cross-asset: flat",
-          "Peer grade A+ (#7 of 130 in Technology · XLK +41.5% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum B+ (+26.7% 3mo · 0.86× avg vol · Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q67, mom 71)",
-          "Fed easing (-30bps)",
-          "Supply-chain peers +0.0% (8 peers in Consumer Electronics & Mobile)"
+          "Research grade B (65/100 percentile)"
         ],
         "cashAfter": 45113.39,
         "decisionReceipt": {
@@ -4091,9 +3897,7 @@
         ],
         "_via": "supabase",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 5.30411247,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "SBLK-2026-06-20-1781975171805-3",
@@ -4153,14 +3957,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 51)",
-          "Research grade C+ (54/100 percentile)",
-          "Uptrend (backend, R²=0.82)",
-          "Sector cross-asset: flat",
-          "Peer grade A+ (#1 of 78 in Industrials · XLI +11.9% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A- (1.73× avg vol)",
-          "Supply-chain peers -0.0% (2 peers in Shipping & Maritime Logistics)",
-          "13F: 59 institutions hold · 51 adding / 30 trimming · 22 PUT · 22 CALL"
+          "Research grade C+ (54/100 percentile)"
         ],
         "cashAfter": 27087.44,
         "decisionReceipt": {
@@ -4296,9 +4093,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 27.975,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "000660.KS-2026-06-20-1781975171806-4",
@@ -4358,14 +4153,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 50)",
-          "Uptrend (R²=0.66)",
-          "Sector cross-asset: flat",
-          "Peer grade C (#115 of 130 in Technology · XLK +41.5% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A+ (+172.9% 3mo · 1.52× avg vol · Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q92, mom 98)",
-          "Fed easing (-30bps)",
-          "Supply-chain peers +0.0% (8 peers in Consumer Electronics & Mobile)"
+          "Uptrend (R²=0.66)"
         ],
         "cashAfter": 20042.73,
         "decisionReceipt": {
@@ -4493,9 +4281,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 905.35188,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "TSM-2026-06-20-1781975171807-5",
@@ -4555,17 +4341,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 52)",
-          "Research grade A- (82/100 percentile)",
-          "Uptrend (R²=0.48)",
-          "Sector cross-asset: flat",
-          "Peer grade A+ (#1 of 130 in Technology · XLK +41.5% 3mo)",
-          "Regime grade C+ (choppy regime)",
-          "Momentum A+ (+40.4% 3mo · 1.90× avg vol · Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q86, mom 86)",
-          "Fed easing (-30bps)",
-          "Supply-chain peers +0.0% (17 peers in Semiconductors & AI Compute)",
-          "13F: 5 institutions hold · 3 adding / 3 trimming · 1 PUT · 1 CALL",
-          "SEC: Last 6-K 11d ago"
+          "Research grade A- (82/100 percentile)"
         ],
         "cashAfter": 14500.01,
         "decisionReceipt": {
@@ -4699,9 +4475,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 410.05,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "MU-2026-06-18-1781751939570-0",
@@ -4761,17 +4535,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 52)",
-          "Research grade B (67/100 percentile)",
-          "Uptrend (RÂ²=0.71)",
-          "Sector cross-asset: bull",
-          "Peer grade A (#15 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum B+ (+134.8% 3mo Â· 0.86Ã avg vol Â· Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q93, mom 91)",
-          "Fed easing (-30bps)",
-          "Supply-chain peers +0.0% (8 peers in Consumer Electronics & Mobile)",
-          "13F: 4 institutions hold Â· 3 adding / 3 trimming Â· 2 PUT Â· 2 CALL",
-          "SEC: Last 10-Q 91d ago"
+          "Research grade B (67/100 percentile)"
         ],
         "cashAfter": 12256.92,
         "decisionReceipt": {
@@ -4893,9 +4657,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 806.05,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "ZR=F-2026-06-18-1781751939570-1",
@@ -4955,11 +4717,7 @@
         ],
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 68)",
-          "Uptrend (RÂ²=0.86)",
-          "Sector cross-asset: bull",
-          "Regime grade C+ (risk-on regime)",
-          "Momentum A+ (+24.4% 3mo Â· 2.05Ã avg vol Â· Clean, well-supported up-momentum)",
-          "Trend healthy-uptrend (q54, mom 81)"
+          "Uptrend (RÂ²=0.86)"
         ],
         "cashAfter": 11389.95,
         "decisionReceipt": {
@@ -5052,9 +4810,7 @@
         },
         "updatedAt": "2026-10-17T00:06:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 18.1,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "LNVGY-2026-06-16-1781573221723-5",
@@ -5114,14 +4870,7 @@
         ],
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 49)",
-          "Research grade B- (62/100 percentile)",
-          "Uptrend (RÂ²=0.79)",
-          "Sector cross-asset: bull",
-          "Peer grade A- (#33 of 130 in Technology Â· XLK +37.4% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum B (+133.1% 3mo Â· 0.80Ã avg vol)",
-          "Fed easing (-31bps)",
-          "Supply-chain peers +0.0% (12 peers in Consumer Electronics & Mobile)"
+          "Research grade B- (62/100 percentile)"
         ],
         "cashAfter": null,
         "decisionReceipt": null,
@@ -5167,9 +4916,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPrice": 50.29,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BCAB-2026-10-14-1792013920056-4",
@@ -5195,19 +4942,11 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": 1.63,
-        "lastPrice": 1.735,
+        "lastPrice": 1.63,
         "peakPrice": 1.25,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 30)",
-          "Research grade D (20/100 percentile)",
-          "Downtrend (R²=0.32)",
-          "Sector cross-asset: bull",
-          "Peer grade C- (#66 of 82 in Healthcare · XLV +1.1% 3mo)",
-          "Regime grade C (Risk-on: defensives lag)",
-          "Momentum D+ (-67.9% 3mo · 0.02× avg vol · Clean downtrend — momentum and trend both negative)",
-          "Trend persistent-downtrend (q74, mom 25)",
-          "-74.6pp vs Healthcare peers (n=12)",
-          "SBC 64% of revenue (severe)"
+          "Research grade D (20/100 percentile)"
         ],
         "returnPct": -25.38,
         "stopPrice": 1.63,
@@ -5240,26 +4979,6 @@
         "horizonType": "core",
         "targetPrice": 0.65,
         "volEstimate": 1.211,
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.40",
-          "researchGrade:-0.60",
-          "health:-0.33",
-          "trend:-0.49 ×1.3 (regime)",
-          "momentum:-0.62 ×1.3 (regime)",
-          "meanReversion:+0.29 ×0.7 (regime)",
-          "crossAsset:+0.60 ×1.1 (regime)",
-          "peerGrade:-0.37 ×1.2 (regime)",
-          "regimeGrade:-0.16 ×1.4 (regime)",
-          "momentumGrade:-0.44 ×1.4 (regime)",
-          "trendEngine:-0.50",
-          "peerRelativeStrength:-1.00",
-          "sbc:-0.70",
-          "agreement:86% one-sided → conviction boosted to -0.55",
-          "short in risk-on: confidence -0.1 bar",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "exitMomentum": 0,
         "leveragedEtf": null,
         "longTermLean": 0.575,
@@ -5346,7 +5065,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5454,18 +5173,10 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 57.38,
+        "lastPrice": 61.41,
         "rationale": [
           "Fundamentals: Solid fundamentals; watch the weakest step below. (conviction 68)",
-          "Research grade B (70/100 percentile)",
-          "Uptrend (backend, R²=0.13)",
-          "Sector cross-asset: flat",
-          "Peer grade A+ (#4 of 36 in Energy · XLE +15.0% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum C- (1.04× avg vol)",
-          "Supply-chain peers +0.0% (7 peers in Crude Oil & Refined Products)",
-          "13F: 4 institutions hold · 2 adding / 1 trimming · 2 PUT · 2 CALL",
-          "SEC: Last 10-Q 71d ago"
+          "Research grade B (70/100 percentile)"
         ],
         "returnPct": 0,
         "stopPrice": 50.66,
@@ -5498,26 +5209,6 @@
         "horizonType": "short-term",
         "targetPrice": 82.9,
         "volEstimate": 0.35,
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:+0.37",
-          "researchGrade:+0.39",
-          "health:+0.31",
-          "trend:+0.01 ×1.3 (regime)",
-          "momentum:+0.61 ×1.3 (regime)",
-          "meanReversion:-0.48 ×0.7 (regime)",
-          "tech:backend-precomputed",
-          "crossAsset:+0.19 ×1.1 (regime)",
-          "peerGrade:+0.88 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:-0.28 ×1.4 (regime)",
-          "supplyChain:+0.00",
-          "institutional:+0.16",
-          "earningsRecency:+0.15",
-          "agreement:82% one-sided → conviction boosted to 0.44",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "exitMomentum": 0,
         "leveragedEtf": null,
         "partialSells": [
@@ -5611,7 +5302,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5644,22 +5335,11 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": 3.63,
-        "lastPrice": 0.0678,
+        "lastPrice": 3.63,
         "peakPrice": 3.971,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 33)",
-          "Research grade D+ (25/100 percentile)",
-          "Downtrend (R²=0.92)",
-          "Sector cross-asset: warn",
-          "Peer grade C- (#122 of 128 in Technology · XLK +11.5% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum D+ (-84.5% 3mo · 0.11× avg vol · Clean downtrend — momentum and trend both negative)",
-          "Trend persistent-downtrend (q97, mom 6)",
-          "-90.7pp vs Technology peers (n=12)",
-          "Fed easing (-15bps)",
-          "Supply-chain peers -0.0% (14 peers in Media & Streaming)",
-          "13F: 1 institution hold · 0 adding / 0 trimming",
-          "SEC: Last 10-Q 62d ago"
+          "Research grade D+ (25/100 percentile)"
         ],
         "returnPct": 32.3,
         "stopPrice": 6.8,
@@ -5695,29 +5375,6 @@
         "horizonType": "core",
         "targetPrice": 2.7,
         "volEstimate": 1.246,
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.33",
-          "researchGrade:-0.51",
-          "health:-0.35",
-          "trend:-0.89 ×1.3 (regime)",
-          "momentum:-0.96 ×1.3 (regime)",
-          "meanReversion:+0.32 ×0.7 (regime)",
-          "crossAsset:-0.51 ×1.1 (regime)",
-          "peerGrade:-0.32 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:-0.44 ×1.4 (regime)",
-          "trendEngine:-0.88",
-          "peerRelativeStrength:-1.00",
-          "fed:+0.10",
-          "supplyChain:-0.00",
-          "institutional:0.00",
-          "earningsRecency:+0.15",
-          "agreement:88% one-sided → conviction boosted to -0.59",
-          "short in risk-on: confidence -0.1 bar",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "exitMomentum": 0,
         "leveragedEtf": null,
         "longTermLean": 0.524,
@@ -5816,7 +5473,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -5968,18 +5625,10 @@
         "direction": "short",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 0.1701,
+        "lastPrice": 0.2029,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 13)",
-          "Research grade C- (32/100 percentile)",
-          "Downtrend (R²=0.84)",
-          "Sector cross-asset: warn",
-          "Peer grade D (#68 of 74 in Financial Services · XLF -4.6% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum D+ (-69.0% 3mo · 0.33× avg vol · Clean downtrend — momentum and trend both negative)",
-          "Trend persistent-downtrend (q61, mom 17)",
-          "-64.2pp vs Financial Services peers (n=12)",
-          "Fed easing (-15bps)"
+          "Research grade C- (32/100 percentile)"
         ],
         "returnPct": 1.17,
         "stopPrice": 0.26,
@@ -6012,26 +5661,6 @@
         "horizonType": "short-term",
         "targetPrice": 0.1,
         "volEstimate": 1.405,
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.73",
-          "researchGrade:-0.35",
-          "health:-0.49",
-          "trend:-1.00 ×1.3 (regime)",
-          "momentum:-0.87 ×1.3 (regime)",
-          "meanReversion:+0.44 ×0.7 (regime)",
-          "crossAsset:-0.51 ×1.1 (regime)",
-          "peerGrade:-0.65 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:-0.44 ×1.4 (regime)",
-          "trendEngine:-0.66",
-          "peerRelativeStrength:-1.00",
-          "fed:-0.08",
-          "agreement:90% one-sided → conviction boosted to -0.67",
-          "short in risk-on: confidence -0.1 bar",
-          "hedge:on (vol expanding)",
-          "instrument:shares"
-        ],
         "exitMomentum": 0,
         "leveragedEtf": null,
         "partialSells": [
@@ -6125,7 +5754,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -6157,19 +5786,10 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 410.05,
+        "lastPrice": 430,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
-          "Research grade A- (80/100 percentile)",
-          "Uptrend (backend, R²=0.66)",
-          "Sector cross-asset: warn",
-          "Peer grade A+ (#5 of 128 in Technology · XLK +11.5% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum B- (1.33× avg vol)",
-          "Fed easing (-15bps)",
-          "Supply-chain peers +0.0% (9 peers in Semiconductors & AI Compute)",
-          "13F: 4 institutions hold · 1 adding / 2 trimming · 1 PUT · 1 CALL",
-          "SEC: Last 6-K 21d ago"
+          "Research grade A- (80/100 percentile)"
         ],
         "returnPct": 0,
         "stopPrice": 354.75,
@@ -6203,27 +5823,6 @@
         "horizonType": "short-term",
         "targetPrice": 580.5,
         "volEstimate": 0.35,
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:+0.51",
-          "researchGrade:+0.59",
-          "health:+0.43",
-          "trend:+0.09 ×1.3 (regime)",
-          "momentum:+0.27 ×1.3 (regime)",
-          "meanReversion:+0.15 ×0.7 (regime)",
-          "tech:backend-precomputed",
-          "crossAsset:-0.51 ×1.1 (regime)",
-          "peerGrade:+0.88 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:+0.10 ×1.4 (regime)",
-          "fed:+0.10",
-          "supplyChain:+0.00",
-          "institutional:-0.10",
-          "earningsRecency:+0.15",
-          "agreement:85% one-sided → conviction boosted to 0.47",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "exitMomentum": 0,
         "leveragedEtf": null,
         "partialSells": [
@@ -6318,7 +5917,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -6351,22 +5950,11 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": 16.415,
-        "lastPrice": 15.81,
+        "lastPrice": 16.415,
         "peakPrice": 21.43,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
-          "Research grade B+ (75/100 percentile)",
-          "Uptrend (R²=0.89)",
-          "Sector cross-asset: warn",
-          "Peer grade A (#11 of 128 in Technology · XLK +11.5% 3mo)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum C (+10.2% 3mo · 0.38× avg vol · Mixed / no decisive trend)",
-          "Trend neutral (q10, mom 79)",
-          "-5.0pp vs Technology peers (n=12)",
-          "Fed easing (-15bps)",
-          "Supply-chain peers +0.0% (8 peers in Semiconductors & AI Compute)",
-          "13F: 40 institutions hold · 11 adding / 13 trimming · 18 PUT · 21 CALL",
-          "SEC: Last 6-K 9d ago"
+          "Research grade B+ (75/100 percentile)"
         ],
         "returnPct": -23.4,
         "stopPrice": 16.56,
@@ -6402,28 +5990,6 @@
         "horizonType": "swing",
         "targetPrice": 31.18,
         "volEstimate": 0.455,
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:+0.50",
-          "researchGrade:+0.49",
-          "health:+0.43",
-          "trend:+0.46 ×1.3 (regime)",
-          "momentum:+0.65 ×1.3 (regime)",
-          "meanReversion:-0.03 ×0.7 (regime)",
-          "crossAsset:-0.51 ×1.1 (regime)",
-          "peerGrade:+0.81 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:-0.10 ×1.4 (regime)",
-          "trendEngine:+0.59",
-          "peerRelativeStrength:-0.34",
-          "fed:+0.10",
-          "supplyChain:+0.00",
-          "institutional:+0.07",
-          "earningsRecency:+0.15",
-          "agreement:82% one-sided → conviction boosted to 0.47",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "exitMomentum": 0,
         "leveragedEtf": null,
         "longTermLean": 0.644,
@@ -6512,7 +6078,7 @@
           ],
           "couldHaveDoneBetter": null
         },
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "signalsThatHurt": [],
         "soldStillStrong": false,
         "rolledForMomentum": 0,
@@ -6770,7 +6336,7 @@
           }
         },
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 397.01,
+        "lastPrice": 393.970001,
         "lastPriceLocal": 393.970001,
         "scoreNow": 0.163,
         "lastReview": {
@@ -6983,8 +6549,7 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "VLO-2026-10-16-runner-1792194396",
@@ -7104,7 +6669,7 @@
           }
         },
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 361.025,
+        "lastPrice": 368.399994,
         "lastPriceLocal": 368.399994,
         "scoreNow": 0.169,
         "lastReview": {
@@ -7317,8 +6882,7 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "PSX-2026-10-16-runner-1792194396",
@@ -7459,7 +7023,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 256.105,
+        "lastPrice": 262.48999,
         "lastPriceLocal": 262.48999,
         "scoreNow": 0.18,
         "lastReview": {
@@ -7672,8 +7236,7 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "SHEL-2026-10-16-runner-1792194396",
@@ -7819,7 +7382,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-11-06T15:09:24+00:00",
-        "lastPrice": 97.92,
+        "lastPrice": 98.86,
         "lastPriceLocal": 98.86,
         "scoreNow": 0.194,
         "lastReview": {
@@ -8037,8 +7600,7 @@
         "exitAt": "2026-11-06T15:05:00+00:00",
         "exitQuoteAt": "2026-11-06T14:50:39+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "EOG-2026-10-16-runner-1792194396",
@@ -8183,7 +7745,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-11-06T15:09:24+00:00",
-        "lastPrice": 153.54,
+        "lastPrice": 147.835007,
         "lastPriceLocal": 147.835007,
         "scoreNow": 0.156,
         "lastReview": {
@@ -8401,8 +7963,7 @@
         "exitAt": "2026-11-06T15:05:00+00:00",
         "exitQuoteAt": "2026-11-06T15:00:54+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "OXY-2026-10-16-runner-1792194396",
@@ -8556,7 +8117,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-11-06T15:09:24+00:00",
-        "lastPrice": 57.38,
+        "lastPrice": 56.625,
         "lastPriceLocal": 56.625,
         "scoreNow": 0.131,
         "lastReview": {
@@ -8774,8 +8335,7 @@
         "exitAt": "2026-11-06T15:05:00+00:00",
         "exitQuoteAt": "2026-11-06T15:00:54+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "ACN-2026-10-17-runner-1792195684",
@@ -8786,7 +8346,7 @@
         "instrument": "shares",
         "style": "core",
         "horizonType": "swing",
-        "horizonDays": 32,
+        "horizonDays": null,
         "entryDate": "2026-10-17",
         "exitDate": null,
         "entryPrice": 229.679993,
@@ -8809,7 +8369,7 @@
         "fees": 2.15,
         "realizedPL": 0,
         "pnl": 429.99,
-        "returnPct": 10.02,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -9116,10 +8676,7 @@
         ],
         "lastMarketCap": 149279360647,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_rolledForMomentum": 1,
-        "_lastRollDate": "2026-11-11"
+        "_runnerSynced": true
       },
       {
         "id": "COP-2026-10-17-runner-1792195684",
@@ -9153,7 +8710,7 @@
         "fees": 2.19,
         "realizedPL": 0,
         "pnl": -267.6,
-        "returnPct": -6.12,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -9480,13 +9037,7 @@
         ],
         "lastMarketCap": 162624287948,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 137.545
-        }
+        "_runnerSynced": true
       },
       {
         "id": "NEM-2026-10-17-runner-1792195684",
@@ -9520,7 +9071,7 @@
         "fees": 2.26,
         "realizedPL": 0,
         "pnl": 19.84,
-        "returnPct": 0.44,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -9826,13 +9377,7 @@
         ],
         "lastMarketCap": 123788695389,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 119.12
-        }
+        "_runnerSynced": true
       },
       {
         "id": "CVX-2026-10-17-runner-1792195684",
@@ -9866,7 +9411,7 @@
         "fees": 2.19,
         "realizedPL": 0,
         "pnl": -232.33,
-        "returnPct": -5.32,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -10194,13 +9739,7 @@
         ],
         "lastMarketCap": 415675545088,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 213.03
-        }
+        "_runnerSynced": true
       },
       {
         "id": "META-2026-10-17-runner-1792195684",
@@ -10326,7 +9865,7 @@
           }
         },
         "updatedAt": "2026-11-09T15:09:35+00:00",
-        "lastPrice": 636.53,
+        "lastPrice": 639.61,
         "lastPriceLocal": 639.61,
         "scoreNow": 0.139,
         "lastReview": {
@@ -10544,8 +10083,7 @@
         "exitAt": "2026-11-09T15:05:00+00:00",
         "exitQuoteAt": "2026-11-09T15:00:22+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "SHOP-2026-10-17-runner-1792195684",
@@ -10661,7 +10199,7 @@
           }
         },
         "updatedAt": "2026-10-30T18:07:05+00:00",
-        "lastPrice": 148,
+        "lastPrice": 154.49,
         "lastPriceLocal": 154.49,
         "scoreNow": 0.252,
         "lastReview": {
@@ -10794,8 +10332,7 @@
         "exitAt": "2026-10-30T18:04:24+00:00",
         "exitQuoteAt": "2026-10-30T18:00:31+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "PLTR-2026-10-17-runner-1792203754",
@@ -10916,7 +10453,7 @@
           }
         },
         "updatedAt": "2026-11-09T14:36:33+00:00",
-        "lastPrice": 172.16,
+        "lastPrice": 165.67,
         "lastPriceLocal": 165.67,
         "scoreNow": 0.023,
         "lastReview": {
@@ -11134,8 +10671,7 @@
         "exitAt": "2026-11-09T14:35:01+00:00",
         "exitQuoteAt": "2026-11-09T14:32:51+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "MSFT-2026-10-17-runner-1792203754",
@@ -11169,7 +10705,7 @@
         "fees": 2.16,
         "realizedPL": 0,
         "pnl": -73.87,
-        "returnPct": -1.71,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -11498,13 +11034,7 @@
         ],
         "lastMarketCap": 3861658137345,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 520.005
-        }
+        "_runnerSynced": true
       },
       {
         "id": "SSNLF-2026-10-17-runner-1792203754",
@@ -11620,7 +11150,7 @@
           }
         },
         "updatedAt": "2026-10-17T02:22:34+00:00",
-        "lastPrice": 65.21,
+        "lastPrice": 65.209999,
         "lastPriceLocal": 65.209999,
         "scoreNow": 0.353,
         "lastReview": {
@@ -11835,13 +11365,7 @@
         ],
         "lastMarketCap": 424642870892,
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 65.21
-        }
+        "_runnerSynced": true
       },
       {
         "id": "MU-2026-10-17-runner-1792203754",
@@ -11957,7 +11481,7 @@
           }
         },
         "updatedAt": "2026-11-04T16:06:47+00:00",
-        "lastPrice": 806.05,
+        "lastPrice": 803.12,
         "lastPriceLocal": 803.12,
         "scoreNow": 0.216,
         "lastReview": {
@@ -12154,8 +11678,7 @@
         "exitAt": "2026-11-04T16:05:01+00:00",
         "exitQuoteAt": "2026-11-04T16:00:27+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "GME-2026-10-17-runner-1792203754",
@@ -12281,7 +11804,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-26T15:06:47+00:00",
-        "lastPrice": 25.45,
+        "lastPrice": 24.665,
         "lastPriceLocal": 24.665,
         "scoreNow": 0.196,
         "lastReview": {
@@ -12365,8 +11888,7 @@
         "exitAt": "2026-10-26T15:05:00+00:00",
         "exitQuoteAt": "2026-10-26T15:00:11+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "TEAM-2026-10-17-runner-1792203754",
@@ -12511,7 +12033,7 @@
           "scanAsOf": "2026-10-15"
         },
         "updatedAt": "2026-10-29T18:34:12+00:00",
-        "lastPrice": 150.45,
+        "lastPrice": 205.565,
         "lastPriceLocal": 205.565,
         "scoreNow": 0.218,
         "lastReview": {
@@ -12629,8 +12151,7 @@
         "exitAt": "2026-10-29T18:31:49+00:00",
         "exitQuoteAt": "2026-10-29T18:30:20+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "SBLK-2026-10-09-1791533157298-0",
@@ -12661,16 +12182,7 @@
         "confidence": 0.559,
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 56)",
-          "Research grade B- (59/100 percentile)",
-          "Downtrend (R²=0.27)",
-          "Sector cross-asset: bull",
-          "Peer grade A+ (#1 of 78 in Industrials)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum B (+14.8% 3mo · 0.90× avg vol · Mixed / no decisive trend)",
-          "Trend neutral (q60, mom 58)",
-          "+22.0pp vs Industrials peers (n=12)",
-          "Supply-chain peers +0.0% (8 peers in Shipping & Maritime Logistics)",
-          "13F: 60 institutions hold · 17 adding / 15 trimming · 22 PUT · 20 CALL"
+          "Research grade B- (59/100 percentile)"
         ],
         "components": {
           "fundamentals": 0.113,
@@ -12688,26 +12200,6 @@
           "supplyChain": 0.002,
           "institutional": 0.038
         },
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:+0.11",
-          "researchGrade:+0.18",
-          "health:+0.19",
-          "trend:-0.03 ×1.3 (regime)",
-          "momentum:+0.36 ×1.3 (regime)",
-          "meanReversion:-0.13 ×0.7 (regime)",
-          "crossAsset:+0.60 ×1.1 (regime)",
-          "peerGrade:+1.00 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:+0.26 ×1.4 (regime)",
-          "trendEngine:+0.16",
-          "peerRelativeStrength:+1.00",
-          "supplyChain:+0.00",
-          "institutional:+0.04",
-          "agreement:96% one-sided → conviction boosted to 0.56",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "regimeAtEntry": "risk-on",
         "tradeStyle": "rotation/macro",
         "dalioEnv": "growth-up",
@@ -12795,7 +12287,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 27.975,
+        "lastPrice": 27.79,
         "lastPriceSource": "github",
         "returnPct": -8.8,
         "pnl": 0,
@@ -12845,15 +12337,7 @@
         "confidence": 0.456,
         "rationale": [
           "Fundamentals: Mixed - strengths offset by real weaknesses; price discipline matters. (conviction 47)",
-          "Research grade C- (34/100 percentile)",
-          "Downtrend (R²=0.77)",
-          "Sector cross-asset: warn",
-          "Peer grade D (#35 of 44 in Communication Services)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum D (-36.2% 3mo · 1.16× avg vol · Clean downtrend — momentum and trend both negative)",
-          "Trend persistent-downtrend (q78, mom 27)",
-          "-44.0pp vs Communication Services peers (n=12)",
-          "13F: 5 institutions hold · 1 adding / 2 trimming · 1 PUT · 1 CALL"
+          "Research grade C- (34/100 percentile)"
         ],
         "components": {
           "fundamentals": -0.056,
@@ -12870,26 +12354,6 @@
           "peerRelativeStrength": -1,
           "institutional": -0.111
         },
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.06",
-          "researchGrade:-0.32",
-          "health:-0.11",
-          "trend:-0.34 ×1.3 (regime)",
-          "momentum:-0.57 ×1.3 (regime)",
-          "meanReversion:+0.23 ×0.7 (regime)",
-          "crossAsset:-0.99 ×1.1 (regime)",
-          "peerGrade:-0.58 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:-0.70 ×1.4 (regime)",
-          "trendEngine:-0.46",
-          "peerRelativeStrength:-1.00",
-          "institutional:-0.11",
-          "agreement:91% one-sided → conviction boosted to -0.56",
-          "short in risk-on: confidence -0.1 bar",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "regimeAtEntry": "risk-on",
         "tradeStyle": "short",
         "dalioEnv": "growth-down",
@@ -12977,7 +12441,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 3.785,
+        "lastPrice": 2.13,
         "lastPriceSource": "github",
         "returnPct": 5.75,
         "pnl": 0,
@@ -13027,15 +12491,7 @@
         "confidence": 0.423,
         "rationale": [
           "Fundamentals: Weak fundamentals for an institutional-scale name - caution. (conviction 41)",
-          "Research grade C- (31/100 percentile)",
-          "Downtrend (backend, R²=0.77)",
-          "Sector cross-asset: warn",
-          "Peer grade D+ (#43 of 44 in Communication Services · XLK +9.1% 3mo)",
-          "Regime grade C+ (risk-on regime)",
-          "Momentum C (1.16× avg vol)",
-          "Supply-chain peers -0.0% (7 peers in Gaming & Interactive Entertainment)",
-          "13F: 4 institutions hold · 1 adding / 2 trimming · 2 PUT · 1 CALL",
-          "SEC: Last 10-Q 63d ago"
+          "Research grade C- (31/100 percentile)"
         ],
         "components": {
           "fundamentals": -0.178,
@@ -13052,27 +12508,6 @@
           "institutional": -0.274,
           "earningsRecency": 0.15
         },
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.18",
-          "researchGrade:-0.38",
-          "health:-0.12",
-          "trend:-0.15 ×1.3 (regime)",
-          "momentum:-0.90 ×1.3 (regime)",
-          "meanReversion:+0.14 ×0.7 (regime)",
-          "tech:backend-precomputed",
-          "crossAsset:-1.00 ×1.1 (regime)",
-          "peerGrade:-0.41 ×1.2 (regime)",
-          "regimeGrade:0.00 ×1.4 (regime)",
-          "momentumGrade:-0.12 ×1.4 (regime)",
-          "supplyChain:-0.00",
-          "institutional:-0.27",
-          "earningsRecency:+0.15",
-          "agreement:93% one-sided → conviction boosted to -0.52",
-          "short in risk-on: confidence -0.1 bar",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "regimeAtEntry": "risk-on",
         "tradeStyle": "short",
         "dalioEnv": "growth-down",
@@ -13161,8 +12596,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 233.19,
-        "lastPriceSource": "github",
+        "lastPrice": 205.28,
+        "lastPriceSource": "finnhub",
         "returnPct": 1.95,
         "pnl": 0,
         "partialSells": [
@@ -13211,15 +12646,7 @@
         "confidence": 0.447,
         "rationale": [
           "Fundamentals: Weak fundamentals for an institutional-scale name - caution. (conviction 38)",
-          "Research grade C- (37/100 percentile)",
-          "Downtrend (R²=0.48)",
-          "Sector cross-asset: warn",
-          "Peer grade C- (#31 of 44 in Communication Services)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum F (-24.6% 3mo · 1.55× avg vol · Mixed / no decisive trend)",
-          "Trend neutral (q20, mom 28)",
-          "-32.6pp vs Communication Services peers (n=12)",
-          "13F: 1 institution hold · 0 adding / 1 trimming · 1 PUT · 1 CALL"
+          "Research grade C- (37/100 percentile)"
         ],
         "components": {
           "fundamentals": -0.243,
@@ -13236,26 +12663,6 @@
           "peerRelativeStrength": -1,
           "institutional": -0.12
         },
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.24",
-          "researchGrade:-0.25",
-          "health:-0.22",
-          "trend:-0.20 ×1.3 (regime)",
-          "momentum:-0.76 ×1.3 (regime)",
-          "meanReversion:+0.42 ×0.7 (regime)",
-          "crossAsset:-0.99 ×1.1 (regime)",
-          "peerGrade:-0.40 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:-0.76 ×1.4 (regime)",
-          "trendEngine:-0.45",
-          "peerRelativeStrength:-1.00",
-          "institutional:-0.12",
-          "agreement:89% one-sided → conviction boosted to -0.55",
-          "short in risk-on: confidence -0.1 bar",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "regimeAtEntry": "risk-on",
         "tradeStyle": "short",
         "dalioEnv": "growth-down",
@@ -13343,7 +12750,7 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 126.98,
+        "lastPrice": 103.53,
         "lastPriceSource": "github",
         "returnPct": 5.24,
         "pnl": 0,
@@ -13393,14 +12800,7 @@
         "confidence": 0.859,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 44)",
-          "Research grade D+ (24/100 percentile)",
-          "Downtrend (R²=0.93)",
-          "Sector cross-asset: bull",
-          "Peer grade C- (#54 of 82 in Healthcare)",
-          "Regime grade C (Risk-on: defensives lag)",
-          "Momentum F (-40.1% 3mo · 1.74× avg vol · Clean downtrend — momentum and trend both negative)",
-          "Trend persistent-downtrend (q59, mom 26)",
-          "-55.8pp vs Healthcare peers (n=12)"
+          "Research grade D+ (24/100 percentile)"
         ],
         "components": {
           "fundamentals": -0.12,
@@ -13416,25 +12816,6 @@
           "trendEngine": -0.485,
           "peerRelativeStrength": -1
         },
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.12",
-          "researchGrade:-0.51",
-          "health:-0.17",
-          "trend:-0.87 ×1.3 (regime)",
-          "momentum:-0.81 ×1.3 (regime)",
-          "meanReversion:+0.40 ×0.7 (regime)",
-          "crossAsset:+0.60 ×1.1 (regime)",
-          "peerGrade:-0.30 ×1.2 (regime)",
-          "regimeGrade:-0.16 ×1.4 (regime)",
-          "momentumGrade:-0.90 ×1.4 (regime)",
-          "trendEngine:-0.48",
-          "peerRelativeStrength:-1.00",
-          "agreement:84% one-sided → conviction boosted to -0.56",
-          "short in risk-on: confidence -0.1 bar",
-          "leverage:1x",
-          "instrument:shares"
-        ],
         "regimeAtEntry": "risk-on",
         "tradeStyle": "short",
         "dalioEnv": "growth-up",
@@ -13521,8 +12902,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 1.085,
-        "lastPriceSource": "github",
+        "lastPrice": 1.25,
+        "lastPriceSource": "finnhub",
         "returnPct": -5.93,
         "pnl": -409.59,
         "_exitSignal": {
@@ -13734,15 +13115,7 @@
         "confidence": 0.944,
         "rationale": [
           "Fundamentals: Speculative with weak fundamentals - high risk of permanent loss. (conviction 42)",
-          "Research grade D+ (27/100 percentile)",
-          "Downtrend (R²=0.84)",
-          "Sector cross-asset: warn",
-          "Peer grade F (#72 of 74 in Financial Services)",
-          "Regime grade B (Risk-on favors cyclicals/high-beta)",
-          "Momentum D+ (-69.5% 3mo · 0.62× avg vol · Clean downtrend — momentum and trend both negative)",
-          "Trend persistent-downtrend (q67, mom 18)",
-          "-66.5pp vs Financial Services peers (n=12)",
-          "Fed easing (-15bps)"
+          "Research grade D+ (27/100 percentile)"
         ],
         "components": {
           "fundamentals": -0.156,
@@ -13759,26 +13132,6 @@
           "peerRelativeStrength": -1,
           "fed": -0.081
         },
-        "decisionPath": [
-          "regime:risk-on (pipeline: expansion (conf 0.981))",
-          "fundamentals:-0.16",
-          "researchGrade:-0.47",
-          "health:-0.20",
-          "trend:-1.00 ×1.3 (regime)",
-          "momentum:-0.77 ×1.3 (regime)",
-          "meanReversion:+0.37 ×0.7 (regime)",
-          "crossAsset:-0.99 ×1.1 (regime)",
-          "peerGrade:-0.94 ×1.2 (regime)",
-          "regimeGrade:+0.28 ×1.4 (regime)",
-          "momentumGrade:-0.48 ×1.4 (regime)",
-          "trendEngine:-0.65",
-          "peerRelativeStrength:-1.00",
-          "fed:-0.08",
-          "agreement:91% one-sided → conviction boosted to -0.65",
-          "short in risk-on: confidence -0.1 bar",
-          "hedge:on (vol expanding)",
-          "instrument:shares"
-        ],
         "regimeAtEntry": "risk-on",
         "tradeStyle": "short",
         "dalioEnv": "growth-down",
@@ -13866,8 +13219,8 @@
           "learned": null,
           "couldHaveDoneBetter": null
         },
-        "lastPrice": 0.1701,
-        "lastPriceSource": "github",
+        "lastPrice": 0.2381,
+        "lastPriceSource": "finnhub",
         "returnPct": 22.69,
         "pnl": 1636.38,
         "partialSells": [
@@ -14018,8 +13371,7 @@
         ],
         "rationale": [
           "SWING · conf 0.80 · score 0.35. Triggers: peerGrade +0.70, catalyst +0.50, pattern +0.48, momentum +0.39, trend +0.35, researchGrade +0.33",
-          "OPTION CALL 180.0 exp 2026-11-06 (14d) ×4 @ $4.30 ask · Δ 0.4667 · premium $1,720 = the most it can lose · catalyst inside the horizon",
-          "SHORT horizon (~10 sessions, min hold 2): earnings in 7d - a catalyst trade · exploratory size · earnings 2026-10-30 (7d, beat rate 0.875)"
+          "OPTION CALL 180.0 exp 2026-11-06 (14d) ×4 @ $4.30 ask · Δ 0.4667 · premium $1,720 = the most it can lose · catalyst inside the horizon"
         ],
         "cashAfter": 24663.37,
         "placedBy": "runner",
@@ -14125,7 +13477,7 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T14:37:04+00:00",
-        "lastPrice": 166.355,
+        "lastPrice": 183.74,
         "lastPriceLocal": 183.74,
         "scoreNow": 0.419,
         "optionMarkSource": "chain 2026-10-31T00:03",
@@ -14272,8 +13624,7 @@
         "exitAt": "2026-11-02T14:35:00+00:00",
         "exitQuoteAt": "2026-11-02T14:32:48+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BP-2026-10-23-runner-1792775954",
@@ -14451,7 +13802,7 @@
         "entryQuoteAt": "2026-10-23T17:05:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-03T14:35:51+00:00",
-        "lastPrice": 45.275,
+        "lastPrice": 47.6,
         "lastPriceLocal": 47.6,
         "scoreNow": 0.205,
         "lastReview": {
@@ -14605,8 +13956,7 @@
         "exitAt": "2026-11-03T14:35:01+00:00",
         "exitQuoteAt": "2026-11-03T14:33:02+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "DVN-2026-10-23-runner-1792775954",
@@ -14787,7 +14137,7 @@
         "entryQuoteAt": "2026-10-23T17:00:09+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-04T16:36:50+00:00",
-        "lastPrice": 44.515,
+        "lastPrice": 45.19,
         "lastPriceLocal": 45.19,
         "scoreNow": 0.222,
         "lastReview": {
@@ -14973,8 +14323,7 @@
         "exitAt": "2026-11-04T16:35:00+00:00",
         "exitQuoteAt": "2026-11-04T16:30:26+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "AMGN-2026-10-26-runner-1793023818-opt",
@@ -15047,8 +14396,7 @@
         ],
         "rationale": [
           "SWING · conf 0.78 · score 0.32. Triggers: peerGrade +0.77, catalyst +0.50, momentum +0.46",
-          "OPTION CALL 465.0 exp 2026-12-18 (53d) ×2 @ $12.90 ask · Δ 0.3718 · premium $2,580 = the most it can lose · catalyst inside the horizon",
-          "SHORT horizon (~10 sessions, min hold 2): earnings in 8d - a catalyst trade · earnings 2026-11-03 (8d, beat rate 1.0)"
+          "OPTION CALL 465.0 exp 2026-12-18 (53d) ×2 @ $12.90 ask · Δ 0.3718 · premium $2,580 = the most it can lose · catalyst inside the horizon"
         ],
         "cashAfter": 16470.07,
         "placedBy": "runner",
@@ -15195,7 +14543,7 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-04T14:36:27+00:00",
-        "lastPrice": 461.75,
+        "lastPrice": 471.665,
         "lastPriceLocal": 471.665,
         "scoreNow": 0.322,
         "optionMarkSource": "model (Black-Scholes, entry IV)",
@@ -15359,8 +14707,7 @@
         "exitAt": "2026-11-04T14:35:00+00:00",
         "exitQuoteAt": "2026-11-04T14:32:51+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "ESTC-2026-10-26-runner-1793023818-opt",
@@ -15451,8 +14798,7 @@
         ],
         "rationale": [
           "SWING · conf 0.69 · score 0.30. Triggers: momentum +0.96, pattern +0.85, trend +0.68, catalyst +0.45, fundamentals +0.34, health +0.34",
-          "OPTION CALL 105.0 exp 2026-11-20 (25d) ×2 @ $7.40 ask · Δ 0.4972 · premium $1,480 = the most it can lose · conviction 0.69",
-          "SHORT horizon (~10 sessions, min hold 2): momentum-led (lean 0.31) · earnings 2026-11-19 (24d, beat rate 1.0)"
+          "OPTION CALL 105.0 exp 2026-11-20 (25d) ×2 @ $7.40 ask · Δ 0.4972 · premium $1,480 = the most it can lose · conviction 0.69"
         ],
         "cashAfter": 14990.07,
         "placedBy": "runner",
@@ -15623,7 +14969,7 @@
         "entryQuoteAt": "2026-10-26T13:50:07+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:13:33+00:00",
-        "lastPrice": 89.12,
+        "lastPrice": 91.85,
         "lastPriceLocal": 91.85,
         "scoreNow": 0.115,
         "optionMarkSource": "chain 2026-11-02T15:05",
@@ -15770,8 +15116,7 @@
         "exitAt": "2026-11-02T15:11:50+00:00",
         "exitQuoteAt": "2026-11-02T15:05:13+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "OKE-2026-10-26-runner-1793023818-opt",
@@ -15846,8 +15191,7 @@
         ],
         "rationale": [
           "SWING · conf 0.76 · score 0.28. Triggers: crossAsset +1.00, pattern +0.72, fundamentals +0.35",
-          "OPTION CALL 90.0 exp 2027-01-15 (81d) ×1 @ $9.00 ask · Δ 0.7099 · premium $900 = the most it can lose · conviction 0.76",
-          "MEDIUM horizon (~40 sessions, min hold 5): conf 0.76 on slow signals (lean 0.84); steered long→medium (book 65% long vs 25% target) · exploratory size · earnings 2026-10-27 (1d, beat rate 0.625)"
+          "OPTION CALL 90.0 exp 2027-01-15 (81d) ×1 @ $9.00 ask · Δ 0.7099 · premium $900 = the most it can lose · conviction 0.76"
         ],
         "cashAfter": 14090.07,
         "placedBy": "runner",
@@ -16018,7 +15362,7 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-04T17:08:52+00:00",
-        "lastPrice": 88.32,
+        "lastPrice": 88.24,
         "lastPriceLocal": 88.24,
         "scoreNow": 0.167,
         "optionMarkSource": "chain 2026-11-04T17:05",
@@ -16199,8 +15543,7 @@
         "exitAt": "2026-11-04T17:05:01+00:00",
         "exitQuoteAt": "2026-11-04T17:00:25+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "NVDA-2026-10-26-runner-1793023818-opt",
@@ -16285,8 +15628,7 @@
         ],
         "rationale": [
           "SWING · conf 0.68 · score 0.28. Triggers: peerGrade +0.75, health +0.52, fundamentals +0.48, catalyst +0.45, researchGrade +0.39",
-          "OPTION CALL 220.0 exp 2027-01-15 (81d) ×1 @ $14.50 ask · Δ 0.5078 · premium $1,450 = the most it can lose · catalyst inside the horizon",
-          "MEDIUM horizon (~40 sessions, min hold 5): conf 0.68 on slow signals (lean 0.84); steered long→medium (book 63% long vs 25% target) · earnings 2026-11-17 (22d, beat rate 1.0)"
+          "OPTION CALL 220.0 exp 2027-01-15 (81d) ×1 @ $14.50 ask · Δ 0.5078 · premium $1,450 = the most it can lose · catalyst inside the horizon"
         ],
         "cashAfter": 12640.07,
         "placedBy": "runner",
@@ -16448,7 +15790,7 @@
         "entryQuoteAt": "2026-10-26T14:00:10+00:00",
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
-        "lastPrice": 174.2,
+        "lastPrice": 190.414993,
         "lastPriceLocal": 190.414993,
         "scoreNow": 0.166,
         "optionMarkSource": "chain 2026-11-05T14:51",
@@ -16646,8 +15988,7 @@
         "exitAt": "2026-11-05T15:05:04+00:00",
         "exitQuoteAt": "2026-11-05T15:00:58+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "PBRG-2026-10-28-runner-1793212117",
@@ -17076,7 +16417,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-04T15:37:00+00:00",
         "lastMarketCap": null,
-        "lastPrice": 546.255,
+        "lastPrice": 728,
         "lastPriceLocal": 728,
         "scoreNow": 0.306,
         "lastReview": {
@@ -17162,8 +16503,7 @@
         "exitAt": "2026-11-04T15:35:00+00:00",
         "exitQuoteAt": "2026-11-04T15:33:13+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "TSM-2026-10-29-runner-1793298852-opt",
@@ -17243,8 +16583,7 @@
         ],
         "rationale": [
           "SWING · conf 0.80 · score 0.36. Triggers: peerGrade +0.84, researchGrade +0.63, health +0.60, fundamentals +0.56",
-          "OPTION CALL 450.0 exp 2027-01-15 (78d) ×1 @ $26.50 ask · Δ 0.5012 · premium $2,650 = the most it can lose · conviction 0.80",
-          "MEDIUM horizon (~40 sessions, min hold 5): conf 0.80 on slow signals (lean 0.91); steered long→medium (book 63% long vs 25% target) · earnings 2027-01-14 (77d, beat rate 1.0)"
+          "OPTION CALL 450.0 exp 2027-01-15 (78d) ×1 @ $26.50 ask · Δ 0.5012 · premium $2,650 = the most it can lose · conviction 0.80"
         ],
         "cashAfter": 13783.99,
         "placedBy": "runner",
@@ -17406,7 +16745,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-05T14:35:43+00:00",
         "lastMarketCap": 1969589369820,
-        "lastPrice": 410.05,
+        "lastPrice": 379.755,
         "lastPriceLocal": 379.755,
         "scoreNow": 0.315,
         "optionMarkSource": "chain 2026-11-04T20:51",
@@ -17535,8 +16874,7 @@
         "exitAt": "2026-11-05T14:35:00+00:00",
         "exitQuoteAt": "2026-11-05T14:32:57+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "A-2026-10-29-runner-1793298852-opt",
@@ -17609,8 +16947,7 @@
         ],
         "rationale": [
           "SWING · conf 0.84 · score 0.33. Triggers: momentum +0.73, crossAsset +0.58, trend +0.52",
-          "OPTION CALL 180.0 exp 2027-01-15 (78d) ×2 @ $14.40 ask · Δ 0.5726 · premium $2,880 = the most it can lose · catalyst inside the horizon",
-          "MEDIUM horizon (~40 sessions, min hold 5): mixed signals (lean 0.54) · earnings 2026-11-23 (25d, beat rate 0.75)"
+          "OPTION CALL 180.0 exp 2027-01-15 (78d) ×2 @ $14.40 ask · Δ 0.5726 · premium $2,880 = the most it can lose · catalyst inside the horizon"
         ],
         "cashAfter": 10903.99,
         "placedBy": "runner",
@@ -17757,7 +17094,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-09T15:09:35+00:00",
         "lastMarketCap": 49656130930,
-        "lastPrice": 179,
+        "lastPrice": 176.13,
         "lastPriceLocal": 176.13,
         "scoreNow": 0.208,
         "optionMarkSource": "chain 2026-11-09T14:50",
@@ -17937,8 +17274,7 @@
         "exitAt": "2026-11-09T15:05:00+00:00",
         "exitQuoteAt": "2026-11-09T15:00:22+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "PFE-2026-10-29-runner-1793298852-opt",
@@ -18022,8 +17358,7 @@
         ],
         "rationale": [
           "SWING · conf 0.83 · score 0.30. Triggers: peerGrade +0.82, crossAsset +0.58, catalyst +0.50, momentum +0.50, pattern +0.48",
-          "OPTION CALL 30.0 exp 2026-11-13 (15d) ×66 @ $0.44 ask · Δ 0.3911 · premium $2,904 = the most it can lose · catalyst inside the horizon",
-          "SHORT horizon (~10 sessions, min hold 2): earnings in 5d - a catalyst trade · earnings 2026-11-03 (5d, beat rate 1.0)"
+          "OPTION CALL 30.0 exp 2026-11-13 (15d) ×66 @ $0.44 ask · Δ 0.3911 · premium $2,904 = the most it can lose · catalyst inside the horizon"
         ],
         "cashAfter": 7999.99,
         "placedBy": "runner",
@@ -18185,7 +17520,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-02T14:37:04+00:00",
         "lastMarketCap": 174011036545,
-        "lastPrice": 29.265,
+        "lastPrice": 30.53,
         "lastPriceLocal": 30.53,
         "scoreNow": 0.165,
         "optionMarkSource": "chain 2026-10-31T00:03",
@@ -18263,8 +17598,7 @@
         "exitAt": "2026-11-02T14:35:00+00:00",
         "exitQuoteAt": "2026-11-02T14:32:48+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "XOM-2026-11-02-runner-1793632279-opt",
@@ -18357,8 +17691,7 @@
         ],
         "rationale": [
           "SWING · conf 0.86 · score 0.45. Triggers: peerGrade +0.70, crossAsset +0.59, momentum +0.55, trend +0.49, fundamentals +0.47, health +0.43, researchGrade +0.38",
-          "BULL PUT CREDIT PUTS 165/175 exp 2027-01-15 (74d) ×6 · credit $2.10/sh ($1,260 received) · max loss $4,740 · max gain $1,260 · breakeven $172.90 · IV upper: IV 32% vs 20-day realised 22% (x1.50; IV rank needs 20 days of history)",
-          "MEDIUM horizon (~40 sessions, min hold 5): conf 0.86 on slow signals (lean 0.69); steered long→medium (book 56% long vs 25% target)"
+          "BULL PUT CREDIT PUTS 165/175 exp 2027-01-15 (74d) ×6 · credit $2.10/sh ($1,260 received) · max loss $4,740 · max gain $1,260 · breakeven $172.90 · IV upper: IV 32% vs 20-day realised 22% (x1.50; IV rank needs 20 days of history)"
         ],
         "cashAfter": 29698.36,
         "placedBy": "runner",
@@ -18537,7 +17870,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-09T15:35:46+00:00",
         "lastMarketCap": 671399215018,
-        "lastPrice": 166.355,
+        "lastPrice": 164.59,
         "lastPriceLocal": 164.59,
         "scoreNow": 0.259,
         "optionMarkSource": "chain",
@@ -18683,8 +18016,7 @@
         "exitAt": "2026-11-09T15:35:01+00:00",
         "exitQuoteAt": "2026-11-09T15:30:23+00:00",
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "LLY-2026-11-02-runner-1793632279",
@@ -18718,7 +18050,7 @@
         "fees": 2.2,
         "realizedPL": 0,
         "pnl": 43.35,
-        "returnPct": 0.99,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -19068,8 +18400,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "REGN-2026-11-02-runner-1793632279",
@@ -19102,8 +18433,8 @@
         "trims": [],
         "fees": 2.09,
         "realizedPL": 0,
-        "pnl": -199.05,
-        "returnPct": -4.76,
+        "pnl": -226.33,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -19317,7 +18648,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:11:20+00:00",
         "lastMarketCap": 93835481173,
-        "lastPrice": 913.34,
+        "lastPrice": 907.08,
         "lastPriceLocal": 907.08,
         "scoreNow": 0.465,
         "lastReview": {
@@ -19467,8 +18798,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "VRTX-2026-11-02-runner-1793632279",
@@ -19501,8 +18831,8 @@
         "trims": [],
         "fees": 1.39,
         "realizedPL": 0,
-        "pnl": -120.19,
-        "returnPct": -4.31,
+        "pnl": -114.29,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -19716,7 +19046,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-02T15:11:20+00:00",
         "lastMarketCap": 136750625511,
-        "lastPrice": 538.18,
+        "lastPrice": 539.37,
         "lastPriceLocal": 539.37,
         "scoreNow": 0.291,
         "lastReview": {
@@ -19866,13 +19196,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 538.18
-        }
+        "_runnerSynced": true
       },
       {
         "id": "NUE-2026-11-03-runner-1793718445",
@@ -19906,7 +19230,7 @@
         "fees": 1.77,
         "realizedPL": 0,
         "pnl": -228.98,
-        "returnPct": -6.47,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -20240,13 +19564,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 259.02
-        }
+        "_runnerSynced": true
       },
       {
         "id": "SQQQ-2026-11-04-runner-1793805126",
@@ -20279,8 +19597,8 @@
         "trims": [],
         "fees": 2.35,
         "realizedPL": 0,
-        "pnl": 87.89,
-        "returnPct": 1.87,
+        "pnl": 96.03,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -20436,7 +19754,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-04T15:12:06+00:00",
         "lastMarketCap": null,
-        "lastPrice": 41.1,
+        "lastPrice": 41.17,
         "lastPriceLocal": 41.17,
         "scoreNow": 0.418,
         "lastReview": {
@@ -20519,13 +19837,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 41.1
-        }
+        "_runnerSynced": true
       },
       {
         "id": "AMGN-2026-11-05-runner-1793891255",
@@ -20559,7 +19871,7 @@
         "fees": 2.18,
         "realizedPL": 0,
         "pnl": -175.92,
-        "returnPct": -4.03,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -20844,13 +20156,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 461.75
-        }
+        "_runnerSynced": true
       },
       {
         "id": "ZSL-2026-11-05-runner-1793891255",
@@ -20883,8 +20189,8 @@
         "trims": [],
         "fees": 2.06,
         "realizedPL": 0,
-        "pnl": -18.02,
-        "returnPct": -0.44,
+        "pnl": 1.74,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -21042,7 +20348,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
         "lastMarketCap": null,
-        "lastPrice": 35.22,
+        "lastPrice": 35.39,
         "lastPriceLocal": 35.39,
         "scoreNow": 0.339,
         "lastReview": {
@@ -21114,8 +20420,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "AZN-2026-11-05-runner-1793891255",
@@ -21148,8 +20453,8 @@
         "trims": [],
         "fees": 2.16,
         "realizedPL": 0,
-        "pnl": -163.71,
-        "returnPct": -3.79,
+        "pnl": -165.29,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -21329,7 +20634,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
         "lastMarketCap": 285679023379,
-        "lastPrice": 184.27,
+        "lastPrice": 184.2,
         "lastPriceLocal": 184.2,
         "scoreNow": 0.401,
         "lastReview": {
@@ -21431,13 +20736,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 184.27
-        }
+        "_runnerSynced": true
       },
       {
         "id": "IDXX-2026-11-05-runner-1793891255",
@@ -21471,7 +20770,7 @@
         "fees": 2.03,
         "realizedPL": 0,
         "pnl": 34.49,
-        "returnPct": 0.85,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -21749,8 +21048,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "NDAQ-2026-11-05-runner-1793891255",
@@ -21783,8 +21081,8 @@
         "trims": [],
         "fees": 1.96,
         "realizedPL": 0,
-        "pnl": 1.61,
-        "returnPct": 0.04,
+        "pnl": -0.71,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -22002,7 +21300,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-05T15:07:35+00:00",
         "lastMarketCap": 61442789285,
-        "lastPrice": 109.985,
+        "lastPrice": 109.92,
         "lastPriceLocal": 109.92,
         "scoreNow": 0.258,
         "lastReview": {
@@ -22104,8 +21402,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "DIS-2026-11-05-runner-1793891255-opt",
@@ -22138,7 +21435,7 @@
         "trims": [],
         "fees": 1.3,
         "realizedPL": 0,
-        "pnl": -180,
+        "pnl": -181.3,
         "returnPct": -21.69,
         "won": false,
         "exitReason": "open",
@@ -22468,9 +21765,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "optionValue": 3.25
+        "_runnerSynced": true
       },
       {
         "id": "SPXS-2026-11-06-runner-1793977764",
@@ -22504,7 +21799,7 @@
         "fees": 1.98,
         "realizedPL": 0,
         "pnl": -271.62,
-        "returnPct": -6.86,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -22743,13 +22038,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_exitSignal": {
-          "reason": "horizon",
-          "date": "2026-11-11",
-          "price": 25.27
-        }
+        "_runnerSynced": true
       },
       {
         "id": "PG-2026-11-06-runner-1793977764",
@@ -22760,7 +22049,7 @@
         "instrument": "shares",
         "style": "core",
         "horizonType": "core",
-        "horizonDays": 12,
+        "horizonDays": null,
         "entryDate": "2026-11-06",
         "exitDate": null,
         "entryPrice": 165.475006,
@@ -22783,7 +22072,7 @@
         "fees": 2,
         "realizedPL": 0,
         "pnl": 43.13,
-        "returnPct": 1.08,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -23060,10 +22349,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "_rolledForMomentum": 1,
-        "_lastRollDate": "2026-11-11"
+        "_runnerSynced": true
       },
       {
         "id": "CBOE-2026-11-06-runner-1793977764",
@@ -23096,8 +22382,8 @@
         "trims": [],
         "fees": 1.97,
         "realizedPL": 0,
-        "pnl": 163.35,
-        "returnPct": 4.14,
+        "pnl": 171.05,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -23294,7 +22580,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-06T15:09:24+00:00",
         "lastMarketCap": 38486381396,
-        "lastPrice": 368.2,
+        "lastPrice": 368.89,
         "lastPriceLocal": 368.89,
         "scoreNow": 0.33,
         "lastReview": {
@@ -23380,8 +22666,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "EOG-2026-11-09-runner-1794236974-opt",
@@ -23414,8 +22699,8 @@
         "trims": [],
         "fees": 5.2,
         "realizedPL": 0,
-        "pnl": 160,
-        "returnPct": 7.14,
+        "pnl": 154.8,
+        "returnPct": 6.91,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -23717,9 +23002,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "optionValue": 6
+        "_runnerSynced": true
       },
       {
         "id": "SHEL-2026-11-09-runner-1794236975-opt",
@@ -23752,8 +23035,8 @@
         "trims": [],
         "fees": 7.8,
         "realizedPL": 0,
-        "pnl": -22.39,
-        "returnPct": -2.99,
+        "pnl": -172.8,
+        "returnPct": -7.68,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -23981,7 +23264,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-09T15:09:35+00:00",
         "lastMarketCap": 277078120121,
-        "lastPrice": 97.92,
+        "lastPrice": 97.85,
         "lastPriceLocal": 97.85,
         "scoreNow": 0.272,
         "optionMarkSource": "chain",
@@ -24056,9 +23339,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "optionValue": 1.21
+        "_runnerSynced": true
       },
       {
         "id": "IPAR-2026-11-09-runner-1794236975",
@@ -24092,7 +23373,7 @@
         "fees": 1.93,
         "realizedPL": 0,
         "pnl": -76.77,
-        "returnPct": -1.99,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -24359,8 +23640,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "PPG-2026-11-09-runner-1794236975",
@@ -24394,7 +23674,7 @@
         "fees": 0.58,
         "realizedPL": 0,
         "pnl": -0.6,
-        "returnPct": -0.05,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -24668,8 +23948,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "BRK-B-2026-11-10-runner-1794323488",
@@ -24702,8 +23981,8 @@
         "trims": [],
         "fees": 1.13,
         "realizedPL": 0,
-        "pnl": -1.26,
-        "returnPct": -0.06,
+        "pnl": -0.62,
+        "returnPct": 0,
         "won": false,
         "exitReason": "open",
         "status": "open",
@@ -24889,7 +24168,7 @@
         "entrySession": "regular",
         "updatedAt": "2026-11-10T15:11:29+00:00",
         "lastMarketCap": 1238914361362,
-        "lastPrice": 578.575,
+        "lastPrice": 578.74,
         "lastPriceLocal": 578.74,
         "scoreNow": 0.37,
         "lastReview": {
@@ -24943,8 +24222,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "_runnerSynced": true
       },
       {
         "id": "A-2026-11-11-runner-1794409756-opt",
@@ -24977,7 +24255,7 @@
         "trims": [],
         "fees": 0.65,
         "realizedPL": 0,
-        "pnl": 90,
+        "pnl": 89.35,
         "returnPct": 4.21,
         "won": false,
         "exitReason": "open",
@@ -25224,9 +24502,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "optionValue": 22.3
+        "_runnerSynced": true
       },
       {
         "id": "KO-2026-11-11-runner-1794409756-opt",
@@ -25259,7 +24535,7 @@
         "trims": [],
         "fees": 0.65,
         "realizedPL": 0,
-        "pnl": -22.5,
+        "pnl": -23.15,
         "returnPct": -2.51,
         "won": false,
         "exitReason": "open",
@@ -25496,9 +24772,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "optionValue": 8.72
+        "_runnerSynced": true
       },
       {
         "id": "GME-2026-11-11-runner-1794409756-opt",
@@ -25531,7 +24805,7 @@
         "trims": [],
         "fees": 7.15,
         "realizedPL": 0,
-        "pnl": 49.5,
+        "pnl": 42.35,
         "returnPct": 2.3,
         "won": false,
         "exitReason": "open",
@@ -25773,9 +25047,7 @@
           }
         ],
         "_fromRepo": true,
-        "_runnerSynced": true,
-        "lastPriceSource": "github",
-        "optionValue": 2
+        "_runnerSynced": true
       }
     ],
     "lastRunDate": "2026-10-15",
@@ -25880,7 +25152,7 @@
       },
       {
         "date": "2026-11-11",
-        "value": 95446.45
+        "value": 95334.55
       }
     ],
     "transactions": [
@@ -25901,7 +25173,7 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-11-11T15:36:19.611787+00:00",
-    "mirroredAt": "2026-11-11T15:37:38.139Z"
+    "mirroredAt": "2026-11-11T15:51:24.654Z"
   },
   "botWeights": {},
   "reviewQueue": [],
