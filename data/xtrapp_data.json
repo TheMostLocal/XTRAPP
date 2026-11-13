@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-13T12:26:53.503Z",
+  "updatedAt": "2026-11-13T12:46:17.038Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -21443,7 +21443,7 @@
         "entryAt": "2026-11-05T15:05:04+00:00",
         "entryQuoteAt": "2026-11-05T14:50:29+00:00",
         "entrySession": "regular",
-        "updatedAt": "2026-11-05T15:07:35+00:00",
+        "updatedAt": "2026-11-13T12:45:21.324Z",
         "lastMarketCap": 61582533619,
         "lastPrice": 108.65,
         "lastPriceLocal": 110.17,
@@ -21800,7 +21800,7 @@
         "entryAt": "2026-11-05T15:05:04+00:00",
         "entryQuoteAt": "2026-11-05T15:00:58+00:00",
         "entrySession": "regular",
-        "updatedAt": "2026-11-05T15:07:35+00:00",
+        "updatedAt": "2026-11-13T12:45:21.324Z",
         "lastMarketCap": 206477208559,
         "lastPrice": 118.23,
         "lastPriceLocal": 119.58,
