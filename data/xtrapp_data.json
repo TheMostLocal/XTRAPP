@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-16T14:19:38.153Z",
+  "updatedAt": "2026-11-16T14:37:45.501Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -485,7 +485,7 @@
   ],
   "thesesDeleted": {},
   "bot": {
-    "bankroll": 110736.94,
+    "bankroll": 110742.34,
     "startedAt": "2026-06-22",
     "bets": [
       {
@@ -18838,6 +18838,17 @@
         "trimTier": 0,
         "cashAfter": 25298.62,
         "direction": "long",
+        "dividends": [
+          {
+            "fx": 1,
+            "note": "income to the long",
+            "amount": 5.4,
+            "exDate": "2026-11-13",
+            "shares": 3.1208,
+            "bookedOn": "2026-11-16",
+            "perShare": 1.73
+          }
+        ],
         "entryDate": "2026-11-02",
         "exitPrice": null,
         "fxAtEntry": 1,
@@ -19012,9 +19023,19 @@
             "skewPctile1y": 79
           }
         },
+        "dividendIncome": 5.4,
         "lastPriceLocal": 1445.59,
         "primaryTrigger": "peerGrade",
         "entryPriceLocal": 1409.81,
+        "corporateActions": [
+          {
+            "at": "2026-11-16",
+            "type": "dividend",
+            "amount": 5.4,
+            "exDate": "2026-11-13",
+            "perShare": 1.73
+          }
+        ],
         "signalsThatHelped": [
           "peerGrade",
           "trend",
@@ -27597,8 +27618,8 @@
     ],
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
-    "runnerJournalAt": "2026-11-13T20:37:01.611631+00:00",
-    "mirroredAt": "2026-11-16T03:10:30.358Z"
+    "runnerJournalAt": "2026-11-16T12:35:09.875512+00:00",
+    "mirroredAt": "2026-11-16T14:25:23.365Z"
   },
   "botWeights": {},
   "reviewQueue": [],
