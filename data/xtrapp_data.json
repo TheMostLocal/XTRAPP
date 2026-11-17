@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-17T21:50:44.357Z",
+  "updatedAt": "2026-11-17T21:59:37.307Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -1876,7 +1876,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 153.51,
+        "lastPrice": 152.97,
         "lastPriceSource": "github"
       },
       {
@@ -2667,7 +2667,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 328.19,
+        "lastPrice": 322.79,
         "lastPriceSource": "github"
       },
       {
@@ -7016,7 +7016,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "VLO-2026-10-16-runner-1792194396",
@@ -8073,7 +8073,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "EOG-2026-10-16-runner-1792194396",
@@ -8438,7 +8438,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "OXY-2026-10-16-runner-1792194396",
@@ -12421,7 +12421,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "TEAM-2026-10-17-runner-1792203754",
@@ -14328,7 +14328,7 @@
         "horizonDaysPlanned": 10,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "BP-2026-10-23-runner-1792775954",
@@ -15415,7 +15415,7 @@
         "horizonDaysPlanned": 10,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "ESTC-2026-10-26-runner-1793023818-opt",
@@ -17999,7 +17999,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "PFE-2026-10-29-runner-1793298852-opt",
@@ -18745,7 +18745,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "LLY-2026-11-02-runner-1793632279",
@@ -19678,7 +19678,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "VRTX-2026-11-02-runner-1793632279",
@@ -20579,7 +20579,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-11-17",
@@ -21288,7 +21288,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-11-17",
@@ -21975,7 +21975,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-11-17",
@@ -22357,7 +22357,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "NDAQ-2026-11-05-runner-1793891255",
@@ -23451,7 +23451,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_rolledForMomentum": 1,
         "_lastRollDate": "2026-11-17"
       },
@@ -23829,7 +23829,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_rolledForMomentum": 1,
         "_lastRollDate": "2026-11-17"
       },
@@ -24213,7 +24213,7 @@
         "horizonDaysPlanned": 10,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-11-17",
@@ -24623,7 +24623,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "optionValue": 6.65
       },
       {
@@ -25030,7 +25030,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "optionValue": 1.1
       },
       {
@@ -25397,7 +25397,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "PPG-2026-11-09-runner-1794236975",
@@ -26113,7 +26113,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github"
+        "lastPriceSource": "finnhub"
       },
       {
         "id": "A-2026-11-11-runner-1794409756-opt",
@@ -26462,7 +26462,7 @@
         "horizonDaysPlanned": 10,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "optionValue": 15.95
       },
       {
@@ -26802,7 +26802,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "optionValue": 11.05
       },
       {
@@ -27147,7 +27147,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "optionValue": 1.86
       },
       {
@@ -27483,7 +27483,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-11-17",
@@ -27818,7 +27818,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "optionValue": 8.88
       },
       {
@@ -28166,7 +28166,7 @@
         "horizonDaysPlanned": 40,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "optionValue": 6.03
       },
       {
@@ -28460,7 +28460,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-11-17",
@@ -29474,7 +29474,7 @@
         "horizonDaysPlanned": 180,
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPriceSource": "github",
+        "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
           "date": "2026-11-17",
@@ -30424,7 +30424,7 @@
     "runnerBankroll": 115328.47,
     "learnedWeights": {},
     "runnerJournalAt": "2026-11-17T20:36:00.649706+00:00",
-    "mirroredAt": "2026-11-17T21:50:05.237Z"
+    "mirroredAt": "2026-11-17T21:59:02.023Z"
   },
   "botWeights": {},
   "reviewQueue": [],
