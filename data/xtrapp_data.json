@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-17T21:59:37.307Z",
+  "updatedAt": "2026-11-18T12:35:13.959Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -1690,7 +1690,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 104.1094,
+        "lastPrice": 104.1406,
         "lastPriceSource": "github"
       },
       {
@@ -2876,7 +2876,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 822.88512,
+        "lastPrice": 857.01616,
         "lastPriceSource": "github"
       },
       {
@@ -2991,7 +2991,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 0.6445990121999999,
+        "lastPrice": 0.6491066976,
         "lastPriceSource": "github"
       },
       {
@@ -3108,7 +3108,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 721.24,
+        "lastPrice": 712.42,
         "lastPriceSource": "github"
       },
       {
@@ -3279,7 +3279,7 @@
         "signalsThatHelped": [],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 189.64,
+        "lastPrice": 183.39,
         "lastPriceSource": "github"
       },
       {
@@ -3605,7 +3605,7 @@
         "signalsThatHelped": [],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 18.485,
+        "lastPrice": 18.365,
         "lastPriceSource": "github"
       },
       {
@@ -4117,7 +4117,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 4.77174653,
+        "lastPrice": 4.921618319999999,
         "lastPriceSource": "github"
       },
       {
@@ -4519,7 +4519,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 822.88512,
+        "lastPrice": 857.01616,
         "lastPriceSource": "github"
       },
       {
@@ -4725,7 +4725,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 372.82,
+        "lastPrice": 359.69,
         "lastPriceSource": "github"
       },
       {
@@ -4919,7 +4919,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 721.24,
+        "lastPrice": 712.42,
         "lastPriceSource": "github"
       },
       {
@@ -5078,7 +5078,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 18.485,
+        "lastPrice": 18.365,
         "lastPriceSource": "github"
       },
       {
@@ -5193,7 +5193,7 @@
         ],
         "_fromRepo": true,
         "_runnerSynced": true,
-        "lastPrice": 41.09,
+        "lastPrice": 41.24,
         "lastPriceSource": "github"
       },
       {
@@ -6186,7 +6186,7 @@
         "direction": "long",
         "entryDate": "2026-10-14",
         "exitPrice": null,
-        "lastPrice": 372.82,
+        "lastPrice": 359.69,
         "rationale": [
           "Fundamentals: High-quality business at a defensible price. (conviction 75)",
           "Research grade A- (80/100 percentile)",
@@ -9542,7 +9542,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 139.48
         }
       },
@@ -10254,7 +10254,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 216.13
         }
       },
@@ -11075,7 +11075,7 @@
         "entryDate": "2026-10-17",
         "exitPrice": 165.67,
         "fxAtEntry": 1,
-        "lastPrice": 157.74,
+        "lastPrice": 156.56,
         "peakPrice": 200.135,
         "rationale": [
           "CORE · conf 0.80 · score 0.36. Triggers: momentum +0.91, trend +0.62, peerGrade +0.50, optionsMarket +0.50, health +0.38, fundamentals +0.33"
@@ -11894,7 +11894,7 @@
         "lastPriceSource": "github",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 65.21
         }
       },
@@ -12099,7 +12099,7 @@
         "entryDate": "2026-10-17",
         "exitPrice": 803.12,
         "fxAtEntry": 1,
-        "lastPrice": 721.24,
+        "lastPrice": 712.42,
         "peakPrice": 980.46,
         "rationale": [
           "CORE · conf 0.73 · score 0.33. Triggers: peerGrade +0.80, health +0.60, researchGrade +0.57, fundamentals +0.56, optionsMarket +0.50"
@@ -16507,7 +16507,7 @@
           "employees": 42000,
           "fromPeakPct": 0
         },
-        "lastPrice": 157.91,
+        "lastPrice": 155.46,
         "peakPrice": 217.98,
         "rationale": [
           "SWING · conf 0.68 · score 0.28. Triggers: peerGrade +0.75, health +0.52, fundamentals +0.48, catalyst +0.45, researchGrade +0.39",
@@ -16924,7 +16924,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 66.83
         }
       },
@@ -17408,7 +17408,7 @@
           "employees": 76907,
           "fromPeakPct": 0
         },
-        "lastPrice": 372.82,
+        "lastPrice": 359.69,
         "peakPrice": 430.735,
         "rationale": [
           "SWING · conf 0.80 · score 0.36. Triggers: peerGrade +0.84, researchGrade +0.63, health +0.60, fundamentals +0.56",
@@ -20144,7 +20144,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 534.2
         }
       },
@@ -20582,7 +20582,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 252.08
         }
       },
@@ -21291,7 +21291,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 457.93
         }
       },
@@ -21978,7 +21978,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 182.27
         }
       },
@@ -24216,7 +24216,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 370.07
         }
       },
@@ -24628,7 +24628,7 @@
       },
       {
         "id": "SHEL-2026-11-09-runner-1794236975-opt",
-        "pnl": -89.55,
+        "pnl": -100.75,
         "won": false,
         "fees": 7.8,
         "mode": "explore",
@@ -24828,7 +24828,7 @@
           "BULL PUT CREDIT PUTS 90/95 exp 2027-01-15 (67d) ×6 · credit $1.25/sh ($750 received) · max loss $2,250 · max gain $750 · breakeven $93.75 · IV upper: IV 37% vs 20-day realised 27% (x1.38; IV rank needs 20 days of history)",
           "MEDIUM horizon (~40 sessions, min hold 5): conf 0.75 on slow signals (lean 0.73); steered long→medium (book 57% long vs 25% target) · earnings 2027-02-04 (87d, beat rate 0.75)"
         ],
-        "returnPct": -11.94,
+        "returnPct": -13.43,
         "stopPrice": null,
         "updatedAt": "2026-11-09T15:09:35+00:00",
         "components": {
@@ -25031,7 +25031,7 @@
         "_fromRepo": true,
         "_runnerSynced": true,
         "lastPriceSource": "finnhub",
-        "optionValue": 1.1
+        "optionValue": 1.08
       },
       {
         "id": "IPAR-2026-11-09-runner-1794236975",
@@ -27486,7 +27486,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 105.43
         }
       },
@@ -28463,7 +28463,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 395.61
         }
       },
@@ -28545,7 +28545,7 @@
         "exitPrice": 50.035,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 50.53,
+        "lastPrice": 49.07,
         "peakPrice": 49.46,
         "rationale": [
           "SWING · conf 0.93 · score 0.74. Triggers: trend -1.00, momentum -0.95, crossAsset -0.43",
@@ -29477,7 +29477,7 @@
         "lastPriceSource": "finnhub",
         "_exitSignal": {
           "reason": "horizon",
-          "date": "2026-11-17",
+          "date": "2026-11-18",
           "price": 20.65
         }
       },
@@ -29720,7 +29720,7 @@
       },
       {
         "id": "CC=F-2026-11-17-runner-1794928086",
-        "pnl": 7.3,
+        "pnl": 26.34,
         "won": false,
         "fees": 0.42,
         "mode": "explore",
@@ -29854,14 +29854,14 @@
         "exitPrice": null,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 5184,
+        "lastPrice": 5064,
         "peakPrice": 5166,
         "rationale": [
           "SWING · conf 0.82 · score 0.39. Triggers: crossAsset -1.00, momentum -0.34",
           "SHORT horizon (~10 sessions, min hold 2): research-driven alt trade (tactical) · exploratory size",
           "RESEARCH future/softs · composite -0.35 (drivers -0.58, supplyChain -0.09, news -0.57, seasonality +0.14) · 4 headline(s) · stop 12.0% / target 24.0% · size x0.34"
         ],
-        "returnPct": 0.88,
+        "returnPct": 3.17,
         "stopPrice": 5857.6,
         "updatedAt": "2026-11-17T15:08:06+00:00",
         "valuation": {
@@ -30013,7 +30013,7 @@
       },
       {
         "id": "HO=F-2026-11-17-runner-1794928086",
-        "pnl": 8.49,
+        "pnl": 11.95,
         "won": false,
         "fees": 0.38,
         "mode": "explore",
@@ -30167,14 +30167,14 @@
         "exitPrice": null,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 3.9708,
+        "lastPrice": 3.9527,
         "peakPrice": 3.9641,
         "rationale": [
           "SWING · conf 0.88 · score 0.38. Triggers: crossAsset -1.00, trend -0.59",
           "SHORT horizon (~10 sessions, min hold 2): research-driven alt trade (tactical)",
           "RESEARCH future/energy · composite -0.24 (drivers -0.42, supplyChain -0.23, news +0.11, seasonality -0.44) · 12 headline(s) · stop 12.0% / target 24.0% · size x0.30"
         ],
-        "returnPct": 1.11,
+        "returnPct": 1.56,
         "stopPrice": 4.497024,
         "updatedAt": "2026-11-17T15:08:06+00:00",
         "valuation": {
@@ -30404,6 +30404,10 @@
       {
         "date": "2026-11-17",
         "value": 95765.34
+      },
+      {
+        "date": "2026-11-18",
+        "value": 95776.64
       }
     ],
     "transactions": [
