@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-19T14:09:17.276Z",
+  "updatedAt": "2026-11-19T14:15:43.397Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -33182,7 +33182,7 @@
       "peerRelativeStrength": 1.1126
     },
     "runnerJournalAt": "2026-11-19T12:35:09.328242+00:00",
-    "mirroredAt": "2026-11-19T14:06:44.363Z",
+    "mirroredAt": "2026-11-19T14:14:43.928Z",
     "learning": {
       "at": "2026-11-19T12:35:09Z",
       "flat": 2,
