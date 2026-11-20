@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-19T16:09:41.750Z",
+  "updatedAt": "2026-11-20T12:55:17.937Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -468,7 +468,7 @@
   ],
   "thesesDeleted": {},
   "bot": {
-    "bankroll": 110103.94,
+    "bankroll": 110247.99,
     "startedAt": "2026-06-22",
     "bets": [
       {
@@ -20219,7 +20219,7 @@
       },
       {
         "id": "LLY-2026-11-02-runner-1793632279",
-        "pnl": -149.28,
+        "pnl": -179.82,
         "won": false,
         "fees": 2.2,
         "mode": "explore",
@@ -20441,8 +20441,8 @@
           },
           {
             "at": "2026-11-19",
-            "price": 1361.975,
-            "reason": "signal faded to +0.23 - exits at the stop / target or the 40-session horizon",
+            "price": 1352.19,
+            "reason": "thesis intact (aligned +0.27 in its direction)",
             "catalyst": {
               "date": "2027-02-03",
               "days": 76,
@@ -20450,8 +20450,8 @@
             },
             "daysHeld": 13,
             "decision": "hold",
-            "scoreNow": 0.23497105486936387,
-            "returnPct": -3.39,
+            "scoreNow": 0.271178307884521,
+            "returnPct": -4.09,
             "markSource": null,
             "horizonClass": "medium"
           }
@@ -20472,7 +20472,7 @@
         "leverage": 1,
         "notional": 4399.74,
         "placedBy": "runner",
-        "scoreNow": 0.235,
+        "scoreNow": 0.271,
         "trimTier": 0,
         "cashAfter": 25298.62,
         "direction": "long",
@@ -20497,7 +20497,7 @@
           "employees": 50000,
           "fromPeakPct": 0
         },
-        "lastPrice": 1361.975,
+        "lastPrice": 1352.19,
         "peakPrice": 1466.155,
         "rationale": [
           "SWING · conf 0.75 · score 0.34. Triggers: peerGrade +0.86, trend +0.72, momentum +0.66, pattern +0.48, health +0.40, fundamentals +0.35",
@@ -20518,15 +20518,15 @@
           "meanReversion": -0.198,
           "researchGrade": 0.251
         },
-        "confidence": 0.725,
+        "confidence": 0.753,
         "conviction": 0.343,
         "entryPrice": 1409.81,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 1361.975,
-          "reason": "signal faded to +0.23 - exits at the stop / target or the 40-session horizon",
+          "price": 1352.19,
+          "reason": "thesis intact (aligned +0.27 in its direction)",
           "catalyst": {
             "date": "2027-02-03",
             "days": 76,
@@ -20534,8 +20534,8 @@
           },
           "daysHeld": 13,
           "decision": "hold",
-          "scoreNow": 0.23497105486936387,
-          "returnPct": -3.39,
+          "scoreNow": 0.271178307884521,
+          "returnPct": -4.09,
           "markSource": null,
           "horizonClass": "medium"
         },
@@ -20575,10 +20575,10 @@
         "entryQuoteAt": "2026-11-02T15:00:13+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.667,
+        "longTermLean": 0.646,
         "allocationPct": 3.6,
         "horizonReason": "conf 0.75 on slow signals (lean 0.64); steered long→medium (book 54% long vs 25% target)",
-        "lastMarketCap": 1213172492669,
+        "lastMarketCap": 1204456552330,
         "plannedExitBy": "2026-12-28",
         "regimeContext": {
           "fed": {
@@ -20662,7 +20662,7 @@
           }
         },
         "dividendIncome": 5.4,
-        "lastPriceLocal": 1361.975,
+        "lastPriceLocal": 1352.19,
         "primaryTrigger": "peerGrade",
         "entryPriceLocal": 1409.81,
         "corporateActions": [
@@ -20688,7 +20688,7 @@
       },
       {
         "id": "REGN-2026-11-02-runner-1793632279",
-        "pnl": -92.75,
+        "pnl": -142.08,
         "won": false,
         "fees": 2.09,
         "mode": "explore",
@@ -20928,8 +20928,8 @@
           },
           {
             "at": "2026-11-19",
-            "price": 937.73,
-            "reason": "thesis intact (aligned +0.34 in its direction)",
+            "price": 926.41,
+            "reason": "thesis intact (aligned +0.37 in its direction)",
             "catalyst": {
               "date": "2027-01-28",
               "days": 70,
@@ -20937,8 +20937,8 @@
             },
             "daysHeld": 13,
             "decision": "hold",
-            "scoreNow": 0.33976787800815594,
-            "returnPct": -2.22,
+            "scoreNow": 0.37210506901671325,
+            "returnPct": -3.4,
             "markSource": null,
             "horizonClass": "medium"
           }
@@ -20959,7 +20959,7 @@
         "leverage": 1,
         "notional": 4179.75,
         "placedBy": "runner",
-        "scoreNow": 0.34,
+        "scoreNow": 0.372,
         "trimTier": 0,
         "cashAfter": 21118.87,
         "direction": "long",
@@ -20973,7 +20973,7 @@
           "employees": 15410,
           "fromPeakPct": 0
         },
-        "lastPrice": 937.73,
+        "lastPrice": 926.41,
         "peakPrice": 986.365,
         "rationale": [
           "SWING · conf 0.68 · score 0.28. Triggers: pattern +1.00, peerGrade +0.83, momentum +0.58, health +0.54, fundamentals +0.48",
@@ -20995,15 +20995,15 @@
           "meanReversion": -0.259,
           "researchGrade": 0.227
         },
-        "confidence": 0.786,
+        "confidence": 0.812,
         "conviction": 0.276,
         "entryPrice": 959.01,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 937.73,
-          "reason": "thesis intact (aligned +0.34 in its direction)",
+          "price": 926.41,
+          "reason": "thesis intact (aligned +0.37 in its direction)",
           "catalyst": {
             "date": "2027-01-28",
             "days": 70,
@@ -21011,8 +21011,8 @@
           },
           "daysHeld": 13,
           "decision": "hold",
-          "scoreNow": 0.33976787800815594,
-          "returnPct": -2.22,
+          "scoreNow": 0.37210506901671325,
+          "returnPct": -3.4,
           "markSource": null,
           "horizonClass": "medium"
         },
@@ -21048,10 +21048,10 @@
         "entryQuoteAt": "2026-11-02T14:50:12+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.69,
+        "longTermLean": 0.674,
         "allocationPct": 3.42,
         "horizonReason": "conf 0.68 on slow signals (lean 0.60); steered long→medium (book 52% long vs 25% target)",
-        "lastMarketCap": 97006157219,
+        "lastMarketCap": 95835127498,
         "plannedExitBy": "2026-12-28",
         "regimeContext": {
           "fed": {
@@ -21134,7 +21134,7 @@
             "skewPctile1y": 79
           }
         },
-        "lastPriceLocal": 937.73,
+        "lastPriceLocal": 926.41,
         "primaryTrigger": "pattern",
         "entryPriceLocal": 959.01,
         "signalsThatHelped": [
@@ -21150,7 +21150,7 @@
       },
       {
         "id": "VRTX-2026-11-02-runner-1793632279",
-        "pnl": -136.24,
+        "pnl": -212.49,
         "won": false,
         "fees": 1.39,
         "mode": "explore",
@@ -21392,7 +21392,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 534.94,
+            "price": 519.55,
             "reason": "minimum hold (13/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-02-11",
@@ -21401,8 +21401,8 @@
             },
             "daysHeld": 13,
             "decision": "hold",
-            "scoreNow": 0.07909657684608903,
-            "returnPct": -4.89,
+            "scoreNow": 0.12098331291041332,
+            "returnPct": -7.63,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -21423,7 +21423,7 @@
         "leverage": 1,
         "notional": 2786.44,
         "placedBy": "runner",
-        "scoreNow": 0.079,
+        "scoreNow": 0.121,
         "trimTier": 0,
         "cashAfter": 18332.43,
         "direction": "long",
@@ -21437,7 +21437,7 @@
           "employees": 6400,
           "fromPeakPct": 0
         },
-        "lastPrice": 534.94,
+        "lastPrice": 519.55,
         "peakPrice": 564.81,
         "rationale": [
           "CORE · conf 0.75 · score 0.28. Triggers: pattern +1.00, peerGrade +0.70, momentum +0.51, health +0.38, fundamentals +0.36",
@@ -21457,14 +21457,14 @@
           "meanReversion": 0,
           "researchGrade": 0.165
         },
-        "confidence": 0.521,
+        "confidence": 0.596,
         "conviction": 0.275,
         "entryPrice": 562.44,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 534.94,
+          "price": 519.55,
           "reason": "minimum hold (13/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-02-11",
@@ -21473,8 +21473,8 @@
           },
           "daysHeld": 13,
           "decision": "hold",
-          "scoreNow": 0.07909657684608903,
-          "returnPct": -4.89,
+          "scoreNow": 0.12098331291041332,
+          "returnPct": -7.63,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -21510,10 +21510,10 @@
         "entryQuoteAt": "2026-11-02T14:50:12+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.958,
+        "longTermLean": 0.898,
         "allocationPct": 2.28,
         "horizonReason": "conf 0.75 on slow signals (lean 0.81)",
-        "lastMarketCap": 135627453081,
+        "lastMarketCap": 131725507998,
         "plannedExitBy": "2027-07-12",
         "regimeContext": {
           "fed": {
@@ -21596,7 +21596,7 @@
             "skewPctile1y": 79
           }
         },
-        "lastPriceLocal": 534.94,
+        "lastPriceLocal": 519.55,
         "primaryTrigger": "pattern",
         "entryPriceLocal": 562.44,
         "signalsThatHelped": [
@@ -21612,7 +21612,7 @@
       },
       {
         "id": "NUE-2026-11-03-runner-1793718445",
-        "pnl": -315.11,
+        "pnl": -355.23,
         "won": false,
         "fees": 1.77,
         "mode": "explore",
@@ -21834,7 +21834,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 252.28,
+            "price": 249.14,
             "reason": "minimum hold (12/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-01-25",
@@ -21843,8 +21843,8 @@
             },
             "daysHeld": 12,
             "decision": "hold",
-            "scoreNow": 0.05252210049994571,
-            "returnPct": -8.9,
+            "scoreNow": 0.04042290590080692,
+            "returnPct": -10.04,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -21865,7 +21865,7 @@
         "leverage": 1,
         "notional": 3538.77,
         "placedBy": "runner",
-        "scoreNow": 0.053,
+        "scoreNow": 0.04,
         "trimTier": 0,
         "cashAfter": 18153.02,
         "direction": "long",
@@ -21879,7 +21879,7 @@
           "employees": 33000,
           "fromPeakPct": 0
         },
-        "lastPrice": 252.28,
+        "lastPrice": 249.14,
         "peakPrice": 276.94,
         "rationale": [
           "CORE · conf 0.80 · score 0.35. Triggers: crossAsset +0.91, health +0.50, pattern +0.48, fundamentals +0.44, trend +0.34, peerGrade +0.33",
@@ -21900,14 +21900,14 @@
           "meanReversion": -0.118,
           "researchGrade": 0.23
         },
-        "confidence": 0.609,
+        "confidence": 0.549,
         "conviction": 0.348,
         "entryPrice": 276.94,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 252.28,
+          "price": 249.14,
           "reason": "minimum hold (12/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-01-25",
@@ -21916,8 +21916,8 @@
           },
           "daysHeld": 12,
           "decision": "hold",
-          "scoreNow": 0.05252210049994571,
-          "returnPct": -8.9,
+          "scoreNow": 0.04042290590080692,
+          "returnPct": -10.04,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -21957,10 +21957,10 @@
         "entryQuoteAt": "2026-11-03T15:00:32+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.942,
+        "longTermLean": 0.913,
         "allocationPct": 2.92,
         "horizonReason": "conf 0.80 on slow signals (lean 0.83)",
-        "lastMarketCap": 56748915145,
+        "lastMarketCap": 56042590452,
         "plannedExitBy": "2027-07-13",
         "regimeContext": {
           "fed": {
@@ -22043,7 +22043,7 @@
             "skewPctile1y": 89
           }
         },
-        "lastPriceLocal": 252.28,
+        "lastPriceLocal": 249.14,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 276.94,
         "signalsThatHelped": [
@@ -22427,7 +22427,7 @@
       },
       {
         "id": "AMGN-2026-11-05-runner-1793891255",
-        "pnl": -363.78,
+        "pnl": -380.17,
         "won": false,
         "fees": 2.18,
         "mode": "explore",
@@ -22620,7 +22620,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 441.065,
+            "price": 439.26,
             "reason": "minimum hold (10/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-02-02",
@@ -22629,8 +22629,8 @@
             },
             "daysHeld": 10,
             "decision": "hold",
-            "scoreNow": 0.11318961168018025,
-            "returnPct": -8.33,
+            "scoreNow": 0.15322038945633482,
+            "returnPct": -8.7,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -22651,7 +22651,7 @@
         "leverage": 1,
         "notional": 4369.48,
         "placedBy": "runner",
-        "scoreNow": 0.113,
+        "scoreNow": 0.153,
         "trimTier": 0,
         "cashAfter": 35176.68,
         "direction": "long",
@@ -22665,7 +22665,7 @@
           "employees": 31500,
           "fromPeakPct": 0
         },
-        "lastPrice": 441.065,
+        "lastPrice": 439.26,
         "peakPrice": 481.12,
         "rationale": [
           "CORE · conf 0.80 · score 0.42. Triggers: crossAsset +1.00, peerGrade +0.96, trend +0.53, optionsIV +0.50, momentum +0.50",
@@ -22687,14 +22687,14 @@
           "optionsMarket": -0.571,
           "researchGrade": 0.284
         },
-        "confidence": 0.645,
+        "confidence": 0.677,
         "conviction": 0.419,
         "entryPrice": 481.119995,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 441.065,
+          "price": 439.26,
           "reason": "minimum hold (10/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-02-02",
@@ -22703,8 +22703,8 @@
           },
           "daysHeld": 10,
           "decision": "hold",
-          "scoreNow": 0.11318961168018025,
-          "returnPct": -8.33,
+          "scoreNow": 0.15322038945633482,
+          "returnPct": -8.7,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -22740,10 +22740,10 @@
         "entryQuoteAt": "2026-11-05T15:00:58+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.9,
+        "longTermLean": 0.846,
         "allocationPct": 3.73,
         "horizonReason": "conf 0.80 on slow signals (lean 0.57)",
-        "lastMarketCap": 238577115028,
+        "lastMarketCap": 237600769835,
         "plannedExitBy": "2027-07-15",
         "regimeContext": {
           "fed": {
@@ -22826,7 +22826,7 @@
             "skewPctile1y": 83
           }
         },
-        "lastPriceLocal": 441.065,
+        "lastPriceLocal": 439.26,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 481.119995,
         "signalsThatHelped": [
@@ -23158,7 +23158,7 @@
       },
       {
         "id": "AZN-2026-11-05-runner-1793891255",
-        "pnl": -342.29,
+        "pnl": -373.72,
         "won": false,
         "fees": 2.16,
         "mode": "explore",
@@ -23349,7 +23349,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 176.345,
+            "price": 174.95,
             "reason": "minimum hold (10/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-02-09",
@@ -23358,8 +23358,8 @@
             },
             "daysHeld": 10,
             "decision": "hold",
-            "scoreNow": 0.15411536847560017,
-            "returnPct": -7.93,
+            "scoreNow": 0.19289333101373082,
+            "returnPct": -8.66,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -23380,7 +23380,7 @@
         "leverage": 1,
         "notional": 4316.03,
         "placedBy": "runner",
-        "scoreNow": 0.154,
+        "scoreNow": 0.193,
         "trimTier": 0,
         "cashAfter": 26747.2,
         "direction": "long",
@@ -23394,7 +23394,7 @@
           "employees": 96100,
           "fromPeakPct": 0
         },
-        "lastPrice": 176.345,
+        "lastPrice": 174.95,
         "peakPrice": 192.2,
         "rationale": [
           "CORE · conf 0.78 · score 0.40. Triggers: crossAsset +1.00, peerGrade +0.94, trend +0.58, momentum +0.48, health +0.33",
@@ -23415,14 +23415,14 @@
           "optionsMarket": -0.571,
           "researchGrade": 0.265
         },
-        "confidence": 0.668,
+        "confidence": 0.7,
         "conviction": 0.401,
         "entryPrice": 191.535,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 176.345,
+          "price": 174.95,
           "reason": "minimum hold (10/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-02-09",
@@ -23431,8 +23431,8 @@
           },
           "daysHeld": 10,
           "decision": "hold",
-          "scoreNow": 0.15411536847560017,
-          "returnPct": -7.93,
+          "scoreNow": 0.19289333101373082,
+          "returnPct": -8.66,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -23468,10 +23468,10 @@
         "entryQuoteAt": "2026-11-05T14:50:29+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.805,
+        "longTermLean": 0.77,
         "allocationPct": 3.68,
         "horizonReason": "conf 0.78 on slow signals (lean 0.62)",
-        "lastMarketCap": 273496579602,
+        "lastMarketCap": 271333049426,
         "plannedExitBy": "2027-07-15",
         "regimeContext": {
           "fed": {
@@ -23554,7 +23554,7 @@
             "skewPctile1y": 83
           }
         },
-        "lastPriceLocal": 176.345,
+        "lastPriceLocal": 174.95,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 191.535,
         "signalsThatHelped": [
@@ -23570,7 +23570,7 @@
       },
       {
         "id": "IDXX-2026-11-05-runner-1793891255",
-        "pnl": -16.01,
+        "pnl": -33.25,
         "won": false,
         "fees": 2.03,
         "mode": "explore",
@@ -23761,8 +23761,8 @@
           },
           {
             "at": "2026-11-19",
-            "price": 690.47,
-            "reason": "thesis intact (aligned +0.28 in its direction)",
+            "price": 687.53,
+            "reason": "thesis intact (aligned +0.31 in its direction)",
             "catalyst": {
               "date": "2027-02-01",
               "days": 74,
@@ -23770,8 +23770,8 @@
             },
             "daysHeld": 10,
             "decision": "hold",
-            "scoreNow": 0.2775592417772738,
-            "returnPct": -0.39,
+            "scoreNow": 0.31405400883135687,
+            "returnPct": -0.82,
             "markSource": null,
             "horizonClass": "medium"
           }
@@ -23792,7 +23792,7 @@
         "leverage": 1,
         "notional": 4065.62,
         "placedBy": "runner",
-        "scoreNow": 0.278,
+        "scoreNow": 0.314,
         "trimTier": 0,
         "cashAfter": 22681.58,
         "direction": "long",
@@ -23806,7 +23806,7 @@
           "employees": 11000,
           "fromPeakPct": 0
         },
-        "lastPrice": 690.47,
+        "lastPrice": 687.53,
         "peakPrice": 710.865,
         "rationale": [
           "SWING · conf 0.69 · score 0.33. Triggers: trend +1.00, crossAsset +1.00, peerGrade +0.51, momentum +0.50",
@@ -23828,15 +23828,15 @@
           "optionsMarket": -0.571,
           "researchGrade": 0.017
         },
-        "confidence": 0.74,
+        "confidence": 0.771,
         "conviction": 0.335,
         "entryPrice": 693.200012,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 690.47,
-          "reason": "thesis intact (aligned +0.28 in its direction)",
+          "price": 687.53,
+          "reason": "thesis intact (aligned +0.31 in its direction)",
           "catalyst": {
             "date": "2027-02-01",
             "days": 74,
@@ -23844,8 +23844,8 @@
           },
           "daysHeld": 10,
           "decision": "hold",
-          "scoreNow": 0.2775592417772738,
-          "returnPct": -0.39,
+          "scoreNow": 0.31405400883135687,
+          "returnPct": -0.82,
           "markSource": null,
           "horizonClass": "medium"
         },
@@ -23877,10 +23877,10 @@
         "entryQuoteAt": "2026-11-05T15:00:58+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.381,
+        "longTermLean": 0.371,
         "allocationPct": 3.47,
         "horizonReason": "mixed signals (lean 0.43)",
-        "lastMarketCap": 54399549552,
+        "lastMarketCap": 54167917948,
         "plannedExitBy": "2026-12-31",
         "regimeContext": {
           "fed": {
@@ -23963,7 +23963,7 @@
             "skewPctile1y": 83
           }
         },
-        "lastPriceLocal": 690.47,
+        "lastPriceLocal": 687.53,
         "primaryTrigger": "trend",
         "entryPriceLocal": 693.200012,
         "signalsThatHelped": [
@@ -24839,17 +24839,41 @@
           },
           "dragPerSession": 0.001187
         },
-        "pnl": 158.44,
-        "won": false,
+        "pnl": 144.05,
+        "won": true,
         "fees": 1.98,
         "mode": "explore",
         "name": "Direxion Daily S&P 500 Bear 3X Shares",
         "hedge": false,
         "style": "core",
         "trims": [],
+        "exitAt": "2026-11-19T16:05:01+00:00",
+        "lesson": {
+          "pl": 144.05,
+          "notes": [
+            "fund: no company signals (fundamentals, health)",
+            "-3x equity ETP: market signals in its direction"
+          ],
+          "nudges": {
+            "trend": 0.0261,
+            "pattern": 0.0398,
+            "momentum": 0.0223,
+            "crossAsset": 0.05,
+            "optionsMarket": 0.0222
+          },
+          "weight": 1,
+          "signals": {
+            "trend": 0.521,
+            "pattern": 0.795,
+            "momentum": 0.445,
+            "crossAsset": 1,
+            "optionsMarket": 0.444
+          },
+          "verdict": "win"
+        },
         "sector": "Unknown",
         "shares": 146.0301,
-        "status": "open",
+        "status": "closed",
         "ticker": "SPXS",
         "dollars": 3961.8,
         "entryAt": "2026-11-06T15:05:00+00:00",
@@ -24992,32 +25016,43 @@
             "returnPct": 4,
             "markSource": null,
             "horizonClass": "short"
+          },
+          {
+            "at": "2026-11-19",
+            "price": 28.13,
+            "reason": "signal-faded at $28.13",
+            "daysHeld": 9,
+            "decision": "close",
+            "scoreNow": 0.09796889540550859,
+            "returnPct": 3.69,
+            "markSource": null,
+            "horizonClass": "short"
           }
         ],
         "steered": false,
         "catalyst": null,
         "currency": "USD",
-        "exitDate": null,
+        "exitDate": "2026-11-19",
         "leverage": 1,
         "notional": 3961.8,
         "placedBy": "runner",
-        "scoreNow": 0.128,
+        "scoreNow": 0.098,
         "trimTier": 0,
         "cashAfter": 25702.01,
         "direction": "long",
         "entryDate": "2026-11-06",
-        "exitPrice": null,
+        "exitPrice": 28.13,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 28.215,
+        "lastPrice": 28.13,
         "peakPrice": 28.25,
         "rationale": [
           "CORE · conf 0.67 · score 0.28. Triggers: pattern +0.80, trend +0.52, fundamentals +0.45, health +0.45, momentum +0.45",
           "LONG horizon (~180 sessions, min hold 15): conf 0.67 on slow signals (lean 0.57)"
         ],
-        "returnPct": 0,
+        "returnPct": 3.64,
         "stopPrice": 25.2309,
-        "updatedAt": "2026-11-06T15:09:24+00:00",
+        "updatedAt": "2026-11-19T16:05:21+00:00",
         "components": {
           "trend": 0.521,
           "health": 0.45,
@@ -25028,24 +25063,24 @@
           "meanReversion": 0,
           "optionsMarket": -0.444
         },
-        "confidence": 0.55,
+        "confidence": 0.532,
         "conviction": 0.28,
         "entryPrice": 27.13,
-        "exitReason": "open",
+        "exitReason": "signal-faded",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 28.215,
-          "reason": "daily-reset -3x, drag ~0.12 %/session: held while its signal is >= 0.10 in its direction (now +0.13)",
+          "price": 28.13,
+          "reason": "signal-faded at $28.13",
           "daysHeld": 9,
-          "decision": "hold",
-          "scoreNow": 0.12848026107253419,
-          "returnPct": 4,
+          "decision": "close",
+          "scoreNow": 0.09796889540550859,
+          "returnPct": 3.69,
           "markSource": null,
           "horizonClass": "short"
         },
         "priceBasis": "USD",
-        "realizedPL": 0,
+        "realizedPL": 144.05,
         "topDrivers": [
           {
             "value": 0.795,
@@ -25069,14 +25104,17 @@
           }
         ],
         "entryReason": "blend",
+        "exitQuoteAt": "2026-11-19T16:03:08+00:00",
         "horizonDays": 10,
         "horizonType": "swing",
         "minHoldDays": 2,
         "targetPrice": 30.3856,
+        "creditAtExit": null,
         "entryQuoteAt": "2026-11-06T15:03:25+00:00",
         "entrySession": "regular",
         "horizonClass": "short",
-        "longTermLean": 0.098,
+        "longTermLean": 0.088,
+        "sharesAtExit": 146.0301,
         "allocationPct": 3.41,
         "horizonReason": "daily-reset -3x product (re-planned z192): short horizon, held only while its signal is >= 0.10 in its direction",
         "lastMarketCap": null,
@@ -25162,7 +25200,7 @@
             "skewPctile1y": 76
           }
         },
-        "lastPriceLocal": 28.215,
+        "lastPriceLocal": 28.13,
         "primaryTrigger": "pattern",
         "entryPriceLocal": 27.13,
         "signalsThatHelped": [
@@ -25178,7 +25216,7 @@
       },
       {
         "id": "PG-2026-11-06-runner-1793977764",
-        "pnl": 69.66,
+        "pnl": 76.44,
         "won": false,
         "fees": 2,
         "mode": "explore",
@@ -25368,7 +25406,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 168.35,
+            "price": 168.63,
             "reason": "minimum hold (9/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-01-21",
@@ -25377,8 +25415,8 @@
             },
             "daysHeld": 9,
             "decision": "hold",
-            "scoreNow": 0.1496639086358774,
-            "returnPct": 1.74,
+            "scoreNow": 0.19250853112070007,
+            "returnPct": 1.91,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -25399,7 +25437,7 @@
         "leverage": 1,
         "notional": 4009.23,
         "placedBy": "runner",
-        "scoreNow": 0.15,
+        "scoreNow": 0.193,
         "trimTier": 0,
         "cashAfter": 21692.78,
         "direction": "long",
@@ -25413,7 +25451,7 @@
           "employees": 104000,
           "fromPeakPct": -4.59
         },
-        "lastPrice": 168.35,
+        "lastPrice": 168.63,
         "peakPrice": 173.25,
         "rationale": [
           "CORE · conf 0.69 · score 0.23. Triggers: pattern +0.82, peerGrade +0.73, trend +0.45, momentum +0.41",
@@ -25435,14 +25473,14 @@
           "optionsMarket": -0.444,
           "researchGrade": 0.283
         },
-        "confidence": 0.587,
+        "confidence": 0.612,
         "conviction": 0.235,
         "entryPrice": 165.475006,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 168.35,
+          "price": 168.63,
           "reason": "minimum hold (9/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-01-21",
@@ -25451,8 +25489,8 @@
           },
           "daysHeld": 9,
           "decision": "hold",
-          "scoreNow": 0.1496639086358774,
-          "returnPct": 1.74,
+          "scoreNow": 0.19250853112070007,
+          "returnPct": 1.91,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -25484,10 +25522,10 @@
         "entryQuoteAt": "2026-11-06T15:00:54+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.43,
+        "longTermLean": 0.434,
         "allocationPct": 3.45,
         "horizonReason": "conf 0.69 on slow signals (lean 0.65)",
-        "lastMarketCap": 390198768212,
+        "lastMarketCap": 390847747452,
         "plannedExitBy": "2027-07-16",
         "regimeContext": {
           "fed": {
@@ -25570,7 +25608,7 @@
             "skewPctile1y": 76
           }
         },
-        "lastPriceLocal": 168.35,
+        "lastPriceLocal": 168.63,
         "primaryTrigger": "pattern",
         "entryPriceLocal": 165.475006,
         "signalsThatHelped": [
@@ -25585,7 +25623,7 @@
       },
       {
         "id": "CBOE-2026-11-06-runner-1793977764",
-        "pnl": 21.03,
+        "pnl": 56.68,
         "won": false,
         "fees": 1.97,
         "mode": "explore",
@@ -25775,8 +25813,8 @@
           },
           {
             "at": "2026-11-19",
-            "price": 355.445,
-            "reason": "signal faded to +0.20 - exits at the stop / target or the 10-session horizon",
+            "price": 358.64,
+            "reason": "signal faded to +0.23 - exits at the stop / target or the 10-session horizon",
             "catalyst": {
               "date": "2027-02-05",
               "days": 78,
@@ -25784,8 +25822,8 @@
             },
             "daysHeld": 9,
             "decision": "hold",
-            "scoreNow": 0.19601079057183635,
-            "returnPct": 0.53,
+            "scoreNow": 0.2275692919440404,
+            "returnPct": 1.44,
             "markSource": null,
             "horizonClass": "short"
           }
@@ -25806,7 +25844,7 @@
         "leverage": 1,
         "notional": 3945.06,
         "placedBy": "runner",
-        "scoreNow": 0.196,
+        "scoreNow": 0.228,
         "trimTier": 0,
         "cashAfter": 17747.72,
         "direction": "long",
@@ -25820,7 +25858,7 @@
           "employees": 1661,
           "fromPeakPct": 0
         },
-        "lastPrice": 355.445,
+        "lastPrice": 358.64,
         "peakPrice": 377.87,
         "rationale": [
           "SWING · conf 0.66 · score 0.21. Triggers: trend +0.74, momentum +0.60, health +0.41, fundamentals +0.39, pattern +0.36",
@@ -25843,15 +25881,15 @@
           "optionsMarket": -0.444,
           "researchGrade": 0.131
         },
-        "confidence": 0.664,
+        "confidence": 0.646,
         "conviction": 0.215,
         "entryPrice": 353.56,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 355.445,
-          "reason": "signal faded to +0.20 - exits at the stop / target or the 10-session horizon",
+          "price": 358.64,
+          "reason": "signal faded to +0.23 - exits at the stop / target or the 10-session horizon",
           "catalyst": {
             "date": "2027-02-05",
             "days": 78,
@@ -25859,8 +25897,8 @@
           },
           "daysHeld": 9,
           "decision": "hold",
-          "scoreNow": 0.19601079057183635,
-          "returnPct": 0.53,
+          "scoreNow": 0.2275692919440404,
+          "returnPct": 1.44,
           "markSource": null,
           "horizonClass": "short"
         },
@@ -25896,10 +25934,10 @@
         "entryQuoteAt": "2026-11-06T14:50:39+00:00",
         "entrySession": "regular",
         "horizonClass": "short",
-        "longTermLean": 0.591,
+        "longTermLean": 0.528,
         "allocationPct": 3.39,
         "horizonReason": "mixed signals (lean 0.53); steered medium→short (book 54% medium vs 40% target)",
-        "lastMarketCap": 37083660203,
+        "lastMarketCap": 37416995302,
         "plannedExitBy": "2026-11-20",
         "regimeContext": {
           "fed": {
@@ -25982,7 +26020,7 @@
             "skewPctile1y": 76
           }
         },
-        "lastPriceLocal": 355.445,
+        "lastPriceLocal": 358.64,
         "primaryTrigger": "trend",
         "entryPriceLocal": 353.56,
         "signalsThatHelped": [
@@ -25998,7 +26036,7 @@
       },
       {
         "id": "EOG-2026-11-09-runner-1794236974-opt",
-        "pnl": 94.8,
+        "pnl": -205.2,
         "won": false,
         "fees": 5.2,
         "mode": "explore",
@@ -26167,7 +26205,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 149.32,
+            "price": 149.65,
             "reason": "debit spread: take 60 % of the maximum gain, stop at half the debit",
             "catalyst": {
               "date": "2027-02-23",
@@ -26176,10 +26214,10 @@
             },
             "daysHeld": 8,
             "decision": "hold",
-            "scoreNow": 0.11101202792563138,
-            "returnPct": 4.23,
+            "scoreNow": 0.09567774385859389,
+            "returnPct": -9.16,
             "markSource": "chain",
-            "optionMark": 5.85,
+            "optionMark": 5.1,
             "horizonClass": "medium"
           }
         ],
@@ -26209,7 +26247,7 @@
         "notional": 2240,
         "optionIV": 0.3491,
         "placedBy": "runner",
-        "scoreNow": 0.111,
+        "scoreNow": 0.096,
         "trimTier": 0,
         "breakeven": 150.6,
         "cashAfter": 24312.48,
@@ -26224,7 +26262,7 @@
           "employees": 3400,
           "fromPeakPct": 0
         },
-        "lastPrice": 149.32,
+        "lastPrice": 149.65,
         "optionNet": 5.6,
         "peakPrice": 158.11,
         "rationale": [
@@ -26232,7 +26270,7 @@
           "BULL CALL DEBIT CALLS 145/155 exp 2027-01-15 (67d) ×4 · debit $5.60/sh · max loss $2,240 · max gain $1,760 · breakeven $150.60 · IV middle: IV 34% vs 20-day realised 36% (x0.96; IV rank needs 20 days of history)",
           "MEDIUM horizon (~40 sessions, min hold 5): conf 0.83 on slow signals (lean 0.95); steered long→medium (book 59% long vs 25% target)"
         ],
-        "returnPct": 4.23,
+        "returnPct": -9.16,
         "stopPrice": null,
         "updatedAt": "2026-11-09T15:09:35+00:00",
         "components": {
@@ -26246,14 +26284,14 @@
           "meanReversion": 0,
           "researchGrade": 0.542
         },
-        "confidence": 0.631,
+        "confidence": 0.563,
         "conviction": 0.313,
         "entryPrice": 146.99,
         "exitReason": "open",
         "instrument": "option",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 149.32,
+          "price": 149.65,
           "reason": "debit spread: take 60 % of the maximum gain, stop at half the debit",
           "catalyst": {
             "date": "2027-02-23",
@@ -26262,10 +26300,10 @@
           },
           "daysHeld": 8,
           "decision": "hold",
-          "scoreNow": 0.11101202792563138,
-          "returnPct": 4.23,
+          "scoreNow": 0.09567774385859389,
+          "returnPct": -9.16,
           "markSource": "chain",
-          "optionMark": 5.85,
+          "optionMark": 5.1,
           "horizonClass": "medium"
         },
         "multiplier": 100,
@@ -26289,7 +26327,7 @@
             "strike": 155
           }
         ],
-        "optionMark": 5.85,
+        "optionMark": 5.1,
         "optionType": "call",
         "priceBasis": "USD",
         "realizedPL": 0,
@@ -26321,14 +26359,14 @@
         "entryQuoteAt": "2026-11-09T15:00:22+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.984,
+        "longTermLean": 0.959,
         "optionCredit": false,
         "optionExpiry": "2027-01-15",
         "optionMarkAt": "2026-11-19",
         "optionStrike": 145,
         "allocationPct": 1.97,
         "horizonReason": "conf 0.83 on slow signals (lean 0.95); steered long→medium (book 59% long vs 25% target)",
-        "lastMarketCap": 77420063720,
+        "lastMarketCap": 77591163511,
         "optionPremium": 5.6,
         "plannedExitBy": "2027-01-04",
         "regimeContext": {
@@ -26415,7 +26453,7 @@
           },
           "quadOfficial": null
         },
-        "lastPriceLocal": 149.32,
+        "lastPriceLocal": 149.65,
         "primaryTrigger": "peerGrade",
         "entryPriceLocal": 146.99,
         "maxGainPerShare": 4.4,
@@ -26436,7 +26474,7 @@
       },
       {
         "id": "SHEL-2026-11-09-runner-1794236975-opt",
-        "pnl": -367.8,
+        "pnl": -472.8,
         "won": false,
         "fees": 7.8,
         "mode": "explore",
@@ -26605,7 +26643,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 94.23,
+            "price": 94.215,
             "reason": "credit spread: keep 50 % of the credit, stop at 2x it, close a week out",
             "catalyst": {
               "date": "2027-02-04",
@@ -26614,10 +26652,10 @@
             },
             "daysHeld": 8,
             "decision": "hold",
-            "scoreNow": 0.11371892417838496,
-            "returnPct": -16.35,
+            "scoreNow": 0.09840137098448933,
+            "returnPct": -21.01,
             "markSource": "chain",
-            "optionMark": -1.85,
+            "optionMark": -2.025,
             "horizonClass": "medium"
           }
         ],
@@ -26647,7 +26685,7 @@
         "notional": 2250,
         "optionIV": 0.2658,
         "placedBy": "runner",
-        "scoreNow": 0.114,
+        "scoreNow": 0.098,
         "trimTier": 0,
         "breakeven": 93.75,
         "cashAfter": 22062.48,
@@ -26662,7 +26700,7 @@
           "employees": 84000,
           "fromPeakPct": -8.7
         },
-        "lastPrice": 94.23,
+        "lastPrice": 94.215,
         "optionNet": -1.25,
         "peakPrice": 99.67,
         "rationale": [
@@ -26670,7 +26708,7 @@
           "BULL PUT CREDIT PUTS 90/95 exp 2027-01-15 (67d) ×6 · credit $1.25/sh ($750 received) · max loss $2,250 · max gain $750 · breakeven $93.75 · IV upper: IV 37% vs 20-day realised 27% (x1.38; IV rank needs 20 days of history)",
           "MEDIUM horizon (~40 sessions, min hold 5): conf 0.75 on slow signals (lean 0.73); steered long→medium (book 57% long vs 25% target) · earnings 2027-02-04 (87d, beat rate 0.75)"
         ],
-        "returnPct": -16.35,
+        "returnPct": -21.01,
         "stopPrice": null,
         "updatedAt": "2026-11-09T15:09:35+00:00",
         "components": {
@@ -26685,14 +26723,14 @@
           "meanReversion": 0,
           "researchGrade": 0.527
         },
-        "confidence": 0.591,
+        "confidence": 0.541,
         "conviction": 0.283,
         "entryPrice": 99.09,
         "exitReason": "open",
         "instrument": "option",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 94.23,
+          "price": 94.215,
           "reason": "credit spread: keep 50 % of the credit, stop at 2x it, close a week out",
           "catalyst": {
             "date": "2027-02-04",
@@ -26701,10 +26739,10 @@
           },
           "daysHeld": 8,
           "decision": "hold",
-          "scoreNow": 0.11371892417838496,
-          "returnPct": -16.35,
+          "scoreNow": 0.09840137098448933,
+          "returnPct": -21.01,
           "markSource": "chain",
-          "optionMark": -1.85,
+          "optionMark": -2.025,
           "horizonClass": "medium"
         },
         "multiplier": 100,
@@ -26728,7 +26766,7 @@
             "strike": 95
           }
         ],
-        "optionMark": -1.85,
+        "optionMark": -2.025,
         "optionType": "put",
         "priceBasis": "USD",
         "realizedPL": 0,
@@ -26760,14 +26798,14 @@
         "entryQuoteAt": "2026-11-09T14:50:15+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.883,
+        "longTermLean": 0.861,
         "optionCredit": true,
         "optionExpiry": "2027-01-15",
         "optionMarkAt": "2026-11-19",
         "optionStrike": 95,
         "allocationPct": 1.98,
         "horizonReason": "conf 0.75 on slow signals (lean 0.73); steered long→medium (book 57% long vs 25% target)",
-        "lastMarketCap": 266166857353,
+        "lastMarketCap": 266124487588,
         "optionPremium": 1.25,
         "plannedExitBy": "2027-01-04",
         "regimeContext": {
@@ -26854,7 +26892,7 @@
           },
           "quadOfficial": null
         },
-        "lastPriceLocal": 94.23,
+        "lastPriceLocal": 94.215,
         "primaryTrigger": "peerGrade",
         "entryPriceLocal": 99.09,
         "maxGainPerShare": 1.25,
@@ -26875,7 +26913,7 @@
       },
       {
         "id": "IPAR-2026-11-09-runner-1794236975",
-        "pnl": -104.91,
+        "pnl": -97.95,
         "won": false,
         "fees": 1.93,
         "mode": "explore",
@@ -27058,8 +27096,8 @@
           },
           {
             "at": "2026-11-19",
-            "price": 132.18,
-            "reason": "signal faded to +0.19 - exits at the stop / target or the 40-session horizon",
+            "price": 132.425,
+            "reason": "signal faded to +0.24 - exits at the stop / target or the 40-session horizon",
             "catalyst": {
               "date": "2027-02-23",
               "days": 96,
@@ -27067,8 +27105,8 @@
             },
             "daysHeld": 8,
             "decision": "hold",
-            "scoreNow": 0.1916670617509957,
-            "returnPct": -2.72,
+            "scoreNow": 0.2361761145957052,
+            "returnPct": -2.54,
             "markSource": null,
             "horizonClass": "medium"
           }
@@ -27089,7 +27127,7 @@
         "leverage": 1,
         "notional": 3863.02,
         "placedBy": "runner",
-        "scoreNow": 0.192,
+        "scoreNow": 0.236,
         "trimTier": 0,
         "cashAfter": 18199.46,
         "direction": "long",
@@ -27103,7 +27141,7 @@
           "employees": 662,
           "fromPeakPct": 0
         },
-        "lastPrice": 132.18,
+        "lastPrice": 132.425,
         "peakPrice": 137.655,
         "rationale": [
           "SWING · conf 0.67 · score 0.24. Triggers: pattern +1.00, trend +0.70, momentum +0.38",
@@ -27124,15 +27162,15 @@
           "meanReversion": -0.183,
           "researchGrade": -0.007
         },
-        "confidence": 0.612,
+        "confidence": 0.651,
         "conviction": 0.244,
         "entryPrice": 135.87,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 132.18,
-          "reason": "signal faded to +0.19 - exits at the stop / target or the 40-session horizon",
+          "price": 132.425,
+          "reason": "signal faded to +0.24 - exits at the stop / target or the 40-session horizon",
           "catalyst": {
             "date": "2027-02-23",
             "days": 96,
@@ -27140,8 +27178,8 @@
           },
           "daysHeld": 8,
           "decision": "hold",
-          "scoreNow": 0.1916670617509957,
-          "returnPct": -2.72,
+          "scoreNow": 0.2361761145957052,
+          "returnPct": -2.54,
           "markSource": null,
           "horizonClass": "medium"
         },
@@ -27169,10 +27207,10 @@
         "entryQuoteAt": "2026-11-09T14:50:15+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.448,
+        "longTermLean": 0.461,
         "allocationPct": 3.4,
         "horizonReason": "mixed signals (lean 0.44)",
-        "lastMarketCap": 4233405408,
+        "lastMarketCap": 4241252165,
         "plannedExitBy": "2027-01-04",
         "regimeContext": {
           "fed": {
@@ -27258,7 +27296,7 @@
           },
           "quadOfficial": null
         },
-        "lastPriceLocal": 132.18,
+        "lastPriceLocal": 132.425,
         "primaryTrigger": "pattern",
         "entryPriceLocal": 135.87,
         "signalsThatHelped": [
@@ -27676,7 +27714,7 @@
       },
       {
         "id": "BRK-B-2026-11-10-runner-1794323488",
-        "pnl": -36.28,
+        "pnl": -28.84,
         "won": false,
         "fees": 1.13,
         "mode": "explore",
@@ -27819,8 +27857,8 @@
           },
           {
             "at": "2026-11-19",
-            "price": 569.58,
-            "reason": "signal faded to +0.13 - exits at the stop / target or the 40-session horizon",
+            "price": 571.49,
+            "reason": "signal faded to +0.16 - exits at the stop / target or the 40-session horizon",
             "catalyst": {
               "date": "2027-03-01",
               "days": 102,
@@ -27828,8 +27866,8 @@
             },
             "daysHeld": 7,
             "decision": "hold",
-            "scoreNow": 0.13201716918026268,
-            "returnPct": -1.61,
+            "scoreNow": 0.16348018762769334,
+            "returnPct": -1.28,
             "markSource": null,
             "horizonClass": "medium"
           }
@@ -27850,7 +27888,7 @@
         "leverage": 1,
         "notional": 2253.25,
         "placedBy": "runner",
-        "scoreNow": 0.132,
+        "scoreNow": 0.163,
         "trimTier": 0,
         "cashAfter": 16599.87,
         "direction": "long",
@@ -27864,7 +27902,7 @@
           "employees": 387800,
           "fromPeakPct": -2.19
         },
-        "lastPrice": 569.58,
+        "lastPrice": 571.49,
         "peakPrice": 596.61,
         "rationale": [
           "SWING · conf 0.89 · score 0.42. Triggers: crossAsset +1.00, peerGrade +0.65, researchGrade +0.57, trend +0.43, health +0.41, fundamentals +0.40",
@@ -27885,15 +27923,15 @@
           "meanReversion": -0.046,
           "researchGrade": 0.567
         },
-        "confidence": 0.671,
+        "confidence": 0.645,
         "conviction": 0.418,
         "entryPrice": 578.9,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 569.58,
-          "reason": "signal faded to +0.13 - exits at the stop / target or the 40-session horizon",
+          "price": 571.49,
+          "reason": "signal faded to +0.16 - exits at the stop / target or the 40-session horizon",
           "catalyst": {
             "date": "2027-03-01",
             "days": 102,
@@ -27901,8 +27939,8 @@
           },
           "daysHeld": 7,
           "decision": "hold",
-          "scoreNow": 0.13201716918026268,
-          "returnPct": -1.61,
+          "scoreNow": 0.16348018762769334,
+          "returnPct": -1.28,
           "markSource": null,
           "horizonClass": "medium"
         },
@@ -27942,10 +27980,10 @@
         "entryQuoteAt": "2026-11-10T14:50:18+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.665,
+        "longTermLean": 0.6,
         "allocationPct": 2.04,
         "horizonReason": "conf 0.89 on slow signals (lean 0.79); steered long→medium (book 52% long vs 25% target)",
-        "lastMarketCap": 1210083661995,
+        "lastMarketCap": 1214141493722,
         "plannedExitBy": "2027-01-05",
         "regimeContext": {
           "fed": {
@@ -28029,7 +28067,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 569.58,
+        "lastPriceLocal": 571.49,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 578.9,
         "signalsThatHelped": [
@@ -28046,7 +28084,7 @@
       },
       {
         "id": "A-2026-11-11-runner-1794409756-opt",
-        "pnl": -25.65,
+        "pnl": -280.65,
         "won": false,
         "fees": 0.65,
         "mode": "explore",
@@ -28180,7 +28218,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 179.44,
+            "price": 174.945,
             "reason": "inside the plan: stop at −50%, take profit at +100%, roll off at 5 DTE",
             "catalyst": {
               "date": "2026-11-23",
@@ -28189,10 +28227,10 @@
             },
             "daysHeld": 6,
             "decision": "hold",
-            "scoreNow": 0.168250847470452,
-            "returnPct": -1.17,
-            "markSource": "chain 2026-11-19T15:20",
-            "optionMark": 21.15,
+            "scoreNow": 0.22786535308471878,
+            "returnPct": -13.08,
+            "markSource": "chain 2026-11-19T20:20",
+            "optionMark": 18.6,
             "horizonClass": "short"
           }
         ],
@@ -28222,7 +28260,7 @@
         "notional": 2140,
         "optionIV": 0.5087,
         "placedBy": "runner",
-        "scoreNow": 0.168,
+        "scoreNow": 0.228,
         "trimTier": 0,
         "cashAfter": 14466.74,
         "direction": "long",
@@ -28236,14 +28274,14 @@
           "employees": 18100,
           "fromPeakPct": 0
         },
-        "lastPrice": 179.44,
+        "lastPrice": 174.945,
         "peakPrice": 179.44,
         "rationale": [
           "SWING · conf 0.77 · score 0.30. Triggers: crossAsset +0.74, momentum +0.54, peerGrade +0.41, catalyst +0.41, health +0.34",
           "OPTION CALL 160.0 exp 2026-12-18 (37d) ×1 @ $21.40 ask · Δ 0.7578 · premium $2,140 = the most it can lose · catalyst inside the horizon · IV upper: IV 43% vs 20-day realised 32% (x1.36; IV rank needs 20 days of history)",
           "SHORT horizon (~10 sessions, min hold 2): earnings in 12d - a catalyst trade · earnings 2026-11-23 (12d, beat rate 0.75)"
         ],
-        "returnPct": -1.17,
+        "returnPct": -13.08,
         "stopPrice": null,
         "updatedAt": "2026-11-11T15:09:16+00:00",
         "components": {
@@ -28259,14 +28297,14 @@
           "optionsMarket": 0.072,
           "researchGrade": 0.003
         },
-        "confidence": 0.623,
+        "confidence": 0.72,
         "conviction": 0.304,
         "entryPrice": 179.27,
         "exitReason": "open",
         "instrument": "option",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 179.44,
+          "price": 174.945,
           "reason": "inside the plan: stop at −50%, take profit at +100%, roll off at 5 DTE",
           "catalyst": {
             "date": "2026-11-23",
@@ -28275,14 +28313,14 @@
           },
           "daysHeld": 6,
           "decision": "hold",
-          "scoreNow": 0.168250847470452,
-          "returnPct": -1.17,
-          "markSource": "chain 2026-11-19T15:20",
-          "optionMark": 21.15,
+          "scoreNow": 0.22786535308471878,
+          "returnPct": -13.08,
+          "markSource": "chain 2026-11-19T20:20",
+          "optionMark": 18.6,
           "horizonClass": "short"
         },
         "multiplier": 100,
-        "optionMark": 21.15,
+        "optionMark": 18.6,
         "optionType": "call",
         "priceBasis": "USD",
         "realizedPL": 0,
@@ -28317,13 +28355,13 @@
         "entryQuoteAt": "2026-11-11T15:00:25+00:00",
         "entrySession": "regular",
         "horizonClass": "short",
-        "longTermLean": 0.597,
+        "longTermLean": 0.613,
         "optionExpiry": "2026-12-18",
         "optionMarkAt": "2026-11-19",
         "optionStrike": 160,
         "allocationPct": 1.93,
         "horizonReason": "earnings in 12d - a catalyst trade",
-        "lastMarketCap": 50589313677,
+        "lastMarketCap": 49322043477,
         "optionPremium": 21.4,
         "plannedExitBy": "2026-11-25",
         "regimeContext": {
@@ -28408,13 +28446,13 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 179.44,
+        "lastPriceLocal": 174.945,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 179.27,
         "optionChainAsOf": "2026-11-09T15:05:33.772843Z",
         "optionContracts": 1,
         "optionStructure": "long_call",
-        "optionMarkSource": "chain 2026-11-19T15:20",
+        "optionMarkSource": "chain 2026-11-19T20:20",
         "signalsThatHelped": [
           "crossAsset",
           "momentum",
@@ -28428,7 +28466,7 @@
       },
       {
         "id": "KO-2026-11-11-runner-1794409756-opt",
-        "pnl": -95.65,
+        "pnl": -25.65,
         "won": false,
         "fees": 0.65,
         "mode": "explore",
@@ -28562,7 +28600,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 95.92,
+            "price": 96.34,
             "reason": "minimum hold (6/15 sessions) - only expiry can close it",
             "catalyst": {
               "date": "2027-02-09",
@@ -28571,10 +28609,10 @@
             },
             "daysHeld": 6,
             "decision": "hold",
-            "scoreNow": 0.11803989022464718,
-            "returnPct": -10.61,
-            "markSource": "chain 2026-11-19T15:21",
-            "optionMark": 8,
+            "scoreNow": 0.15895251547316455,
+            "returnPct": -2.79,
+            "markSource": "chain 2026-11-19T20:21",
+            "optionMark": 8.7,
             "horizonClass": "long"
           }
         ],
@@ -28604,7 +28642,7 @@
         "notional": 895,
         "optionIV": 0.2458,
         "placedBy": "runner",
-        "scoreNow": 0.118,
+        "scoreNow": 0.159,
         "trimTier": 0,
         "cashAfter": 13571.74,
         "direction": "long",
@@ -28618,14 +28656,14 @@
           "employees": 65900,
           "fromPeakPct": 0
         },
-        "lastPrice": 95.92,
+        "lastPrice": 96.34,
         "peakPrice": 100.43,
         "rationale": [
           "CORE · conf 0.77 · score 0.30. Triggers: crossAsset +0.74, peerGrade +0.58, momentum +0.34",
           "OPTION CALL 92.5 exp 2027-05-21 (191d) ×1 @ $8.95 ask · Δ 0.6733 · premium $895 = the most it can lose · catalyst inside the horizon · IV lower: IV percentile 0 of 22 days",
           "LONG horizon (~180 sessions, min hold 15): conf 0.77 on slow signals (lean 0.68) · exploratory size · earnings 2027-02-09 (90d, beat rate 1.0)"
         ],
-        "returnPct": -10.61,
+        "returnPct": -2.79,
         "stopPrice": null,
         "updatedAt": "2026-11-11T15:09:16+00:00",
         "components": {
@@ -28641,14 +28679,14 @@
           "optionsMarket": 0.072,
           "researchGrade": 0.235
         },
-        "confidence": 0.552,
+        "confidence": 0.593,
         "conviction": 0.295,
         "entryPrice": 96.4,
         "exitReason": "open",
         "instrument": "option",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 95.92,
+          "price": 96.34,
           "reason": "minimum hold (6/15 sessions) - only expiry can close it",
           "catalyst": {
             "date": "2027-02-09",
@@ -28657,14 +28695,14 @@
           },
           "daysHeld": 6,
           "decision": "hold",
-          "scoreNow": 0.11803989022464718,
-          "returnPct": -10.61,
-          "markSource": "chain 2026-11-19T15:21",
-          "optionMark": 8,
+          "scoreNow": 0.15895251547316455,
+          "returnPct": -2.79,
+          "markSource": "chain 2026-11-19T20:21",
+          "optionMark": 8.7,
           "horizonClass": "long"
         },
         "multiplier": 100,
-        "optionMark": 8,
+        "optionMark": 8.7,
         "optionType": "call",
         "priceBasis": "USD",
         "realizedPL": 0,
@@ -28691,13 +28729,13 @@
         "entryQuoteAt": "2026-11-11T15:00:25+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.563,
+        "longTermLean": 0.535,
         "optionExpiry": "2027-05-21",
         "optionMarkAt": "2026-11-19",
         "optionStrike": 92.5,
         "allocationPct": 0.81,
         "horizonReason": "conf 0.77 on slow signals (lean 0.68)",
-        "lastMarketCap": 412638478030,
+        "lastMarketCap": 414445277040,
         "optionPremium": 8.95,
         "plannedExitBy": "2027-07-21",
         "regimeContext": {
@@ -28782,13 +28820,13 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 95.92,
+        "lastPriceLocal": 96.34,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 96.4,
         "optionChainAsOf": "2026-11-11T14:52:31.448981Z",
         "optionContracts": 1,
         "optionStructure": "long_call",
-        "optionMarkSource": "chain 2026-11-19T15:21",
+        "optionMarkSource": "chain 2026-11-19T20:21",
         "signalsThatHelped": [
           "crossAsset",
           "peerGrade",
@@ -28800,7 +28838,7 @@
       },
       {
         "id": "GME-2026-11-11-runner-1794409756-opt",
-        "pnl": 427.35,
+        "pnl": 1274.35,
         "won": false,
         "fees": 7.15,
         "mode": "explore",
@@ -28934,7 +28972,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 26.38,
+            "price": 27.12,
             "reason": "inside the plan: stop at −50%, take profit at +150%, roll off at 14 DTE",
             "catalyst": {
               "date": "2026-12-07",
@@ -28943,10 +28981,10 @@
             },
             "daysHeld": 6,
             "decision": "hold",
-            "scoreNow": 0.2330957219497936,
-            "returnPct": 20.15,
-            "markSource": "chain 2026-11-19T15:21",
-            "optionMark": 2.355,
+            "scoreNow": 0.25678410249590733,
+            "returnPct": 59.44,
+            "markSource": "chain 2026-11-19T20:21",
+            "optionMark": 3.125,
             "horizonClass": "medium"
           }
         ],
@@ -28976,7 +29014,7 @@
         "notional": 2156,
         "optionIV": 0.4951,
         "placedBy": "runner",
-        "scoreNow": 0.233,
+        "scoreNow": 0.257,
         "trimTier": 0,
         "cashAfter": 11415.74,
         "direction": "long",
@@ -28990,14 +29028,14 @@
           "employees": 4000,
           "fromPeakPct": 0
         },
-        "lastPrice": 26.38,
-        "peakPrice": 26.615,
+        "lastPrice": 27.12,
+        "peakPrice": 27.3,
         "rationale": [
           "SWING · conf 0.75 · score 0.29. Triggers: momentum +0.81, crossAsset +0.74, trend +0.44, catalyst +0.38",
           "OPTION CALL 26.0 exp 2027-01-15 (65d) ×11 @ $1.96 ask · Δ 0.5243 · premium $2,156 = the most it can lose · catalyst inside the horizon · IV lower: IV percentile 0 of 20 days",
           "MEDIUM horizon (~40 sessions, min hold 5): mixed signals (lean 0.43) · earnings 2026-12-07 (26d, beat rate 0.875)"
         ],
-        "returnPct": 20.15,
+        "returnPct": 59.44,
         "stopPrice": null,
         "updatedAt": "2026-11-11T15:09:16+00:00",
         "components": {
@@ -29013,14 +29051,14 @@
           "optionsMarket": 0.072,
           "researchGrade": -0.008
         },
-        "confidence": 0.675,
+        "confidence": 0.7,
         "conviction": 0.286,
         "entryPrice": 25.46,
         "exitReason": "open",
         "instrument": "option",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 26.38,
+          "price": 27.12,
           "reason": "inside the plan: stop at −50%, take profit at +150%, roll off at 14 DTE",
           "catalyst": {
             "date": "2026-12-07",
@@ -29029,14 +29067,14 @@
           },
           "daysHeld": 6,
           "decision": "hold",
-          "scoreNow": 0.2330957219497936,
-          "returnPct": 20.15,
-          "markSource": "chain 2026-11-19T15:21",
-          "optionMark": 2.355,
+          "scoreNow": 0.25678410249590733,
+          "returnPct": 59.44,
+          "markSource": "chain 2026-11-19T20:21",
+          "optionMark": 3.125,
           "horizonClass": "medium"
         },
         "multiplier": 100,
-        "optionMark": 2.355,
+        "optionMark": 3.125,
         "optionType": "call",
         "priceBasis": "USD",
         "realizedPL": 0,
@@ -29067,13 +29105,13 @@
         "entryQuoteAt": "2026-11-11T15:00:25+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.411,
+        "longTermLean": 0.375,
         "optionExpiry": "2027-01-15",
         "optionMarkAt": "2026-11-19",
         "optionStrike": 26,
         "allocationPct": 1.95,
         "horizonReason": "mixed signals (lean 0.43)",
-        "lastMarketCap": 13308736671,
+        "lastMarketCap": 13682067418,
         "optionPremium": 1.96,
         "plannedExitBy": "2027-01-06",
         "regimeContext": {
@@ -29158,13 +29196,13 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 26.38,
+        "lastPriceLocal": 27.12,
         "primaryTrigger": "momentum",
         "entryPriceLocal": 25.46,
         "optionChainAsOf": "2026-11-11T14:52:32.976237Z",
         "optionContracts": 11,
         "optionStructure": "long_call",
-        "optionMarkSource": "chain 2026-11-19T15:21",
+        "optionMarkSource": "chain 2026-11-19T20:21",
         "signalsThatHelped": [
           "momentum",
           "crossAsset",
@@ -29177,7 +29215,7 @@
       },
       {
         "id": "EW-2026-11-12-runner-1794496082",
-        "pnl": -21.3,
+        "pnl": -59.61,
         "won": false,
         "fees": 1.97,
         "mode": "explore",
@@ -29321,7 +29359,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 104.77,
+            "price": 103.745,
             "reason": "minimum hold (5/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-02-09",
@@ -29330,8 +29368,8 @@
             },
             "daysHeld": 5,
             "decision": "hold",
-            "scoreNow": 0.23745333778400782,
-            "returnPct": -0.54,
+            "scoreNow": 0.27242347405797135,
+            "returnPct": -1.51,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -29352,7 +29390,7 @@
         "leverage": 1,
         "notional": 3936.87,
         "placedBy": "runner",
-        "scoreNow": 0.237,
+        "scoreNow": 0.272,
         "trimTier": 0,
         "cashAfter": 8126.27,
         "direction": "long",
@@ -29366,7 +29404,7 @@
           "employees": 16000,
           "fromPeakPct": -19.19
         },
-        "lastPrice": 104.77,
+        "lastPrice": 103.745,
         "peakPrice": 107.915,
         "rationale": [
           "CORE · conf 0.84 · score 0.41. Triggers: crossAsset +1.00, pattern +1.00, trend +0.71, peerGrade +0.63, momentum +0.41",
@@ -29387,14 +29425,14 @@
           "meanReversion": -0.254,
           "researchGrade": 0.131
         },
-        "confidence": 0.689,
+        "confidence": 0.718,
         "conviction": 0.412,
         "entryPrice": 105.34,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 104.77,
+          "price": 103.745,
           "reason": "minimum hold (5/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-02-09",
@@ -29403,8 +29441,8 @@
           },
           "daysHeld": 5,
           "decision": "hold",
-          "scoreNow": 0.23745333778400782,
-          "returnPct": -0.54,
+          "scoreNow": 0.27242347405797135,
+          "returnPct": -1.51,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -29440,10 +29478,10 @@
         "entryQuoteAt": "2026-11-12T15:00:09+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.514,
+        "longTermLean": 0.499,
         "allocationPct": 3.56,
         "horizonReason": "conf 0.84 on slow signals (lean 0.61)",
-        "lastMarketCap": 60242750189,
+        "lastMarketCap": 59653375189,
         "plannedExitBy": "2027-07-22",
         "regimeContext": {
           "fed": {
@@ -29527,7 +29565,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 104.77,
+        "lastPriceLocal": 103.745,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 105.34,
         "signalsThatHelped": [
@@ -29543,7 +29581,7 @@
       },
       {
         "id": "XOM-2026-11-12-runner-1794496082-opt",
-        "pnl": -721.3,
+        "pnl": -841.3,
         "won": false,
         "fees": 1.3,
         "mode": "explore",
@@ -29660,7 +29698,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 160.16,
+            "price": 158.905,
             "reason": "inside the plan: stop at −50%, take profit at +150%, roll off at 14 DTE",
             "catalyst": {
               "date": "2027-01-29",
@@ -29669,10 +29707,10 @@
             },
             "daysHeld": 5,
             "decision": "hold",
-            "scoreNow": 0.016530000058134778,
-            "returnPct": -38.92,
-            "markSource": "chain 2026-11-19T15:21",
-            "optionMark": 5.65,
+            "scoreNow": 0.005715522027770311,
+            "returnPct": -45.41,
+            "markSource": "chain 2026-11-19T20:21",
+            "optionMark": 5.05,
             "horizonClass": "medium"
           }
         ],
@@ -29702,7 +29740,7 @@
         "notional": 1850,
         "optionIV": 0.291,
         "placedBy": "runner",
-        "scoreNow": 0.017,
+        "scoreNow": 0.006,
         "trimTier": 0,
         "cashAfter": 6276.27,
         "direction": "long",
@@ -29716,14 +29754,14 @@
           "employees": 57900,
           "fromPeakPct": -22.8
         },
-        "lastPrice": 160.16,
+        "lastPrice": 158.905,
         "peakPrice": 171.37,
         "rationale": [
           "SWING · conf 0.84 · score 0.32. Triggers: crossAsset +0.59, peerGrade +0.50, fundamentals +0.47, health +0.44, researchGrade +0.40",
           "OPTION CALL 170.0 exp 2027-02-19 (99d) ×2 @ $9.25 ask · Δ 0.5263 · premium $1,850 = the most it can lose · conviction 0.84 · IV lower: IV percentile 0 of 23 days",
           "MEDIUM horizon (~40 sessions, min hold 5): conf 0.84 on slow signals (lean 0.94); steered long→medium (book 54% long vs 25% target) · earnings 2027-01-29 (78d, beat rate 0.875)"
         ],
-        "returnPct": -38.92,
+        "returnPct": -45.41,
         "stopPrice": null,
         "updatedAt": "2026-11-12T15:08:02+00:00",
         "components": {
@@ -29737,14 +29775,14 @@
           "meanReversion": 0,
           "researchGrade": 0.395
         },
-        "confidence": 0.493,
+        "confidence": 0.453,
         "conviction": 0.318,
         "entryPrice": 167.805,
         "exitReason": "open",
         "instrument": "option",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 160.16,
+          "price": 158.905,
           "reason": "inside the plan: stop at −50%, take profit at +150%, roll off at 14 DTE",
           "catalyst": {
             "date": "2027-01-29",
@@ -29753,14 +29791,14 @@
           },
           "daysHeld": 5,
           "decision": "hold",
-          "scoreNow": 0.016530000058134778,
-          "returnPct": -38.92,
-          "markSource": "chain 2026-11-19T15:21",
-          "optionMark": 5.65,
+          "scoreNow": 0.005715522027770311,
+          "returnPct": -45.41,
+          "markSource": "chain 2026-11-19T20:21",
+          "optionMark": 5.05,
           "horizonClass": "medium"
         },
         "multiplier": 100,
-        "optionMark": 5.65,
+        "optionMark": 5.05,
         "optionType": "call",
         "priceBasis": "USD",
         "realizedPL": 0,
@@ -29795,13 +29833,13 @@
         "entryQuoteAt": "2026-11-12T15:00:09+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.889,
+        "longTermLean": 0.861,
         "optionExpiry": "2027-02-19",
         "optionMarkAt": "2026-11-19",
         "optionStrike": 170,
         "allocationPct": 1.67,
         "horizonReason": "conf 0.84 on slow signals (lean 0.94); steered long→medium (book 54% long vs 25% target)",
-        "lastMarketCap": 653328305333,
+        "lastMarketCap": 648208880861,
         "optionPremium": 9.25,
         "plannedExitBy": "2027-01-07",
         "regimeContext": {
@@ -29886,13 +29924,13 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 160.16,
+        "lastPriceLocal": 158.905,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 167.805,
         "optionChainAsOf": "2026-11-12T14:50:54.534275Z",
         "optionContracts": 2,
         "optionStructure": "long_call",
-        "optionMarkSource": "chain 2026-11-19T15:21",
+        "optionMarkSource": "chain 2026-11-19T20:21",
         "signalsThatHelped": [
           "crossAsset",
           "peerGrade",
@@ -30317,7 +30355,7 @@
       },
       {
         "id": "MPC-2026-11-13-runner-1794582583",
-        "pnl": -310.37,
+        "pnl": -330.56,
         "won": false,
         "fees": 2.02,
         "mode": "explore",
@@ -30414,7 +30452,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 372.22,
+            "price": 370.21,
             "reason": "minimum hold (4/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-02-02",
@@ -30423,8 +30461,8 @@
             },
             "daysHeld": 4,
             "decision": "hold",
-            "scoreNow": 0.013893017610594237,
-            "returnPct": -7.66,
+            "scoreNow": 0.006771239266784339,
+            "returnPct": -8.16,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -30445,7 +30483,7 @@
         "leverage": 1,
         "notional": 4049.65,
         "placedBy": "runner",
-        "scoreNow": 0.014,
+        "scoreNow": 0.007,
         "trimTier": 0,
         "cashAfter": 9247.27,
         "direction": "long",
@@ -30470,7 +30508,7 @@
           "employees": 18500,
           "fromPeakPct": -68.05
         },
-        "lastPrice": 372.22,
+        "lastPrice": 370.21,
         "peakPrice": 413.04,
         "rationale": [
           "CORE · conf 0.78 · score 0.33. Triggers: crossAsset +0.61, peerGrade +0.57, researchGrade +0.45, momentum +0.45, health +0.43, fundamentals +0.41",
@@ -30491,14 +30529,14 @@
           "meanReversion": 0,
           "researchGrade": 0.452
         },
-        "confidence": 0.491,
+        "confidence": 0.454,
         "conviction": 0.331,
         "entryPrice": 403.115,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 372.22,
+          "price": 370.21,
           "reason": "minimum hold (4/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-02-02",
@@ -30507,8 +30545,8 @@
           },
           "daysHeld": 4,
           "decision": "hold",
-          "scoreNow": 0.013893017610594237,
-          "returnPct": -7.66,
+          "scoreNow": 0.006771239266784339,
+          "returnPct": -8.16,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -30548,10 +30586,10 @@
         "entryQuoteAt": "2026-11-13T15:00:09+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.799,
+        "longTermLean": 0.793,
         "allocationPct": 3.67,
         "horizonReason": "conf 0.78 on slow signals (lean 0.81)",
-        "lastMarketCap": 101348901002,
+        "lastMarketCap": 100801613669,
         "plannedExitBy": "2027-07-23",
         "regimeContext": {
           "fed": {
@@ -30636,7 +30674,7 @@
           "quadOfficial": 3
         },
         "dividendIncome": 11.05,
-        "lastPriceLocal": 372.22,
+        "lastPriceLocal": 370.21,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 403.115,
         "corporateActions": [
@@ -31430,7 +31468,7 @@
       },
       {
         "id": "BEAM-2026-11-16-runner-1794841851",
-        "pnl": 0,
+        "pnl": 69.08,
         "won": false,
         "fees": 0.55,
         "mode": "explore",
@@ -31517,7 +31555,7 @@
           },
           {
             "at": "2026-11-19",
-            "price": 22.08,
+            "price": 20.7,
             "reason": "minimum hold (3/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-02-23",
@@ -31526,8 +31564,8 @@
             },
             "daysHeld": 3,
             "decision": "hold",
-            "scoreNow": -0.3741341851207051,
-            "returnPct": 0,
+            "scoreNow": -0.322567151742766,
+            "returnPct": 6.25,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -31548,7 +31586,7 @@
         "leverage": 1,
         "notional": 1105.24,
         "placedBy": "runner",
-        "scoreNow": -0.374,
+        "scoreNow": -0.323,
         "trimTier": 0,
         "cashAfter": 11436.14,
         "direction": "short",
@@ -31562,7 +31600,7 @@
           "employees": 511,
           "fromPeakPct": 0
         },
-        "lastPrice": 22.08,
+        "lastPrice": 20.7,
         "peakPrice": 20.615,
         "rationale": [
           "CORE · conf 0.77 · score 0.32. Triggers: researchGrade -0.56, trend -0.47, momentum -0.44, crossAsset -0.43, peerGrade -0.36",
@@ -31591,14 +31629,14 @@
           "meanReversion": 0,
           "researchGrade": -0.558
         },
-        "confidence": 0.768,
+        "confidence": 0.702,
         "conviction": -0.319,
         "entryPrice": 22.08,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 22.08,
+          "price": 20.7,
           "reason": "minimum hold (3/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-02-23",
@@ -31607,8 +31645,8 @@
           },
           "daysHeld": 3,
           "decision": "hold",
-          "scoreNow": -0.3741341851207051,
-          "returnPct": 0,
+          "scoreNow": -0.322567151742766,
+          "returnPct": 6.25,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -31644,10 +31682,10 @@
         "entryQuoteAt": "2026-11-16T14:50:03+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.416,
+        "longTermLean": 0.401,
         "allocationPct": 1,
         "horizonReason": "conf 0.77 on slow signals (lean 0.66)",
-        "lastMarketCap": 2285183955,
+        "lastMarketCap": 2142359956,
         "plannedExitBy": "2027-07-26",
         "regimeContext": {
           "fed": {
@@ -31733,7 +31771,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 22.08,
+        "lastPriceLocal": 20.7,
         "primaryTrigger": "researchGrade",
         "entryPriceLocal": 22.08,
         "signalsThatHelped": [
@@ -32001,7 +32039,7 @@
       },
       {
         "id": "CC=F-2026-11-17-runner-1794928086",
-        "pnl": -2.7,
+        "pnl": 9.68,
         "won": false,
         "fees": 0.42,
         "mode": "explore",
@@ -32050,12 +32088,12 @@
           },
           {
             "at": "2026-11-19",
-            "price": 5247,
-            "reason": "thesis intact (aligned +0.29 in its direction)",
+            "price": 5169,
+            "reason": "signal faded to +0.19 - exits at the stop / target or the 10-session horizon",
             "daysHeld": 2,
             "decision": "hold",
-            "scoreNow": -0.290232602724094,
-            "returnPct": -0.33,
+            "scoreNow": -0.1851378909392562,
+            "returnPct": 1.17,
             "markSource": null,
             "horizonClass": "short"
           }
@@ -32149,7 +32187,7 @@
           ],
           "newsCoverage": 4
         },
-        "scoreNow": -0.29,
+        "scoreNow": -0.185,
         "trimTier": 0,
         "cashAfter": 16317.89,
         "direction": "short",
@@ -32157,7 +32195,7 @@
         "exitPrice": null,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 5247,
+        "lastPrice": 5169,
         "peakPrice": 5007,
         "rationale": [
           "SWING · conf 0.82 · score 0.39. Triggers: crossAsset -1.00, momentum -0.34",
@@ -32179,19 +32217,19 @@
           "crossAsset": -1,
           "meanReversion": 0
         },
-        "confidence": 0.744,
+        "confidence": 0.583,
         "conviction": -0.387,
         "entryPrice": 5230,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 5247,
-          "reason": "thesis intact (aligned +0.29 in its direction)",
+          "price": 5169,
+          "reason": "signal faded to +0.19 - exits at the stop / target or the 10-session horizon",
           "daysHeld": 2,
           "decision": "hold",
-          "scoreNow": -0.290232602724094,
-          "returnPct": -0.33,
+          "scoreNow": -0.1851378909392562,
+          "returnPct": 1.17,
           "markSource": null,
           "horizonClass": "short"
         },
@@ -32225,7 +32263,7 @@
         "entryQuoteAt": "2026-11-17T15:00:04+00:00",
         "entrySession": "regular",
         "horizonClass": "short",
-        "longTermLean": 0.159,
+        "longTermLean": 0.151,
         "allocationPct": 0.75,
         "horizonReason": "research-driven alt trade (tactical)",
         "lastMarketCap": null,
@@ -32312,7 +32350,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 5247,
+        "lastPriceLocal": 5169,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 5230,
         "signalsThatHelped": [
@@ -32325,7 +32363,7 @@
       },
       {
         "id": "HO=F-2026-11-17-runner-1794928086",
-        "pnl": 31.34,
+        "pnl": 26.62,
         "won": false,
         "fees": 0.38,
         "mode": "explore",
@@ -32374,12 +32412,12 @@
           },
           {
             "at": "2026-11-19",
-            "price": 3.8513,
-            "reason": "thesis intact (aligned +0.34 in its direction)",
+            "price": 3.876,
+            "reason": "signal faded to +0.22 - exits at the stop / target or the 10-session horizon",
             "daysHeld": 2,
             "decision": "hold",
-            "scoreNow": -0.3420517251162077,
-            "returnPct": 4.08,
+            "scoreNow": -0.21596718055665687,
+            "returnPct": 3.47,
             "markSource": null,
             "horizonClass": "short"
           }
@@ -32493,7 +32531,7 @@
           ],
           "newsCoverage": 12
         },
-        "scoreNow": -0.342,
+        "scoreNow": -0.216,
         "trimTier": 0,
         "cashAfter": 15550.13,
         "direction": "short",
@@ -32501,8 +32539,8 @@
         "exitPrice": null,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 3.8513,
-        "peakPrice": 3.8513,
+        "lastPrice": 3.876,
+        "peakPrice": 3.8225,
         "rationale": [
           "SWING · conf 0.88 · score 0.38. Triggers: crossAsset -1.00, trend -0.59",
           "SHORT horizon (~10 sessions, min hold 2): research-driven alt trade (tactical)",
@@ -32523,19 +32561,19 @@
           "crossAsset": -1,
           "meanReversion": 0.041
         },
-        "confidence": 0.675,
+        "confidence": 0.551,
         "conviction": -0.38,
         "entryPrice": 4.0152,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 3.8513,
-          "reason": "thesis intact (aligned +0.34 in its direction)",
+          "price": 3.876,
+          "reason": "signal faded to +0.22 - exits at the stop / target or the 10-session horizon",
           "daysHeld": 2,
           "decision": "hold",
-          "scoreNow": -0.3420517251162077,
-          "returnPct": 4.08,
+          "scoreNow": -0.21596718055665687,
+          "returnPct": 3.47,
           "markSource": null,
           "horizonClass": "short"
         },
@@ -32557,9 +32595,9 @@
         "minHoldDays": 2,
         "researchNow": {
           "date": "2026-11-19",
-          "aligned": 0.24,
+          "aligned": 0.233,
           "components": {
-            "news": 0.188,
+            "news": 0.22,
             "drivers": -0.515,
             "seasonality": -0.449,
             "supplyChain": -0.17
@@ -32569,7 +32607,7 @@
         "entryQuoteAt": "2026-11-17T15:00:04+00:00",
         "entrySession": "regular",
         "horizonClass": "short",
-        "longTermLean": 0.128,
+        "longTermLean": 0.123,
         "allocationPct": 0.69,
         "horizonReason": "research-driven alt trade (tactical)",
         "lastMarketCap": null,
@@ -32656,7 +32694,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 3.8513,
+        "lastPriceLocal": 3.876,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 4.0152,
         "signalsThatHelped": [
@@ -32675,7 +32713,7 @@
           "underlying": "equity",
           "dragPerSession": 0.002779
         },
-        "pnl": -11.58,
+        "pnl": 194.72,
         "won": false,
         "fees": 1.45,
         "mode": "explore",
@@ -32725,12 +32763,12 @@
           },
           {
             "at": "2026-11-19",
-            "price": 46.035,
+            "price": 49.33,
             "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
             "daysHeld": 1,
             "decision": "hold",
-            "scoreNow": 0.19033167757664296,
-            "returnPct": -0.4,
+            "scoreNow": 0.11981224600309928,
+            "returnPct": 6.73,
             "markSource": null,
             "horizonClass": "short"
           }
@@ -32742,7 +32780,7 @@
         "leverage": 1,
         "notional": 2893.89,
         "placedBy": "runner",
-        "scoreNow": 0.19,
+        "scoreNow": 0.12,
         "trimTier": 0,
         "cashAfter": 19138.92,
         "direction": "long",
@@ -32750,8 +32788,8 @@
         "exitPrice": null,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 46.035,
-        "peakPrice": 47.14,
+        "lastPrice": 49.33,
+        "peakPrice": 49.33,
         "rationale": [
           "SWING · conf 0.95 · score 0.67. Triggers: crossAsset +0.99, trend +0.91, momentum +0.57, optionsIV +0.50",
           "SHORT horizon (~10 sessions, min hold 2): daily-reset -3x product: short horizon, held only while its signal is >= 0.10 in its direction"
@@ -32771,19 +32809,19 @@
           "crossAsset": 0.995,
           "meanReversion": 0
         },
-        "confidence": 0.586,
+        "confidence": 0.495,
         "conviction": 0.672,
         "entryPrice": 46.22,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 46.035,
+          "price": 49.33,
           "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
           "daysHeld": 1,
           "decision": "hold",
-          "scoreNow": 0.19033167757664296,
-          "returnPct": -0.4,
+          "scoreNow": 0.11981224600309928,
+          "returnPct": 6.73,
           "markSource": null,
           "horizonClass": "short"
         },
@@ -32903,7 +32941,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 46.035,
+        "lastPriceLocal": 49.33,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 46.22,
         "signalsThatHelped": [
@@ -33272,7 +33310,7 @@
           "underlying": "commodity",
           "dragPerSession": 0.002539
         },
-        "pnl": 39.33,
+        "pnl": 94.31,
         "won": false,
         "fees": 0.89,
         "mode": "explore",
@@ -33322,12 +33360,12 @@
           },
           {
             "at": "2026-11-19",
-            "price": 47.7,
+            "price": 49.14,
             "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
             "daysHeld": 1,
             "decision": "hold",
-            "scoreNow": 0.42743153832375924,
-            "returnPct": 2.21,
+            "scoreNow": 0.4360701688319182,
+            "returnPct": 5.29,
             "markSource": null,
             "horizonClass": "short"
           }
@@ -33339,7 +33377,7 @@
         "leverage": 1,
         "notional": 1781.96,
         "placedBy": "runner",
-        "scoreNow": 0.427,
+        "scoreNow": 0.436,
         "trimTier": 0,
         "cashAfter": 16721.98,
         "direction": "long",
@@ -33353,8 +33391,8 @@
           "employees": 957,
           "fromPeakPct": 0
         },
-        "lastPrice": 47.7,
-        "peakPrice": 47.7,
+        "lastPrice": 49.14,
+        "peakPrice": 49.14,
         "rationale": [
           "SWING · conf 0.65 · score 0.42. Triggers: trend +1.00, momentum +0.99",
           "SHORT horizon (~10 sessions, min hold 2): daily-reset -2x product: short horizon, held only while its signal is >= 0.10 in its direction"
@@ -33373,19 +33411,19 @@
           "optionsIV": -1,
           "meanReversion": 0
         },
-        "confidence": 0.658,
+        "confidence": 0.663,
         "conviction": 0.419,
         "entryPrice": 46.67,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 47.7,
+          "price": 49.14,
           "reason": "minimum hold (1/2 sessions) - only a −12% move closes it",
           "daysHeld": 1,
           "decision": "hold",
-          "scoreNow": 0.42743153832375924,
-          "returnPct": 2.21,
+          "scoreNow": 0.4360701688319182,
+          "returnPct": 5.29,
           "markSource": null,
           "horizonClass": "short"
         },
@@ -33497,7 +33535,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 47.7,
+        "lastPriceLocal": 49.14,
         "primaryTrigger": "trend",
         "entryPriceLocal": 46.67,
         "signalsThatHelped": [
@@ -33511,7 +33549,7 @@
       {
         "id": "VALE-2026-11-19-runner-1795100984",
         "etp": null,
-        "pnl": 7.11,
+        "pnl": 34.68,
         "won": false,
         "fees": 0.89,
         "mode": "explore",
@@ -33550,7 +33588,7 @@
         "reviews": [
           {
             "at": "2026-11-19",
-            "price": 10,
+            "price": 9.845,
             "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
             "catalyst": {
               "date": "2027-02-11",
@@ -33559,8 +33597,8 @@
             },
             "daysHeld": 0,
             "decision": "hold",
-            "scoreNow": -0.40414616041317436,
-            "returnPct": 0.4,
+            "scoreNow": -0.39951238867814637,
+            "returnPct": 1.94,
             "markSource": null,
             "horizonClass": "medium"
           }
@@ -33581,7 +33619,7 @@
         "leverage": 1,
         "notional": 1785.48,
         "placedBy": "runner",
-        "scoreNow": -0.404,
+        "scoreNow": -0.4,
         "trimTier": 0,
         "cashAfter": 32517.94,
         "direction": "short",
@@ -33595,8 +33633,8 @@
           "employees": 65805,
           "fromPeakPct": 0
         },
-        "lastPrice": 10,
-        "peakPrice": 10,
+        "lastPrice": 9.845,
+        "peakPrice": 9.845,
         "rationale": [
           "SWING · conf 0.89 · score 0.41. Triggers: crossAsset -1.00, trend -0.96, momentum -0.71, optionsIV -0.56, peerGrade -0.48",
           "MEDIUM horizon (~40 sessions, min hold 5): mixed signals (lean 0.42) · exploratory size · earnings 2027-02-11 (84d, beat rate 0.25)"
@@ -33629,14 +33667,14 @@
           "meanReversion": 0,
           "researchGrade": -0.076
         },
-        "confidence": 0.886,
+        "confidence": 0.883,
         "conviction": -0.412,
         "entryPrice": 10.04,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 10,
+          "price": 9.845,
           "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
           "catalyst": {
             "date": "2027-02-11",
@@ -33645,8 +33683,8 @@
           },
           "daysHeld": 0,
           "decision": "hold",
-          "scoreNow": -0.40414616041317436,
-          "returnPct": 0.4,
+          "scoreNow": -0.39951238867814637,
+          "returnPct": 1.94,
           "markSource": null,
           "horizonClass": "medium"
         },
@@ -33683,11 +33721,11 @@
         "entryQuoteAt": "2026-11-19T14:50:03+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.488,
+        "longTermLean": 0.476,
         "allocationPct": 1.62,
         "creditAtEntry": null,
         "horizonReason": "mixed signals (lean 0.42)",
-        "lastMarketCap": 42557636384,
+        "lastMarketCap": 41897993022,
         "plannedExitBy": "2027-01-14",
         "regimeContext": {
           "fed": {
@@ -33771,7 +33809,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 10,
+        "lastPriceLocal": 9.845,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 10.04,
         "signalsThatHelped": [
@@ -34133,7 +34171,7 @@
       {
         "id": "COIN-2026-11-19-runner-1795100984",
         "etp": null,
-        "pnl": 29.08,
+        "pnl": 72.86,
         "won": false,
         "fees": 1.16,
         "mode": "explore",
@@ -34172,7 +34210,7 @@
         "reviews": [
           {
             "at": "2026-11-19",
-            "price": 111.78,
+            "price": 109.635,
             "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
             "catalyst": {
               "date": "2027-02-11",
@@ -34181,8 +34219,8 @@
             },
             "daysHeld": 0,
             "decision": "hold",
-            "scoreNow": -0.3632567992950047,
-            "returnPct": 1.26,
+            "scoreNow": -0.31709638408791,
+            "returnPct": 3.15,
             "markSource": null,
             "horizonClass": "medium"
           }
@@ -34203,7 +34241,7 @@
         "leverage": 1,
         "notional": 2310.29,
         "placedBy": "runner",
-        "scoreNow": -0.363,
+        "scoreNow": -0.317,
         "trimTier": 0,
         "cashAfter": 29536.54,
         "direction": "short",
@@ -34217,8 +34255,8 @@
           "employees": 4951,
           "fromPeakPct": 0
         },
-        "lastPrice": 111.78,
-        "peakPrice": 111.78,
+        "lastPrice": 109.635,
+        "peakPrice": 109.635,
         "rationale": [
           "SWING · conf 0.76 · score 0.36. Triggers: trend -1.00, momentum -0.79, crossAsset -0.67, optionsIV -0.55, peerGrade -0.50",
           "MEDIUM horizon (~40 sessions, min hold 5): mixed signals (lean 0.39) · earnings 2027-02-11 (84d, beat rate 0.5)"
@@ -34250,14 +34288,14 @@
           "meanReversion": 0.167,
           "researchGrade": -0.166
         },
-        "confidence": 0.762,
+        "confidence": 0.744,
         "conviction": -0.359,
         "entryPrice": 113.205,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 111.78,
+          "price": 109.635,
           "reason": "minimum hold (0/5 sessions) - only a −18% move closes it",
           "catalyst": {
             "date": "2027-02-11",
@@ -34266,8 +34304,8 @@
           },
           "daysHeld": 0,
           "decision": "hold",
-          "scoreNow": -0.3632567992950047,
-          "returnPct": 1.26,
+          "scoreNow": -0.31709638408791,
+          "returnPct": 3.15,
           "markSource": null,
           "horizonClass": "medium"
         },
@@ -34304,11 +34342,11 @@
         "entryQuoteAt": "2026-11-19T15:00:04+00:00",
         "entrySession": "regular",
         "horizonClass": "medium",
-        "longTermLean": 0.385,
+        "longTermLean": 0.321,
         "allocationPct": 2.1,
         "creditAtEntry": null,
         "horizonReason": "mixed signals (lean 0.39)",
-        "lastMarketCap": 29595254820,
+        "lastMarketCap": 29027337291,
         "plannedExitBy": "2027-01-14",
         "regimeContext": {
           "fed": {
@@ -34392,7 +34430,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 111.78,
+        "lastPriceLocal": 109.635,
         "primaryTrigger": "trend",
         "entryPriceLocal": 113.205,
         "signalsThatHelped": [
@@ -34409,7 +34447,7 @@
       {
         "id": "MOS-2026-11-19-runner-1795100984",
         "etp": null,
-        "pnl": 24.51,
+        "pnl": 2.69,
         "won": false,
         "fees": 0.53,
         "mode": "explore",
@@ -34448,7 +34486,7 @@
         "reviews": [
           {
             "at": "2026-11-19",
-            "price": 19.3,
+            "price": 19.705,
             "reason": "minimum hold (0/15 sessions) - only a −25% move closes it",
             "catalyst": {
               "date": "2027-02-23",
@@ -34457,8 +34495,8 @@
             },
             "daysHeld": 0,
             "decision": "hold",
-            "scoreNow": -0.3012497664201991,
-            "returnPct": 2.3,
+            "scoreNow": -0.2976745090816936,
+            "returnPct": 0.25,
             "markSource": null,
             "horizonClass": "long"
           }
@@ -34479,7 +34517,7 @@
         "leverage": 1,
         "notional": 1064.02,
         "placedBy": "runner",
-        "scoreNow": -0.301,
+        "scoreNow": -0.298,
         "trimTier": 0,
         "cashAfter": 28472.52,
         "direction": "short",
@@ -34493,7 +34531,7 @@
           "employees": 13249,
           "fromPeakPct": -5.69
         },
-        "lastPrice": 19.3,
+        "lastPrice": 19.705,
         "peakPrice": 19.3,
         "rationale": [
           "CORE · conf 0.71 · score 0.31. Triggers: crossAsset -1.00, peerGrade -0.71, momentum -0.41, trend -0.34",
@@ -34524,14 +34562,14 @@
           "meanReversion": 0,
           "researchGrade": -0.262
         },
-        "confidence": 0.715,
+        "confidence": 0.768,
         "conviction": -0.314,
         "entryPrice": 19.755,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 19.3,
+          "price": 19.705,
           "reason": "minimum hold (0/15 sessions) - only a −25% move closes it",
           "catalyst": {
             "date": "2027-02-23",
@@ -34540,8 +34578,8 @@
           },
           "daysHeld": 0,
           "decision": "hold",
-          "scoreNow": -0.3012497664201991,
-          "returnPct": 2.3,
+          "scoreNow": -0.2976745090816936,
+          "returnPct": 0.25,
           "markSource": null,
           "horizonClass": "long"
         },
@@ -34574,11 +34612,11 @@
         "entryQuoteAt": "2026-11-19T14:50:03+00:00",
         "entrySession": "regular",
         "horizonClass": "long",
-        "longTermLean": 0.701,
+        "longTermLean": 0.689,
         "allocationPct": 0.97,
         "creditAtEntry": null,
         "horizonReason": "conf 0.71 on slow signals (lean 0.73)",
-        "lastMarketCap": 6135540325,
+        "lastMarketCap": 6264291299,
         "plannedExitBy": "2027-07-29",
         "regimeContext": {
           "fed": {
@@ -34662,7 +34700,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 19.3,
+        "lastPriceLocal": 19.705,
         "primaryTrigger": "crossAsset",
         "entryPriceLocal": 19.755,
         "signalsThatHelped": [
@@ -34678,7 +34716,7 @@
       {
         "id": "GC=F-2026-11-19-runner-1795100984",
         "etp": null,
-        "pnl": 7.4,
+        "pnl": 21.07,
         "won": false,
         "fees": 0.96,
         "mode": "explore",
@@ -34705,12 +34743,12 @@
         "reviews": [
           {
             "at": "2026-11-19",
-            "price": 3699.100098,
+            "price": 3672.699951,
             "reason": "minimum hold (0/2 sessions) - only a −12% move closes it",
             "daysHeld": 0,
             "decision": "hold",
-            "scoreNow": -0.30652579460291857,
-            "returnPct": 0.39,
+            "scoreNow": -0.20218578780382254,
+            "returnPct": 1.1,
             "markSource": null,
             "horizonClass": "short"
           }
@@ -34819,7 +34857,7 @@
           ],
           "newsCoverage": 35
         },
-        "scoreNow": -0.307,
+        "scoreNow": -0.202,
         "trimTier": 0,
         "cashAfter": 26549.72,
         "direction": "short",
@@ -34827,8 +34865,8 @@
         "exitPrice": null,
         "fxAtEntry": 1,
         "headcount": null,
-        "lastPrice": 3699.100098,
-        "peakPrice": 3699.1001,
+        "lastPrice": 3672.699951,
+        "peakPrice": 3671.6001,
         "rationale": [
           "SWING · conf 0.75 · score 0.23. Triggers: momentum -0.54, trend -0.44",
           "SHORT horizon (~10 sessions, min hold 2): research-driven alt trade (tactical)",
@@ -34849,19 +34887,19 @@
           "crossAsset": -0.17,
           "meanReversion": 0
         },
-        "confidence": 0.754,
+        "confidence": 0.593,
         "conviction": -0.228,
         "entryPrice": 3713.399902,
         "exitReason": "open",
         "instrument": "shares",
         "lastReview": {
           "at": "2026-11-19",
-          "price": 3699.100098,
+          "price": 3672.699951,
           "reason": "minimum hold (0/2 sessions) - only a −12% move closes it",
           "daysHeld": 0,
           "decision": "hold",
-          "scoreNow": -0.30652579460291857,
-          "returnPct": 0.39,
+          "scoreNow": -0.20218578780382254,
+          "returnPct": 1.1,
           "markSource": null,
           "horizonClass": "short"
         },
@@ -34886,7 +34924,7 @@
         "entryQuoteAt": "2026-11-19T15:00:04+00:00",
         "entrySession": "regular",
         "horizonClass": "short",
-        "longTermLean": 0.149,
+        "longTermLean": 0.142,
         "allocationPct": 1.75,
         "creditAtEntry": null,
         "horizonReason": "research-driven alt trade (tactical)",
@@ -34974,7 +35012,7 @@
           },
           "quadOfficial": 3
         },
-        "lastPriceLocal": 3699.100098,
+        "lastPriceLocal": 3672.699951,
         "primaryTrigger": "momentum",
         "entryPriceLocal": 3713.399902,
         "signalsThatHelped": [
@@ -35073,6 +35111,10 @@
       {
         "date": "2026-11-19",
         "value": 94004.2
+      },
+      {
+        "date": "2026-11-20",
+        "value": 94745.48
       }
     ],
     "transactions": [
@@ -35094,29 +35136,29 @@
     "learnedWeights": {
       "fed": 0.9604,
       "sbc": 0.965,
-      "trend": 0.7241,
+      "trend": 0.743,
       "health": 0.6243,
-      "pattern": 0.6047,
+      "pattern": 0.6287,
       "catalyst": 0.9481,
-      "momentum": 0.6251,
+      "momentum": 0.639,
       "optionsIV": 0.9807,
       "peerGrade": 0.5731,
-      "crossAsset": 1.3238,
+      "crossAsset": 1.39,
       "supplyChain": 0.9999,
       "trendEngine": 1.067,
       "fundamentals": 0.6397,
       "institutional": 1.0197,
       "meanReversion": 1.0347,
       "momentumGrade": 1.0709,
-      "optionsMarket": 0.666,
+      "optionsMarket": 0.6807,
       "researchGrade": 0.7386,
       "earningsRecency": 0.9777,
       "peerRelativeStrength": 1.1126
     },
-    "runnerJournalAt": "2026-11-19T15:36:32.358518+00:00",
-    "mirroredAt": "2026-11-19T16:01:42.541Z",
+    "runnerJournalAt": "2026-11-19T20:35:34.235129+00:00",
+    "mirroredAt": "2026-11-20T12:55:15.056Z",
     "learning": {
-      "at": "2026-11-19T15:36:19Z",
+      "at": "2026-11-19T20:35:29Z",
       "flat": 2,
       "rate": 0.05,
       "rule": "replay every closed trade: x(1 +/- 0.05 x |signal|) toward signals that leaned the winning way; flat = no lesson; regime signals only when dialed in and right; forced exits x0.5; weights kept in 0.25..4",
@@ -35124,10 +35166,10 @@
         0.25,
         4
       ],
-      "closed": 83,
+      "closed": 84,
       "forced": 6,
-      "nudges": 476,
-      "taught": 52,
+      "nudges": 481,
+      "taught": 53,
       "changed": [],
       "weakest": [
         [
@@ -35135,19 +35177,19 @@
           0.5731
         ],
         [
-          "pattern",
-          0.6047
-        ],
-        [
           "health",
           0.6243
+        ],
+        [
+          "pattern",
+          0.6287
         ]
       ],
       "noSignals": 29,
       "strongest": [
         [
           "crossAsset",
-          1.3238
+          1.39
         ],
         [
           "peerRelativeStrength",
@@ -35164,21 +35206,21 @@
   "botWeights": {
     "fed": 0.9604,
     "sbc": 0.965,
-    "trend": 0.7241,
+    "trend": 0.743,
     "health": 0.6243,
-    "pattern": 0.6047,
+    "pattern": 0.6287,
     "catalyst": 0.9481,
-    "momentum": 0.6251,
+    "momentum": 0.639,
     "optionsIV": 0.9807,
     "peerGrade": 0.5731,
-    "crossAsset": 1.3238,
+    "crossAsset": 1.39,
     "supplyChain": 0.9999,
     "trendEngine": 1.067,
     "fundamentals": 0.6397,
     "institutional": 1.0197,
     "meanReversion": 1.0347,
     "momentumGrade": 1.0709,
-    "optionsMarket": 0.666,
+    "optionsMarket": 0.6807,
     "researchGrade": 0.7386,
     "earningsRecency": 0.9777,
     "peerRelativeStrength": 1.1126
