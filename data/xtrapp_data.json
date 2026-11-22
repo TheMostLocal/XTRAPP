@@ -1,6 +1,6 @@
 {
   "_schema": "valuatio-xtrapp-v1",
-  "updatedAt": "2026-11-22T14:38:03.092Z",
+  "updatedAt": "2026-11-22T18:38:39.237Z",
   "lexicon": {
     "bull": {
       "buy": 2,
@@ -37240,7 +37240,7 @@
       "warning": 0.9935
     },
     "runnerJournalAt": "2026-11-20T20:35:11.637244+00:00",
-    "mirroredAt": "2026-11-22T14:37:55.707Z",
+    "mirroredAt": "2026-11-22T18:37:54.293Z",
     "learning": {
       "closed": 89,
       "taught": 58,
